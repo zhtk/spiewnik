@@ -1,0 +1,83 @@
+id: skrzypki
+title: Skrzypki
+category: sailors
+key: Em
+tags: [szanta, morze, taniec]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdy do wora spakowałem już
+        chords: "Em D Em G D Em"
+      - text: 'Wszystko, co na świecie mam:'
+        chords: "G D C Bm Em"
+      - text: Zbiór pamiątek z egzotycznych mórz,
+        chords: "G D Em"
+      - text: Butle rumu, wina dzban.
+
+  - type: verse
+    label: Zwrotka 1 (cd.)
+    lines:
+      - text: Jeszcze tylko raz spojrzę dziś na port,
+        chords: "Em D Em G D Em"
+      - text: Jutro odpływamy w dal.
+        chords: "G D C Bm Em"
+      - text: Jak to dobrze, że są obok mnie
+        chords: "G D Em"
+      - text: Moje skrzypki, stary wrak.
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Kiedy biorę w dłonie skrzypki swe
+        chords: "Em D Em G D Em"
+      - text: I one zaczynają grać,
+        chords: "G D C Bm Em"
+      - text: Wszyscy tańczą skoczną polkę tą
+        chords: "G D Em"
+      - text: Razem do białego dnia
+
+  - type: verse
+    label: Zwrotka 2 (cd. refrenu)
+    lines:
+      - text: One grają mi, gdzie pojawię się
+        chords: "Em D Em G D Em"
+      - text: I do tańca dają znak.
+        chords: "G D C Bm Em"
+      - text: Nuty z wielu znanych pieśni grają,
+        chords: "G D Em"
+      - text: A w większości szant.
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Kiedy lajba ma wita nowy świat
+        chords: "Em D Em G D Em"
+      - text: To przypominają mi,
+        chords: "G D C Bm Em"
+      - text: Że daleko gdzieś czeka zawsze ktoś
+        chords: "G D Em"
+      - text: Abym zagrał jeszcze raz.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Kiedy smykiem ciągnę polki rytm
+        chords: "Em D Em G D Em"
+      - text: A palce zaczynają biec
+        chords: "G D C Bm Em"
+      - text: Wszystko wkoło jakby lepsze jest
+        chords: "G D Em"
+      - text: I raźniej żyje się.
+
+  - type: verse
+    label: Zwrotka 3 (cd.)
+    lines:
+      - text: A po rejsie, gdy rozpakuję wór,
+        chords: "Em D Em G D Em"
+      - text: I osuszę rumu dzban,
+        chords: "G D C Bm Em"
+      - text: Stare skrzypki znów przypomną mi,
+        chords: "G D Em"
+      - text: Aby nogi poszły w tan.

@@ -1,0 +1,51 @@
+id: dziesiec-beauforta
+title: Dziesięć w skali Beauforta
+category: sailors
+key: Am
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Kołysał nas zachodni wiatr,
+        chords: "Am Dm"
+      - text: Brzeg gdzieś za rufą został.
+        chords: "E7 Am"
+      - text: I nagle ktoś jak papier zbladł -
+        chords: "Am B7 E7"
+      - text: '"Sztorm idzie, Panie Bosman!"'
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: A bosman tylko zapiął płaszcz
+        chords: "F C F C"
+      - text: 'I zaklął - "Ech, do czorta!'
+        chords: "F E7 Am"
+      - text: 'Nie daje lajbie żadnych szans."'
+        chords: "F G Am E7"
+      - text: Dziesięć w skali Beauforta!
+        chords: "Am Dm E7 Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Z zasłony ołowianych chmur
+        chords: "Am Dm"
+      - text: Ulewa spadła nagle.
+        chords: "E7 Am"
+      - text: Rzucało nami w górę, w dół
+        chords: "Am B7 E7"
+      - text: I fala zmyła żagle.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: O pokład znów uderzył deszcz
+        chords: "Am Dm"
+      - text: I padał już do rana.
+        chords: "E7 Am"
+      - text: Piekielnie ciężki to był rejs,
+        chords: "Am B7 E7"
+      - text: Szczególnie dla bosmana.

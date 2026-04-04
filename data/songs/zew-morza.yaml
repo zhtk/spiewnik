@@ -1,0 +1,54 @@
+id: zew-morza
+title: Zew morza (Kołek)
+category: sailors
+key: D
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Kiedy w życiu coś nie wyjdzie, gdy dziewczyna rzuci Cię,
+        chords: "D A"
+      - text: Wtedy bracie się nie przejmuj, nie załamuj się.
+        chords: "Em G D"
+      - text: Pomyśl sobie, że masz teraz naście lat,
+        chords: "D A"
+      - text: Tyle dróg przed tobą jeszcze czeka cały świat.
+        chords: "Em G D"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Nie siedź w domu jak kołek wiosło w rękę chwyć,
+        chords: "Em G D"
+      - text: Ruszaj z nami na morze, tam zaczniesz żyć.
+        chords: "Em G D"
+      - text: Nie siedź w domu jak kołek wiosło w rękę chwyć,
+        chords: "Em G D"
+      - text: Ruszaj z nami na morze...
+        chords: "Em G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: A w tawernie jak w tawernie kiedy pić się chce,
+        chords: "D A"
+      - text: Butle rumu ktoś postawi nie jest wtedy źle.
+        chords: "Em G D"
+      - text: I nie przejmuj się, gdy rano kac przywita cię,
+        chords: "D A"
+      - text: I kopniakiem znów na pokład ktoś zagoni wnet.
+        chords: "Em G D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Morze będzie Twoim domem słońce ciepło da,
+        chords: "D A"
+      - text: Spanie zaś na deku statku też swój urok ma.
+        chords: "Em G D"
+      - text: Z wiatrem będziesz krzyczał w głos, a kiedy przyjdzie czas
+        chords: "D A"
+      - text: Pożeglujesz hen, w nieznane aby odkryć świat.
+        chords: "Em G D"

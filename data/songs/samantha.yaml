@@ -1,0 +1,86 @@
+id: samantha
+title: Samantha
+category: sailors
+key: Am
+tags: [szanta, mazury, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Ty nie jesteś kliprem sławnym
+        chords: "Am G Am"
+      - text: '"Cutty Sark" czy "Betty Lou",'
+        chords: "Am G Am"
+      - text: W Pacyfiku portach gwarnych
+        chords: "F G Am"
+      - text: Nie zahuczy w głowie rum.
+        chords: "F G"
+      - text: Nie dla Ciebie są cyklony,
+        chords: "Am"
+      - text: Hornu także nie opłyniesz,
+        chords: "Am G Am"
+      - text: W rejsie sławnym i szalonym,
+        chords: "Am G Am"
+      - text: W szancie starej nie zaginiesz.
+        chords: "F G Am"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Hej "Samantha", hej "Samantha",
+        chords: "Am G Am"
+      - text: Kiedy wiatr Ci gra na wantach,
+        chords: "Am G Am"
+      - text: Gdy rysujesz wody taflę,
+        chords: "F G Am"
+      - text: Moje serce masz pod gaflem.
+        chords: "F G Am"
+      - text: Czasem ciężko prujesz wodę
+        chords: "Am G Am"
+      - text: I twe żagle już nie nowe.
+        chords: "Am G Am"
+      - text: Jesteś lajbą pełną wzruszeń,
+        chords: "F G Am"
+      - text: Jesteś lajbą... co ma duszę.
+        chords: "F G Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Ale teraz wyznać pora,
+        chords: "Am G Am"
+      - text: Chociaż nie wiem czemu, psiakosc,
+        chords: "Am G Am"
+      - text: Gdy Cię nie ma na jeziorach,
+        chords: "F G Am"
+      - text: Na jeziorach pusto jakoś.
+        chords: "F G Am"
+      - text: Gdy w wieczornej przyjdzie porze
+        chords: "Am G Am"
+      - text: Śpiewać zwrotki piosnki złudnej,
+        chords: "Am G Am"
+      - text: Gdy Cię nie ma na jeziorze,
+        chords: "F G Am"
+      - text: To Mazury nie są cudne.
+        chords: "F G Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Czasem, kiedyś już zmęczona,
+        chords: "Am G Am"
+      - text: W chwili krótkiej przyjemności,
+        chords: "Am G Am"
+      - text: W złotych słońca stu ramionach
+        chords: "F G Am"
+      - text: Ty wygrzewasz stare kości.
+        chords: "F G Am"
+      - text: A gdy przyjdzie kres Twych dróg,
+        chords: "Am G Am"
+      - text: Nie zapłaczę na pogrzebie,
+        chords: "Am G Am"
+      - text: Wiem, że sprawi dobry Bóg,
+        chords: "F G Am"
+      - text: Byś pływała dalej w niebie.
+        chords: "F G Am"

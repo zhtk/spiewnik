@@ -1,0 +1,70 @@
+id: prowadz-nas
+title: Prowadź nas
+category: sailors
+key: C
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Prowadź nas, drogą swą niezbadaną,
+        chords: "C Am C"
+      - text: Niech burty twe okrągłe tak
+        chords: "Am C"
+      - text: Kołyszą wciąż tak samo.
+        chords: "G"
+      - text: Prowadź nas, prowadź lajbo ma
+        chords: "C Am C"
+      - text: Kochana ma, ostatni raz
+        chords: "Am C"
+      - text: Po złoto prowadź nas.
+        chords: "Am F C"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Za rufą pozostawić już latarni trzeba blask,
+        chords: "C Am C"
+      - text: Zobaczyć, czy nie zwiodła nas, zdążymy, przyjdzie czas.
+        chords: "Am C G"
+      - text: I kobiet płacz pamiętać przyjdzie długich nocy sto
+        chords: "C Am C"
+      - text: A gdy zatęsknisz - grogu dzban wypijesz aż po dno.
+        chords: "Am F C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Gdy "Ciągnąć fały!" bosman rzekł, przed nami drogi szmat
+        chords: "C Am C"
+      - text: Po złoto Kalifornii płyńmy, pod nogami świat.
+        chords: "Am C G"
+      - text: Kabestan jeczy, chłodem bije porannej bryzy smak,
+        chords: "C Am C"
+      - text: Płyniemy tam, gdzie złoty piach, to twój fortuny znak.
+        chords: "Am F C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A gdy powrócić w domu progi pozwoli dobry Bóg,
+        chords: "C Am C"
+      - text: To zapomniany uśmiech twój zobaczyć będę mógł.
+        chords: "Am C G"
+      - text: To powiesz mi, że miałem szczęście, bo wierna byłaś mi,
+        chords: "C Am C"
+      - text: A złoty piach nic nie wart jest, bo szczęścia nie da ci.
+        chords: "Am F C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: I chociaż deszcz, chociaż klniesz na swój los
+        chords: "C Am C"
+      - text: Ciągle chwytasz wspomnienia za nos
+        chords: "Am C G"
+      - text: A ta lajba co żale twe zna,
+        chords: "C Am C"
+      - text: Do przodu ciągle gna.
+        chords: "Am F C"

@@ -1,0 +1,78 @@
+id: tancowanie
+title: Tańcowanie
+category: sailors
+key: D
+tags: [szanta, taniec, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Kiedy forsy nie masz, kiedy głowa Cię boli,
+        chords: "D A D A"
+      - text: Kiedy żona hetera płynąć w rejs nie pozwoli,
+        chords: "D D D"
+      - text: Kiedy dzieci płaczą i jest bardzo źle -
+        chords: "A D A"
+      - text: Tańcz z nami bracie i nie przejmuj się.
+        chords: "D A"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: I... Tańcz, tańcz, tańcz z nami i Ty,
+        chords: "D A D A"
+      - text: Tańcz z nami bracie, by wióry szły,
+        chords: "D D"
+      - text: Wypij aż do dna za przygody złe,
+        chords: "A D A"
+      - text: Tańcz z nami bracie i nie przejmuj się.
+        chords: "D A"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Kiedy wiatr ucichnie, płynąć nie ma nadziei,
+        chords: "D A D A"
+      - text: Wtedy z bracia żeglarską diabeł hula na kei,
+        chords: "D D D"
+      - text: Beczki piwa z knajpy czart wytacza dwie,
+        chords: "A D A"
+      - text: A pijany żeglarz zaraz tańczyć chce.
+        chords: "D A"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Tańczą rybki w morzu i dziewuszki na plaży,
+        chords: "D A D A"
+      - text: Cała knajpa tańczy z pijaniutkim żeglarzem.
+        chords: "D D D"
+      - text: Patrz - na stole tańczą białe myszki dwie,
+        chords: "A D A"
+      - text: Skaczą sobie miło i nie przejmują się.
+        chords: "D A"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Tańczy Jimmy i Johnny, i Maggie nieśmiała,
+        chords: "D A D A"
+      - text: Skacze sobie wesoło kompanija nasza cała,
+        chords: "D D D"
+      - text: Słodki Kubuś z nami także skakać chce,
+        chords: "A D A"
+      - text: Lecz nóżki poplątal i na keję legł.
+        chords: "D A"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Tańczy jedna nóżka frywolna i zgrabna,
+        chords: "D A D A"
+      - text: Za nią druga podskoczy wesoła i powabna,
+        chords: "D D D"
+      - text: Na koniec brzuszek wytacza się,
+        chords: "A D A"
+      - text: Tylko główka nie chce - z nią jest bardzo źle...
+        chords: "D A"

@@ -1,0 +1,60 @@
+id: zegluj-zegluj
+title: Żegluj, żegluj
+category: sailors
+key: C
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Żegluj, żegluj, tam gdzie Nowa Szkocja.
+        chords: "C"
+      - text: Żegluj, żegluj, gdzie wstaje nowy dzień.
+        chords: "Em Am"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Głos Nowej Szkocji nam przynosi wiatr,
+        chords: "F G"
+      - text: To zapowiedź nowych dni.
+        chords: "C"
+      - text: Znowu wołają do nas rykiem fal,
+        chords: "Em Am"
+      - text: Tam znajdziecie nowy świat.
+        chords: "G C"
+      - text: Znów dumny brzeg będzie witał was
+        chords: "F Dm C"
+      - text: Majestatem groźnych skał.
+        chords: "G Am"
+      - text: Każdy dzień tu świtem przywita was,
+        chords: "F C"
+      - text: Coraz bliższym stanie się,
+        chords: "G Am"
+      - text: Twoim własnym domem stanie się.
+        chords: "F C"
+      - text: "..."
+        chords: "F Dm G C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Atlantyk bije falą w stromy brzeg,
+        chords: "Am G C"
+      - text: Wściekle ryczy pośród skał.
+        chords: "F C G Am"
+      - text: W górze dzikich ptaków słychać śpiew,
+        chords: "F C"
+      - text: Głos ich płynie z wiatrem w dal.
+        chords: "G Am"
+      - text: Tam bujnej trawy się kołysze łan
+        chords: "F C"
+      - text: I strumyków cichy szept.
+        chords: "G Am"
+      - text: W mej pamięci zawsze będzie trwał,
+        chords: "F C"
+      - text: Lecz niedługo powiem wam,
+        chords: "F Dm G"
+      - text: Lecz niedługo wszystkim powiem wam...
+        chords: "C"

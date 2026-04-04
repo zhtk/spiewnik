@@ -1,0 +1,54 @@
+id: zapach-ladu
+title: Zapach lądu
+category: sailors
+key: D
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Mój ojciec rybakiem był przez tyle długich lat,
+        chords: "D G D"
+      - text: Nim słońce rozproszyło mrok, na łodzi ruszał w świat.
+        chords: "Em A7 G"
+      - text: Jego światem było morze, które kochał, póki żył,
+        chords: "D A G"
+      - text: Dziś na połów stara lajba pływa jego syn.
+        chords: "D A D"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Trawa i kwiatami zawsze pachnie ląd,
+        chords: "D G D"
+      - text: Kiedy łodzie pełne tłustych ryb obierają kurs na dom.
+        chords: "Em A7 G"
+      - text: Tam stęsknione nasze serca uspokają bicie swe,
+        chords: "D A G"
+      - text: Zanim pożegnania łzy wypełnią oczy Twe.
+        chords: "D A D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Gdy z portu wypływa łódź, na wodzie kreśląc ślad,
+        chords: "D G D"
+      - text: Przygody duch porywa mnie, kołysze w żaglach wiatr.
+        chords: "Em A7 G"
+      - text: Błąkam się w nieznanych krajach, gdzie fantazja wiedzie mnie,
+        chords: "D A G"
+      - text: Zimne krople słonej fali odpędzają sen.
+        chords: "D A D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Przed dziobem już widać brzeg, mój dom, otwarte drzwi.
+        chords: "D G D"
+      - text: Tam w progu ktoś powita mnie, co myśli o mnie dziś.
+        chords: "Em A7 G"
+      - text: Kiedyś, kiedy będę stary, syn popłynie lajbą ma,
+        chords: "D A G"
+      - text: Tu na niego będzie czekał nasz stęskniony dom.
+        chords: "D A D"

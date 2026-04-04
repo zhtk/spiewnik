@@ -1,0 +1,66 @@
+id: przechyly
+title: Przechyły
+category: sailors
+key: Em
+tags: [szanta, zeglowanie, morze]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Pierwszy raz przy pełnym takielunku
+        chords: "Em D Em"
+      - text: Biorę ster i trzymam kurs na wiatr.
+        chords: "Em D Em"
+      - text: I jest jak przy pierwszym pocałunku,
+        chords: "Em A B7 Em"
+      - text: W ustach sól, gorącej wody smak.
+        chords: "Em A B7 Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: O-ho-ho, przechyły i przechyły,
+        chords: "Em D Em"
+      - text: O-ho-ho, za falą fala mknie,
+        chords: "Em D Em"
+      - text: O-ho-ho, trzymajcie się dziewczyny - za liny!
+        chords: "Em A B7 Em"
+      - text: Ale wiatr, ósemka chyba dmie!
+        chords: "Em A B7 Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Zwrot przez sztag - o'key, zaraz zrobię,
+        chords: "Em D Em"
+      - text: Słyszę jak kapitan cicho klnie.
+        chords: "Em D Em"
+      - text: Gubię wiatr i zamiast w niego dziobem,
+        chords: "Em A B7 Em"
+      - text: To on mnie od tyłu - kumple w śmiech.
+        chords: "Em A B7 Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Hej, Ty tam, za burtę wychylony,
+        chords: "Em D Em"
+      - text: Tu naprawdę się nie ma z czego śmiać.
+        chords: "Em D Em"
+      - text: Cicho siedź i lepiej proś Neptuna,
+        chords: "Em A B7 Em"
+      - text: Żeby coś nie spadło Ci na kark.
+        chords: "Em A B7 Em"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Krople mgły, w tęczowych kropel pyle
+        chords: "Em D Em"
+      - text: Tańczy jacht, po deskach spływa dzień.
+        chords: "Em D Em"
+      - text: Jutro znów wypłynę, bo odkryłem,
+        chords: "Em A B7 Em"
+      - text: Że wciąż brzmi żeglarska stara pieśń.
+        chords: "Em A B7 Em"

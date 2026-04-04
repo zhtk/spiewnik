@@ -1,0 +1,96 @@
+id: zemsta
+title: Zemsta
+category: sailors
+key: Am
+tags: [szanta, walka, morze]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: W pochmurny dzień zwinęli nas
+        chords: "Am G"
+      - text: Dwudziestu chłopa - to w sam raz
+        chords: "F Bb G Am G"
+      - text: W kajdany ręce przybrali wnet
+        chords: "F Em Am"
+      - text: I popędzili nad morza brzeg
+
+  - type: verse
+    label: Zwrotka 1 (cd.)
+    lines:
+      - text: W gardziele okrętu, gdzie szczur nawet gnił
+        chords: "Am G"
+      - text: Wepchnęli wszystkich, kto jeszcze żył
+        chords: "F Bb G Am G"
+      - text: I nikt nie spytał, czy matka wie
+        chords: "F Em Am"
+      - text: Że właśnie żołnierzem króla stałeś się
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Walcz i giń - to rozkaz Twój
+        chords: "F D"
+      - text: Posłuszny bądź, bo wdepniesz w gnój
+        chords: "Em G Am"
+      - text: I nie uciekaj od wrogich kul
+        chords: "F D"
+      - text: Za Anglię zdychaj, tak każe król
+        chords: "E F G Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Trzeciego dnia zaczęło się
+        chords: "Am G"
+      - text: Wiatr łzy wyciskał na mokry deck
+        chords: "F Bb G Am G"
+      - text: A Hiszpan walił ze wszystkich luf
+        chords: "F Em Am"
+      - text: Do dziś nikt nie wie, ile wtedy spadło głów
+
+  - type: verse
+    label: Zwrotka 2 (cd.)
+    lines:
+      - text: Dowódca nasz pod pokład zbiegł
+        chords: "Am G"
+      - text: W najdalszym kącie na kolana legł
+        chords: "F Bb G Am G"
+      - text: Histeria w oczach i głupi śmiech
+        chords: "F Em Am"
+      - text: Tak właśnie wydał swój ostatni dech
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Nazajutrz, gdy opadły mgły
+        chords: "Am G"
+      - text: Nie było ważne gdzie Oni, gdzie My
+        chords: "F Bb G Am G"
+      - text: Zwycięzcą był ten, kto jeszcze żyw
+        chords: "F Em Am"
+      - text: Kogo stać jeszcze na ostatni zryw
+
+  - type: verse
+    label: Zwrotka 3 (cd.)
+    lines:
+      - text: To właśnie wtedy poczułem, że
+        chords: "Am G"
+      - text: W morze me życie wpisane jest
+        chords: "F Bb G Am G"
+      - text: Na statku, co Jego Królewska mość
+        chords: "F Em Am"
+      - text: O pianę na pysku przyprawi i dziką złość
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Walcz i giń za honor swój
+        chords: "F D"
+      - text: Sercu posłuszny nie wdepniesz w gnój
+        chords: "Em G Am"
+      - text: Poślij królowi grad wrogich kul
+        chords: "F D"
+      - text: Do Anglii nie wracaj - tam zdycha król
+        chords: "E F G Am"

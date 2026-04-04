@@ -1,0 +1,167 @@
+id: dziesiec-beauforta-nc
+title: Dziesięć w skali Beauforta (niecenzuralne)
+category: sailors
+key: Am
+tags: [szanta, morze, humorystyczna]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Kołysał nas zachodni wiatr,
+        chords: "Am Dm"
+      - text: Brzeg był za rufą z dala
+        chords: "E7 Am"
+      - text: 'I nagle ktoś jak papier zbladł:'
+        chords: "Am B7 E7"
+      - text: '"Grot nam się rozpierdała!"'
+
+  - type: chorus
+    label: Refren 1
+    lines:
+      - text: A bosman tylko zapiął płaszcz
+        chords: "F C F C"
+      - text: 'I zaklął: "Mac jebana!'
+        chords: "F E7 Am"
+      - text: Nie mogłaś szmato, kurwa mać,
+        chords: "F G Am E7"
+      - text: 'Zaczekać z tym do rana!!?"'
+        chords: "Am Dm E7 Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Spod ciemnych ołowianych chmur
+        chords: "Am Dm"
+      - text: Ulewa spadła nagle,
+        chords: "E7 Am"
+      - text: A myśmy, jak te chuje dwa,
+        chords: "Am B7 E7"
+      - text: W kubryku szyliśmy żagle.
+
+  - type: chorus
+    label: Refren 2
+    lines:
+      - text: A bosman do kubryku wpadł
+        chords: "F C F C"
+      - text: 'I zaklął: "Chuj wam w dupę!'
+        chords: "F E7 Am"
+      - text: Złamali znowu igły dwie,
+        chords: "F G Am E7"
+      - text: 'Gdzie ja dziś takie kupię?"'
+        chords: "Am Dm E7 Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: W nawigacyjnej Stary siadł,
+        chords: "Am Dm"
+      - text: Słuchając komunikat.
+        chords: "E7 Am"
+      - text: 'Wkurzony maksymalnie rzekł:'
+        chords: "Am B7 E7"
+      - text: '"Panowie, znowu dycha!"'
+
+  - type: chorus
+    label: Refren 3
+    lines:
+      - text: A bosman tylko w mesie siadł
+        chords: "F C F C"
+      - text: Ponury jak na stypie.
+        chords: "F E7 Am"
+      - text: '"Jak dalej będzie pizdzić tak,'
+        chords: "F G Am E7"
+      - text: 'Rozpieprzył nam tę krypę!"'
+        chords: "Am Dm E7 Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: W kambuzie kuk, rzygając w krąg,
+        chords: "Am Dm"
+      - text: 'Ponuro żuł nienawiść:'
+        chords: "E7 Am"
+      - text: '"Że też te gnoje jeszcze żrą,'
+        chords: "Am B7 E7"
+      - text: 'Toż takich można zabić!"'
+
+  - type: chorus
+    label: Refren 4
+    lines:
+      - text: A bosman tylko w mesie siadł
+        chords: "F C F C"
+      - text: 'I oparł nos na blacie:'
+        chords: "F E7 Am"
+      - text: '"Obiad ma być dziś z trzech dań'
+        chords: "F G Am E7"
+      - text: 'I deser na dodatek!"'
+        chords: "Am Dm E7 Am"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Kompasu igła całą noc
+        chords: "Am Dm"
+      - text: Tańczyła rock and rolla,
+        chords: "E7 Am"
+      - text: A wściekły sternik czuł, że go
+        chords: "Am B7 E7"
+      - text: Ogarnia paranoja...
+
+  - type: chorus
+    label: Refren 5
+    lines:
+      - text: A bosman do kokpitu wpadł
+        chords: "F C F C"
+      - text: 'I ujął szturwał w ręce:'
+        chords: "F E7 Am"
+      - text: '"Do kurwy nędzy, równo jedź,'
+        chords: "F G Am E7"
+      - text: 'Bo jaja ci ukręcę!"'
+        chords: "Am Dm E7 Am"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Gdy słońce wyszło spoza chmur,
+        chords: "Am Dm"
+      - text: A wicher się wyszalał,
+        chords: "E7 Am"
+      - text: To bosman tylko flachę wziął
+        chords: "Am B7 E7"
+      - text: I szybko pale zalał.
+
+  - type: chorus
+    label: Refren 6
+    lines:
+      - text: A potem tylko zapiął płaszcz,
+        chords: "F C F C"
+      - text: Chciał zakląć - lecz nie zaklął,
+        chords: "F E7 Am"
+      - text: Odchamić się najwyższy czas,
+        chords: "F G Am E7"
+      - text: Więc tylko ręką machnął.
+        chords: "Am Dm E7 Am"
+
+  - type: verse
+    label: Zwrotka 7
+    lines:
+      - text: Gdy słońce zgasło i gdy sztorm
+        chords: "Am Dm"
+      - text: Wydmuchał się do woli,
+        chords: "E7 Am"
+      - text: W bosmanskiej brodzie zakwitł blask
+        chords: "Am B7 E7"
+      - text: Setek kryształków soli.
+
+  - type: chorus
+    label: Refren 7
+    lines:
+      - text: A bosman tylko zapiął płaszcz
+        chords: "F C F C"
+      - text: I zaklął... otóż nie zaklął!
+        chords: "F E7 Am"
+      - text: Bosman znów zaczął mówić nam
+        chords: "F G Am E7"
+      - text: Piękną poprawną polszczyzną!
+        chords: "Am Dm E7 Am"

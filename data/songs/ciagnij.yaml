@@ -1,0 +1,54 @@
+id: ciagnij
+title: Ciągnij, chociaż mokre plecy
+category: sailors
+key: "?"
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Ciągnij, chociaż mokre plecy.
+      - text: Ciągnij, rany wiatr uleczy.
+      - text: Ciągnij, chociaż przestać pragniesz.
+      - text: Ciągnij, Bracie, aż nie padniesz.
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Wczoraj jeszcze byłeś w domu,
+      - text: Press-gang w nocy tak Ci pomógł.
+      - text: Dzisiaj słyszysz wrzask bosmana,
+      - text: Ciągnij liny już od rana.
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Co dzień leci worek w morze,
+      - text: Co dzień jest Ci coraz gorzej.
+      - text: Przetrwasz, albo zdechniesz w ęzie,
+      - text: Musisz ciągnąć, jakoś będzie.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Bosman kazał drzeć twe plecy.
+      - text: Cieknie ciepła krew na greting.
+      - text: Mogłeś pięście w kieszeń schować,
+      - text: Lepiej ciągnąć, niż żałować.
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: W końcu schodzisz dziś po trapie,
+      - text: Bosman Cię zaczepił w pub'ie.
+      - text: Kiepsko skończysz bohaterze,
+      - text: Będziesz ciągnął na galerze.
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Nożem ciałeś jego trzewia,
+      - text: Poszedł za ten rejs do nieba.
+      - text: Jego duch Cię w końcu zgubił,
+      - text: Ciągniesz wiosło, tak jak mówił.

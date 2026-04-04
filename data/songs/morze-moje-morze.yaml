@@ -1,0 +1,78 @@
+id: morze-moje-morze
+title: Morze, moje morze
+category: sailors
+key: Am
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Hej, me Bałtyckie Morze,
+        chords: "Am E Am"
+      - text: Wdzięczny Ci jestem bardzo,
+        chords: "C G C"
+      - text: Toś Ty mnie wychowało,
+        chords: "Dm G C D"
+      - text: Toś Ty mnie wychowało, Szkoły mi dało twardą.
+        chords: "Am E Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Szkoły mi dało twardą,
+        chords: "Am E Am"
+      - text: Uczyło łodzią pływać,
+        chords: "C G C"
+      - text: Żagle pięknie cerować,
+        chords: "Dm G C D"
+      - text: Żagle pięknie cerować, Codziennie pokład zmywać.
+        chords: "Am E Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Codziennie pokład zmywać
+        chords: "Am E Am"
+      - text: Od soli i od kurzy,
+        chords: "C G C"
+      - text: Mosiądze wyglansować,
+        chords: "Dm G C D"
+      - text: Mosiądze wyglansować, W ciszy, czy w czasie burzy.
+        chords: "Am E Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: W ciszy, czy w czasie burzy,
+        chords: "Am E Am"
+      - text: Trzeba przy pracy śpiewać,
+        chords: "C G C"
+      - text: Bo kiedy śpiewu nie ma,
+        chords: "Dm G C D"
+      - text: Bo kiedy śpiewu nie ma, Neptun się będzie gniewać.
+        chords: "Am E Am"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Neptun się będzie gniewać
+        chords: "Am E Am"
+      - text: I klątwę brzydką rzuci,
+        chords: "C G C"
+      - text: Wpakuje na mieliznę,
+        chords: "Dm G C D"
+      - text: Wpakuje na mieliznę, Albo nam łódź wywróci.
+        chords: "Am E Am"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Albo nam łódź wywróci
+        chords: "Am E Am"
+      - text: I krzyknie - "Hej partacze!
+        chords: "C G C"
+      - text: Nakarmię wami rybki,
+        chords: "Dm G C D"
+      - text: Nakarmię wami rybki, Nikt po was nie zapłacze!"
+        chords: "Am E Am"

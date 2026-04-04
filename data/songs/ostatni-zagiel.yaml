@@ -1,0 +1,135 @@
+id: ostatni-zagiel
+title: Ostatni żagiel
+category: sailors
+key: Am
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Weszliśmy w kipiący Skagerrak,
+        chords: "Am E7"
+      - text: Kłaniały się fale w pas,
+        chords: "Am E7"
+      - text: Jacht leciał jak szalony ptak,
+        chords: "C G C G"
+      - text: Był blady każdy z nas.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 1 (cd.)
+    lines:
+      - text: Pękały nam żagle tu i tam,
+        chords: "Am E7"
+      - text: Rabał po lajbie grad
+        chords: "Am E7"
+      - text: I tylko jeden został nam
+        chords: "C G C G"
+      - text: Sztormowy grota płat.
+        chords: "Am E7 Am"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Szarpnijcie go chłopcy z całych sił,
+        chords: "C G C G"
+      - text: Szarpnijcie go jeszcze raz,
+        chords: "C G C"
+      - text: Niech serca pompują krew do żył,
+        chords: "Am E7 Am"
+      - text: Ostatni to żagiel nasz.
+        chords: "Dm Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Zdzierały nam szoty skórę z rąk,
+        chords: "Am E7"
+      - text: A wicher posiłki słał,
+        chords: "Am E7"
+      - text: Gwizdały wanty szantę swą,
+        chords: "C G C G"
+      - text: Za szkwałem pędził szkwał.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 2 (cd.)
+    lines:
+      - text: I Neptun nie kochał nas w ten czas,
+        chords: "Am E7"
+      - text: Cholernie się wtedy wściekł,
+        chords: "Am E7"
+      - text: Swą mokrą łapą raz po raz
+        chords: "C G C G"
+      - text: Uparcie walił w dek.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Ten kadłub dziurawy wodę brał,
+        chords: "Am E7"
+      - text: Jak grom spadło na nas to
+        chords: "Am E7"
+      - text: I koles mój przy pompie mdlał,
+        chords: "C G C G"
+      - text: Cucili wszyscy go.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 3 (cd.)
+    lines:
+      - text: 'A Stary zaryczał: "Żywiej tam,'
+        chords: "Am E7"
+      - text: 'Musimy wykonać zwrot."'
+        chords: "Am E7"
+      - text: Choć wszystkie żagle zdarto nam,
+        chords: "C G C G"
+      - text: To jeszcze został grot.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Pozostał za nami Skagerrak,
+        chords: "Am E7"
+      - text: Mordęgi nadchodzi kres,
+        chords: "Am E7"
+      - text: Lecz nie zapomnieliśmy, jak
+        chords: "C G C G"
+      - text: Zatańczył z nami bies.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Gdy stary do góry palec wzniósł,
+        chords: "Am E7"
+      - text: To każdy zrozumiał go,
+        chords: "Am E7"
+      - text: Nad nami w naszych oczach rósł
+        chords: "C G C G"
+      - text: Wydęty dumnie grot.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 5 (cd.)
+    lines:
+      - text: Aż w końcu nadeszła chwila ta,
+        chords: "Am E7"
+      - text: Gdy żagiel do wora wlazł,
+        chords: "Am E7"
+      - text: Na katarynie lajba szła
+        chords: "C G C G"
+      - text: I port już witał nas.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 5 (zakończenie)
+    lines:
+      - text: I każdy ten wór poklepać chciał,
+        chords: "Dm Am E7 Am"
+      - text: Nim skrył go bakisty mrok,
+      - text: Bo tyle nam nadziei dał
+      - text: Kochany, dzielny grot.

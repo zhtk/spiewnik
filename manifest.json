@@ -1,0 +1,26 @@
+{
+  "name": "Śpiewnik żeglarski",
+  "short_name": "Śpiewnik żeglarski",
+  "description": "Harcerski i żeglarski śpiewnik z akordami",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1a1410",
+  "theme_color": "#c8a96e",
+  "lang": "pl",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["music", "entertainment", "education"]
+}

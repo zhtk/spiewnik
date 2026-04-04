@@ -1,0 +1,102 @@
+id: smialy-harpunnik
+title: Śmiały harpunnik
+category: sailors
+key: Am
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Nasz "Diament" prawie gotów już,
+        chords: "Am Em"
+      - text: W cieśninach nie ma kry,
+        chords: "Am Em"
+      - text: Na kei piękne panny stoją,
+        chords: "Am Em"
+      - text: W oczach błyszczą łzy.
+        chords: "F G Am"
+
+  - type: verse
+    label: Zwrotka 1 (cd.)
+    lines:
+      - text: Kapitan w niebo wlepia wzrok,
+        chords: "Am Em"
+      - text: Ruszamy lada dzień,
+        chords: "Am Em"
+      - text: Płyniemy tam, gdzie słońca blask
+        chords: "Am Em"
+      - text: Nie mąci nocy cień.
+        chords: "F G Am"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: 'A więc krzycz: O-ho-ho!'
+        chords: "Am Em Am"
+      - text: Odwagę w sercu miej!
+        chords: "Am Em Am"
+      - text: Wielorybów cielska groźne są,
+        chords: "Am Em C G"
+      - text: Lecz dostaniemy je! Hej,
+        chords: "Am Em Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Hej, panno, powiedz po co łzy?
+        chords: "Am Em"
+      - text: Nic nie zatrzyma mnie,
+        chords: "Am Em"
+      - text: Bo prędzej w lodach kwiat zakwitnie,
+        chords: "Am Em"
+      - text: Niż wycofam się.
+        chords: "F G Am"
+
+  - type: verse
+    label: Zwrotka 2 (cd.)
+    lines:
+      - text: No, nie płacz mała, wrócę tu,
+        chords: "Am Em"
+      - text: Nasz los nie taki zły,
+        chords: "Am Em"
+      - text: Bo da dukatów wór za tran
+        chords: "Am Em"
+      - text: I wielorybie kły.
+        chords: "F G Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Na deku Stary wąchał wiatr,
+        chords: "Am Em"
+      - text: Lunetę w ręku miał.
+        chords: "Am Em"
+      - text: Na łodziach, co zwisały już,
+        chords: "Am Em"
+      - text: Z harpunem każdy stał.
+        chords: "F G Am"
+
+  - type: verse
+    label: Zwrotka 3 (cd.)
+    lines:
+      - text: I dmucha tu, i dmucha tam,
+        chords: "Am Em"
+      - text: Ogromne stado wkrąg.
+        chords: "Am Em"
+      - text: "- Harpuny, wiosła, liny brać!"
+        chords: "Am Em"
+      - text: I ciągaj, brachu, ciąg!
+        chords: "F G Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: I dla wieloryba już
+        chords: "Am G Am"
+      - text: Ostatni to dzień,
+        chords: "G Am"
+      - text: Bo śmiały harpunnik
+        chords: "Dm"
+      - text: Uderza weń!
+        chords: "Am G Am"

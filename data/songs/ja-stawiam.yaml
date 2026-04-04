@@ -1,0 +1,62 @@
+id: ja-stawiam
+title: Ja stawiam
+category: sailors
+key: Em
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Czy mam pieniądze, czy grosza mi brak - ja stawiam!
+        chords: "Em D Em"
+      - text: Czy los mi sprzyja, czy idzie mi wspak - ja stawiam!
+        chords: "Em D Em"
+      - text: Czy mam dziesięciu kompanów, czy dwóch,
+        chords: "Em G"
+      - text: Czy mam ochotę na rum, czy na miód,
+        chords: "A C B7"
+      - text: Czy mam pieniądze, czy grosza mi brak - ja stawiam!
+        chords: "Em D Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Czy wicher w oczy, czy w plecy mi dmie - ja stawiam!
+        chords: "Em D Em"
+      - text: Czy mi kompani ufają, czy nie - ja stawiam!
+        chords: "Em D Em"
+      - text: Czy ja ścigam wroga, czy wróg ściga mnie,
+        chords: "Em G"
+      - text: Dopóki mój okręt nie leży na dnie,
+        chords: "A C B7"
+      - text: Czy wicher w oczy, czy w plecy mi dmie - ja stawiam!
+        chords: "Em D Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A gdy mnie dziewka porzuci jak psa - ja stawiam!
+        chords: "Em D Em"
+      - text: Gąsiorek biorę i piję do dna - ja stawiam!
+        chords: "Em D Em"
+      - text: Kompanie zbieram i siadam za stół,
+        chords: "Em G"
+      - text: I nie ma wtedy płacenia na pół,
+        chords: "A C B7"
+      - text: Bo gdy mnie dziewka porzuci jak psa - ja stawiam!
+        chords: "Em D Em"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Ja stawiam żagle jak kufel na stół - ja stawiam!
+        chords: "Em D Em"
+      - text: Czy fala mnie niesie, czy w górę, czy w dół - ja stawiam!
+        chords: "Em D Em"
+      - text: Czy tam dopłynę, gdzie kończy się świat,
+        chords: "Em G"
+      - text: Czy aż do piekła poniesie mnie wiatr,
+        chords: "A C B7"
+      - text: Ja stawiam żagiel, jak kufel na stół - ja stawiam!
+        chords: "Em D Em"

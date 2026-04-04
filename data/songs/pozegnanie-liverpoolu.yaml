@@ -1,0 +1,67 @@
+id: pozegnanie-liverpoolu
+title: Pożegnanie Liverpoolu
+category: sailors
+key: C
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Żegnaj nam dostojny, stary porcie,
+        chords: "C C7 F C"
+      - text: Rzeko Mersey żegnaj nam!
+        chords: "C G C"
+      - text: Zaciągnąłem się na rejs do Kalifornii,
+        chords: "C C7 F C"
+      - text: Byłem tam już niejeden raz.
+        chords: "C G7 C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: A więc żegnaj mi, kochana ma!
+        chords: "C G F C"
+      - text: Za chwilę wypłyniemy w długi rejs.
+        chords: "G C C7"
+      - text: Ile miesięcy Cię nie będę widział,
+        chords: "F C C"
+      - text: Nie wiem sam,
+        chords: "G7 C"
+      - text: Lecz pamiętać zawsze będę Cię.
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Zaciągnąłem się na herbaciany kliper,
+        chords: "C C7 F C"
+      - text: Dobry statek, choć sławę ma złą,
+        chords: "C G C"
+      - text: A że kapitanem jest tam stary Burgess,
+        chords: "C C7 F C"
+      - text: Pływającym piekłem wszyscy go zwą.
+        chords: "C G7 C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Z kapitanem tym płynę już nie pierwszy raz,
+        chords: "C C7 F C"
+      - text: Znamy się od wielu, wielu lat.
+        chords: "C G C"
+      - text: Jeśliś dobrym żeglarzem - radę sobie dasz,
+        chords: "C C7 F C"
+      - text: Jeśli nie - tos cholernie wpadł.
+        chords: "C G7 C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Żegnaj nam dostojny, stary porcie,
+        chords: "C C7 F C"
+      - text: Rzeko Mersey żegnaj nam.
+        chords: "C G C"
+      - text: Wypływamy już na rejs do Kalifornii,
+        chords: "C C7 F C"
+      - text: Gdy wrócimy - opowiemy wam.
+        chords: "C G7 C"

@@ -1,0 +1,67 @@
+id: green-horn
+title: Green Horn
+category: sailors
+key: C
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Miałem wtedy, ech, szesnaście lat,
+        chords: "C F C"
+      - text: Swoją drogą szedłem przez świat,
+        chords: "F G C"
+      - text: W sercu zawsze tkwiła uparta myśl,
+        chords: "F C Am"
+      - text: By za głosem morza iść.
+        chords: "C G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: 'A więc śpiewam: "Żegnaj Carling Ford'
+        chords: "C F C"
+      - text: I żegnaj nam Green Horn.
+        chords: "F G C"
+      - text: Będę myślał o Tobie dzień i noc,
+        chords: "C G7 C C7"
+      - text: Aby kiedyś wrócić tu,
+        chords: "F G F G C"
+      - text: 'Aby kiedyś wrócić znów."'
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: W każde z wielkich siedmiu sztormowych mórz,
+        chords: "C F C"
+      - text: Wychodziłem, bo zmuszał mnie los.
+        chords: "F G C"
+      - text: 'Każdy w porcie ode mnie usłyszeć mógł:'
+        chords: "F C Am"
+      - text: '"Nigdy więcej morza już!"'
+        chords: "C G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Mam dziewczynę, słodką Mary Doyle,
+        chords: "C F C"
+      - text: Dom swój równieź ma na Green Horn.
+        chords: "F G C"
+      - text: Sercem, duszą pragnie zatrzymać mnie,
+        chords: "F C Am"
+      - text: Żebym w morze nie zwial jej.
+        chords: "C G"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Życiem szczur lądowy kieruje sam,
+        chords: "C F C"
+      - text: Chce - zostanie, lub pójdzie w dal,
+        chords: "F G C"
+      - text: Ale kiedy morze wejdzie w krew,
+        chords: "F C Am"
+      - text: Gdy zawoła - pójdziesz wnet.
+        chords: "C G"

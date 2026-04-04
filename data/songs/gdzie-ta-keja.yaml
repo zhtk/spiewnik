@@ -1,0 +1,61 @@
+id: gdzie-ta-keja
+title: Gdzie ta keja
+category: sailors
+key: Am
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: 'Gdyby tak ktoś przyszedł i powiedział:'
+        chords: "Am E7 Am"
+      - text: '"- Stary, czy masz czas?"'
+        chords: "C G7 C"
+      - text: Potrzebuję do załogi jakaś nową twarz,
+        chords: "C C7 F Dm"
+      - text: Amazonka, Wielka Rafa, oceany trzy,
+        chords: "Dm Am E7 Am"
+      - text: 'Rejs na całość, rok, dwa lata - to powiedziałbym:'
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Gdzie ta keja, a przy niej ten jacht?
+        chords: "Am E7 Am"
+      - text: Gdzie ta koja wymarzona w snach?
+        chords: "C G Cm"
+      - text: Gdzie te wszystkie sznurki od tych szmat?
+        chords: "A7 Dm A7 Dm"
+      - text: Gdzie ta brama na szeroki świat?
+        chords: "Am E7 Am"
+      - text: Gdzie ta keja, a przy niej ten jacht?
+        chords: "Am E7 Am"
+      - text: Gdzie ta koja wymarzona w snach?
+        chords: "C G C"
+      - text: W każdej chwili płynę w taki rejs,
+      - text: Tylko gdzie to jest? No gdzie to jest?
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Gdzieś na dnie wielkiej szafy leży ostry nóż,
+        chords: "Am E7 Am"
+      - text: Stare dżinsy wystrzępione impregnuje kurz,
+        chords: "C G C"
+      - text: W kompasie igła zardzewiała, lecz kierunek znam,
+        chords: "Cm A7 Dm A7 Dm"
+      - text: Biorę wór na plecy i przed siebie gnam.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Przeszły lata zapyziałe, rzęsa porósł staw,
+        chords: "Am E7 Am"
+      - text: A na przystani czółno stało - kolorowy paw.
+        chords: "C G7 C"
+      - text: Zaokrągliły się marzenia, wyjaławił step,
+        chords: "C C7 F Dm Dm"
+      - text: Lecz ciągle marzy o załodze ten samotny łeb.
+        chords: "Am E7 Am"

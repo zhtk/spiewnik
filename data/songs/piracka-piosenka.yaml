@@ -1,0 +1,56 @@
+id: piracka-piosenka
+title: Piracka piosenka
+category: sailors
+key: Em
+tags: [szanta, piraci, walka]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Na statku bunt, nad nami mew zawieja,
+        chords: "Em G Am Bm"
+      - text: Od wczoraj, za dublonów złotych garść,
+        chords: "Em G Am Bm"
+      - text: Dwóch niegodziwców ciężko zwisa z rei.
+        chords: "C G Am Em"
+      - text: Za mało - wieszać czterech to w sam raz.
+        chords: "Am Bm Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Na na na-na-na-na, na na-na-na-na.
+        chords: "Em C G Am"
+      - text: Wiatr, wiatr, wiatr łapcie w żagle,
+        chords: "Em"
+      - text: Choć sztorm i wróg na statek nasz czyha.
+        chords: "Em G Am Bm"
+      - text: Szczęście to mit - stworzyliśmy go sami,
+        chords: "C G Am Em"
+      - text: Czarna bandera nad nami.
+        chords: "Am Bm Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Brać Kapitana! - wskazał ktoś paluchem,
+        chords: "Em G Am Bm"
+      - text: To koniec bratku! - krzyknął któryś doń,
+        chords: "Em G Am Bm"
+      - text: Kapitan zaś dwa worki z całym łupem
+        chords: "C G Am Em"
+      - text: Na oczach bandy cisnął w morską toń.
+        chords: "Am Bm Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Wtem fali cios zdruzgotał statek strasznie,
+        chords: "Em G Am Bm"
+      - text: Pamięta dobrze, kto przeżył ten dzień.
+        chords: "Em G Am Bm"
+      - text: Za burtę rzućcie, co wam krwią zapachnie
+        chords: "C G Am Em"
+      - text: I wierzcie, że to nie najwyższa z cen.
+        chords: "Am Bm Em"

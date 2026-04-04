@@ -1,0 +1,102 @@
+id: chlopcy-z-botany-bay
+title: Chłopcy z Botany Bay
+category: sailors
+key: Am
+tags: [szanta, piraci, korsarz]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Już nad Hornem zapada noc,
+        chords: "Am G Am"
+      - text: Wiatr na żaglach położył się,
+        chords: "Am G Am"
+      - text: A tam jeszcze korsarze na Botany Bay
+        chords: "Am7 Dm7 G C Am"
+      - text: Upychają zdobycze swe.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Jolly Roger na maszcie już śpi,
+        chords: "Am G Am"
+      - text: Jutro przyjdzie z Hiszpanem się bić,
+        chords: "Am G Am"
+      - text: A korsarze znużeni na Botany Bay
+        chords: "Am7 Dm7 G C Am"
+      - text: Za zwycięstwo dziś będą swe pić.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: 'Śniady Clark puchar wznosi do ust:'
+        chords: "Am G Am"
+      - text: '"Bracia, toast: Niech idzie na dno!"'
+        chords: "Am G Am"
+      - text: Tylko Johny nie pije, bo kilka mil stąd
+        chords: "Am7 Dm7 G C Am"
+      - text: Otuliło złe morze go.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Nie podnosi kielicha do ust,
+        chords: "Am G Am"
+      - text: Zawsze on tu najgłośniej się śmiał.
+        chords: "Am G Am"
+      - text: Mistrz fechtunku z Florencji ugodził go,
+        chords: "Am7 Dm7 G C Am"
+      - text: Już nie będzie za szoty się brał.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: W starym porcie zapłacze Margot,
+        chords: "Am G Am"
+      - text: Jej kochany nie wróci już.
+        chords: "Am G Am"
+      - text: Za dezercję do panny na kei w Brisbane
+        chords: "Am7 Dm7 G C Am"
+      - text: Oddać musiał swą głowę pod nóż.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Tak niewielu zostało dziś ich,
+        chords: "Am G Am"
+      - text: Resztę zabrał Neptun pod dach.
+        chords: "Am G Am"
+      - text: Choć na ustach wciąż uśmiech, to w sercach lód,
+        chords: "Am7 Dm7 G C Am"
+      - text: W kuflu miesza się rum i strach.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 7
+    lines:
+      - text: To ostatni chyba już rejs,
+        chords: "Am G Am"
+      - text: Cios sztyletem lub kula w pierś.
+        chords: "Am G Am"
+      - text: Bóg na szkuner w niebiosach zabierze ich,
+        chords: "Am7 Dm7 G C Am"
+      - text: Wszystkich chłopców z Botany Bay.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 8
+    lines:
+      - text: Już nad Hornem zapada noc,
+        chords: "Am G Am"
+      - text: Wiatr na żaglach położył się,
+        chords: "Am G Am"
+      - text: A tam jeszcze korsarze na Botany Bay
+        chords: "Am7 Dm7 G C Am"
+      - text: Upychają zdobycze swe.
+        chords: "Am G Am"

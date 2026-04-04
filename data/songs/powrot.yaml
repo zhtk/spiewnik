@@ -1,0 +1,66 @@
+id: powrot
+title: Powrót
+category: sailors
+key: Am
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Dni mijały z wolna, czas włókł się niczym żółw.
+        chords: "Am G Am"
+      - text: Dzień za dniem, bez końca, rozsadzał się w czaszce mózg.
+        chords: "Am C G Am"
+      - text: Ile lat wytrzymać trza jeszcze będzie nam?
+        chords: "Am C G Am"
+      - text: Hej, ha, nadejdzie czas, gdy wrócę pod swój dach.
+        chords: "Am G Am"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Wrócimy wszyscy razem, wrócimy, choć zły wiatr
+        chords: "Am G Am"
+      - text: Chłoszcze nas po twarzach, a wodę leje za kark.
+        chords: "Am C G Am"
+      - text: Czy człowiek ten to ja, czy to zupełnie inny ktoś?
+        chords: "Am C G Am"
+      - text: Hej, ha, nadejdzie czas, a wrócisz pod swój dach.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Skipper mawiał często - Nie dla was taka gra.
+        chords: "Am G Am"
+      - text: Niejeden szlak już przeszedł, aż po Kanał la Manche.
+        chords: "Am C G Am"
+      - text: Czy Horn, czy sztorm, czy fala zła, gdziekolwiek walnie wiatr,
+        chords: "Am C G Am"
+      - text: Zaśpiewaj sobie w duchu, że wrócisz pod swój dach.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Wiedzieli wszyscy dobrze, że wpadną w dziwny stan,
+        chords: "Am G Am"
+      - text: Zatańczą nieraz z diabłem, ze śmiercią pójdą w tan,
+        chords: "Am C G Am"
+      - text: Nie straszny będzie im ten rejs, nie straszny też zły wiatr,
+        chords: "Am C G Am"
+      - text: Nie wzruszy serca nawet kurs, na złe Van Diamands Land.
+        chords: "Am G Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Wiatr wyliże rany, sól opatrzy kark.
+        chords: "Am G Am"
+      - text: Za kwartę zrobisz wszystko, do piekła pójdziesz bram,
+        chords: "Am C G Am"
+      - text: By choć na chwilę w myślach, tych słów usłyszeć czar,
+        chords: "Am C G Am"
+      - text: Że minie szybko rok lub dwa i wrócisz pod swój dach.
+        chords: "Am G Am"

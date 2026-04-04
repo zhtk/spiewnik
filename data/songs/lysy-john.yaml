@@ -1,0 +1,62 @@
+id: lysy-john
+title: Łysy John
+category: sailors
+key: D
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Nasz Stary, Łysy John, kiedy pił
+        chords: "D G D"
+      - text: To pomysłów we łbie tysiąc miał.
+        chords: "Bm D G D"
+      - text: Im więcej whisky lał w pusty łeb,
+        chords: "A7 D"
+      - text: Zaraz w morze z nami ruszać chciał
+        chords: "D A7 G"
+      - text: I choć płacił marnie, nie wiem sam,
+        chords: "D G D Bm"
+      - text: Skąd ludzi do pracy zawsze miał.
+        chords: "D G A7 D"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Do Lowlands, gdzie Holandii brzegi lśnią,
+        chords: "D G A7"
+      - text: Kierował lajbę Łysy John.
+        chords: "D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Tam w porcie czeka już Mary Sue,
+        chords: "D G D"
+      - text: Która wielka jest jak mały sklep.
+        chords: "Bm D G D"
+      - text: Jest córka Johna i tak jak on
+        chords: "A7 D"
+      - text: Ma zębów pięć i łysy łeb.
+        chords: "D A7 G"
+      - text: Jeśli przed ołtarzem powiesz "nie",
+        chords: "D G D Bm"
+      - text: Do zera oskubie czaszkę twą.
+        chords: "D G A7 D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Nim ruszysz z nami do Lowlands w rejs,
+        chords: "D G D"
+      - text: Jeszcze raz zastanów dobrze się.
+        chords: "Bm D G D"
+      - text: Być zięciem Johna to żaden zysk,
+        chords: "A7 D"
+      - text: To z załogi każdy dziś już wie.
+        chords: "D A7 G"
+      - text: Spójrz na nasze głowy, patrz jak lśnią,
+        chords: "D G D Bm"
+      - text: Za grosze sprzedałeś wolność swą.
+        chords: "D G A7 D"

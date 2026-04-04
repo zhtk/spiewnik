@@ -1,0 +1,66 @@
+id: hiszpanskie-dziewczyny
+title: Hiszpańskie dziewczyny
+category: sailors
+key: Em
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Żegnajcie nam dziś, hiszpańskie dziewczyny,
+        chords: "Em C Bm7"
+      - text: Żegnajcie nam dziś, marzenia ze snów,
+        chords: "Em G D"
+      - text: Ku brzegom angielskim już ruszać nam pora,
+        chords: "C D Em"
+      - text: Lecz kiedyś na pewno wrócimy tu znów.
+        chords: "C Bm7 Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: I smak waszych ust, hiszpańskie dziewczyny,
+        chords: "Em C Bm7"
+      - text: W noc ciemną i złą nam będzie się śnił.
+        chords: "Em G D"
+      - text: Leniwie popłyną znów rejsu godziny,
+        chords: "Em G D"
+      - text: Wspomnienie ust waszych przysporzy nam sił.
+        chords: "C Bm7 Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Niedługo ujrzymy znów w dali Cape Deadman
+        chords: "Em C Bm7"
+      - text: I Głowę Baranią sterczącą wśród wzgórz,
+        chords: "Em G D"
+      - text: I statki stojące na redzie przed Plymouth.
+        chords: "Em G D"
+      - text: Klarować kotwicę najwyższy czas już.
+        chords: "C Bm7 Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A potem znów żagle na masztach rozkwitną,
+        chords: "Em C Bm7"
+      - text: Kurs szyper wyznaczy do Portland i Wight,
+        chords: "Em G D"
+      - text: I znów stara lajba potoczy się ciężko
+        chords: "Em G D"
+      - text: Przez fale w kierunku na Beachie, Fairlee Light.
+        chords: "C Bm7 Em"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Zabłysną nam bielą skał zęby pod Dover
+        chords: "Em C Bm7"
+      - text: I znów noc w kubryku wśród legend i bajd.
+        chords: "Em G D"
+      - text: Powoli i znojnie tak płynie nam życie
+        chords: "Em G D"
+      - text: Na wodach i w portach przy South Foreland Light.
+        chords: "C Bm7 Em"

@@ -1,0 +1,89 @@
+id: tawerna
+title: Tawerna pod Dorodną Flądrą
+category: sailors
+key: E
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: A niech to wszyscy diabli porwą!
+        chords: "E7 D7 A7 E7"
+      - text: A niech to trafi jasny szlag!
+        chords: "E7 D7 A7 E7"
+      - text: Już ręką mogłem sięgnąć portu,
+        chords: "E7 D7 A7 E7"
+      - text: Gdy nagle mi zwariował wiatr.
+        chords: "E7 D7 A7 E7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: I znów się w sztormach poniewiera,
+        chords: "A7 E7"
+      - text: Tu mokro i piekielny ziąb,
+        chords: "A7 E7"
+      - text: I jasna, Bracie, trzaska mnie cholera,
+        chords: "A7 E7 B7"
+      - text: Bo niedaleko stąd...
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: W tawernie "Pod Dorodną Flądrą"
+        chords: "E7 D7 A7 E7"
+      - text: Barmanka cycki ma jak dzwon,
+        chords: "E7 D7 A7 E7"
+      - text: A ja mam tylko świerszczyk porno
+        chords: "E7 D7 A7 E7"
+      - text: I musi mi wystarczyć on.
+        chords: "E7 D7 A7 E7"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Barmanka biodra ma jak hamak
+        chords: "E7 D7 A7 E7"
+      - text: I inne miłe miejsca ma.
+        chords: "E7 D7 A7 E7"
+      - text: Na pewno będzie dzisiaj sama
+        chords: "E7 D7 A7 E7"
+      - text: Barmanka, biodra i jej bar.
+        chords: "E7 D7 A7 E7"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: 'Mój kumpel mówi do barmana:'
+        chords: "E7 D7 A7 E7"
+      - text: '"Hej, Panie Starszy, wódki dwie!"'
+        chords: "E7 D7 A7 E7"
+      - text: A to, co mu siedzi na kolanach,
+        chords: "E7 D7 A7 E7"
+      - text: Na pewno sympatyczne jest.
+        chords: "E7 D7 A7 E7"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: I Bogu trzeba podziękować,
+        chords: "E7 D7 A7 E7"
+      - text: Że tak mi dziś odwrócił wiatr.
+        chords: "E7 D7 A7 E7"
+      - text: Na brzegu żona i teściowa
+        chords: "E7 D7 A7 E7"
+      - text: 'Już ułożyły chytry plan:'
+        chords: "E7 D7 A7 E7"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: W tawernie "Pod Dorodną Flądrą"
+        chords: "E7 D7 A7 E7"
+      - text: Barmanka cycki ma jak dzwon,
+        chords: "E7 D7 A7 E7"
+      - text: A ja mam tylko świerszczyk porno.
+        chords: "E7 D7 A7 E7"
+      - text: Hej, ludzie, tak już chcę na ląd.
+        chords: "E7 D7 A7 E7"

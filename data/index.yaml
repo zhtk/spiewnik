@@ -1,0 +1,84 @@
+version: "2026-04-05"
+songs:
+  - id: zemsta
+    version: "2026-04-04"
+  - id: cztery-piwka
+    version: "2026-04-04"
+  - id: zew-morza
+    version: "2026-04-04"
+  - id: powrot
+    version: "2026-04-04"
+  - id: przechyly
+    version: "2026-04-04"
+  - id: pacyfik
+    version: "2026-04-04"
+  - id: hiszpanskie-dziewczyny
+    version: "2026-04-04"
+  - id: morze-moje-morze
+    version: "2026-04-04"
+  - id: molly-maquires
+    version: "2026-04-04"
+  - id: bijatyka
+    version: "2026-04-04"
+  - id: bitwa
+    version: "2026-04-04"
+  - id: gdzie-ta-keja
+    version: "2026-04-04"
+  - id: ja-stawiam
+    version: "2026-04-04"
+  - id: dzien-sw-patryka
+    version: "2026-04-04"
+  - id: dziesiec-beauforta
+    version: "2026-04-04"
+  - id: dziesiec-beauforta-nc
+    version: "2026-04-04"
+  - id: na-mazury
+    version: "2026-04-04"
+  - id: marco-polo
+    version: "2026-04-04"
+  - id: green-horn
+    version: "2026-04-04"
+  - id: zegluj-zegluj
+    version: "2026-04-04"
+  - id: smialy-harpunnik
+    version: "2026-04-04"
+  - id: samantha
+    version: "2026-04-04"
+  - id: pijmy-za-tych
+    version: "2026-04-04"
+  - id: lysy-john
+    version: "2026-04-04"
+  - id: pozegnanie-liverpoolu
+    version: "2026-04-04"
+  - id: prowadz-nas
+    version: "2026-04-04"
+  - id: piracka-piosenka
+    version: "2026-04-04"
+  - id: zapach-ladu
+    version: "2026-04-04"
+  - id: kongo-river
+    version: "2026-04-04"
+  - id: ostatni-zagiel
+    version: "2026-04-04"
+  - id: dziki-wloczega
+    version: "2026-04-04"
+  - id: zeglarski-los
+    version: "2026-04-04"
+  - id: ciagnij
+    version: "2026-04-04"
+  - id: a-ty-walcz
+    version: "2026-04-04"
+  - id: jolly-roger
+    version: "2026-04-04"
+  - id: chlopcy-z-botany-bay
+    version: "2026-04-04"
+  - id: jesienne-wino
+    version: "2026-04-04"
+  - id: skrzypki
+    version: "2026-04-04"
+  - id: tawerna
+    version: "2026-04-04"
+  - id: szanta-korsarska
+    version: "2026-04-04"
+  - id: tancowanie
+    version: "2026-04-04"

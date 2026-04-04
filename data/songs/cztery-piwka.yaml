@@ -1,0 +1,86 @@
+id: cztery-piwka
+title: Cztery piwka
+category: sailors
+key: Gm
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Ze Świnoujścia do Walvis Bay
+        chords: "Gm"
+      - text: Droga nie była krótka,
+        chords: "Gm"
+      - text: A po dwóch dobach, albo mniej,
+        chords: "Gm"
+      - text: Już się skończyła wódka.
+        chords: "Gm"
+      - text: '"Do brydzsa!" - krzyknął Siwy Flak'
+        chords: "Gm"
+      - text: 'I z miejsca rzekł - "Dwa piki",'
+        chords: "Gm"
+      - text: 'A ochmistrz w "telewizor" wlał'
+        chords: "Gm"
+      - text: Nie byle jakie siki.
+        chords: "D7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Cztery piwka na stół, w popielniczkę pet,
+        chords: "G C"
+      - text: Jakaś Damę roześmianą Król przytuli wnet.
+        chords: "D7 G"
+      - text: Gdzieś między palcami sennie płynie czas.
+        chords: "G G7 C"
+      - text: '"...czwarta ręka, Króla bije As..."'
+        chords: "D7 Gm"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: A w karcie tylko jeden As
+        chords: "Gm"
+      - text: I nic poza tym nie ma,
+        chords: "Gm"
+      - text: 'Ale nie powiem przecie - "Pas",'
+        chords: "Gm"
+      - text: Może zagrają szlema?
+      - text: '"Kontra" - mu rzekłem, taki bluff,'
+        chords: "Gm"
+      - text: By nieco spuścił z tonu,
+        chords: "Gm"
+      - text: 'A Fred mu na to - "Cztery trefl!"'
+        chords: "Gm"
+      - text: Przywalił bez pardonu.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: 'A "mój" w dwa palce obtarł nos,'
+        chords: "Gm"
+      - text: 'To znaczy: nie ma nic...'
+        chords: "Gm"
+      - text: I wtedy Flak, podnosząc głos,
+        chords: "Gm"
+      - text: 'Powiedział - "Cztery pik!"'
+      - text: I kiedy jeszcze cztery Króle
+        chords: "Gm"
+      - text: Pokazał mu jak trza,
+        chords: "Gm"
+      - text: 'To Fred, z renonsem - "Siedem pik" -'
+        chords: "Gm"
+      - text: 'Powiedział - "Niech gra Flak!"'
+
+  - type: chorus
+    label: Refren (końcowy)
+    lines:
+      - text: W popielniczkę pet, cztery piwka na stół,
+        chords: "G C"
+      - text: Już tej Damy roześmianej nie przytuli Król.
+        chords: "D7 G"
+      - text: Gdzieś nam się zapodział atutowy As,
+        chords: "G G7 C"
+      - text: Tego Szlema z nami wygrał czas.
+        chords: "D7 Gm"

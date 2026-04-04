@@ -1,0 +1,116 @@
+id: pijmy-za-tych
+title: Pijmy za tych co poszli na dno (Lądowy szczur)
+category: sailors
+key: C
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Pamiętam tę noc, gdy szalał sztorm,
+        chords: "C F C F C"
+      - text: A wiatr konary zginał drzew.
+        chords: "Am Dm7 G"
+      - text: Do knajpy wszedł nieznany gość
+        chords: "C F C F C"
+      - text: I widać było, że wędrowcem jest.
+        chords: "Am Dm G"
+
+  - type: verse
+    label: Zwrotka 1 (cd.)
+    lines:
+      - text: Przy barze stał i piwo pił
+        chords: "C F C"
+      - text: Wpatrzony gdzieś w płomieni blask.
+        chords: "G C"
+      - text: '"Przeżyłem już podobną noc,'
+        chords: "C F C"
+      - text: Na morzu śmierć." - powiedział nam.
+        chords: "G C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Więc pijmy za tych, co poszli na dno,
+        chords: "C F C F C"
+      - text: Których zabrało morze nam.
+        chords: "Am Dm G"
+      - text: Za zdrowie tych, co na morzu dziś są,
+        chords: "C F C"
+      - text: Daj im Boże szczęście w tę noc, jak dziś,
+        chords: "G C"
+      - text: Daj im Boże szczęście w tę noc.
+        chords: "G C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Ciągnęliśmy sieć przy Baltimore
+        chords: "C F C F C"
+      - text: I całkiem dobrze nam to szło.
+        chords: "Am Dm G"
+      - text: W ładowniach ryb już było dość,
+        chords: "C F C"
+      - text: Ostatni zaciąg, kurs na dom.
+        chords: "G C"
+
+  - type: verse
+    label: Zwrotka 2 (cd.)
+    lines:
+      - text: Pływaliśmy już tych kilka lat
+        chords: "C F C"
+      - text: I każdy dobrze znał swój fach,
+        chords: "G C"
+      - text: Lecz nikt nie wiedział o tym, że
+        chords: "C F C"
+      - text: Swe kości złoży w morski piach.
+        chords: "G C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Nad ranem był sztorm, cholerny sztorm,
+        chords: "C F C F C"
+      - text: Przed nami rosły ściany z fal.
+        chords: "Am Dm G"
+      - text: Przy sterze stało kumpli dwóch,
+        chords: "C F C"
+      - text: A łódź innym kursem w morze szła.
+        chords: "G C"
+
+  - type: verse
+    label: Zwrotka 3 (cd.)
+    lines:
+      - text: I nagle trzask łamanych wrąg,
+        chords: "C F C"
+      - text: Ryk morza tłumił chłopców krzyk.
+        chords: "G C"
+      - text: Wśród wiru fal i twardych skał
+        chords: "C F C"
+      - text: Widziałem śmierć kamratów mych.
+        chords: "G C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Gdzieś przy St. Johns Point wywlokłem się
+        chords: "C F C F C"
+      - text: Wpół żywy na piaszczysty brzeg.
+        chords: "Am Dm G"
+      - text: Jak szczur lądowy żyję dziś,
+        chords: "C F C"
+      - text: Na morze nic nie wygna mnie.
+        chords: "G C"
+
+  - type: verse
+    label: Zwrotka 4 (cd.)
+    lines:
+      - text: A kiedy sztorm na morzu jest,
+        chords: "C F C"
+      - text: Wciąż słyszę głosy kumpli mych
+        chords: "G C"
+      - text: I dręczy mnie tak straszna myśl,
+        chords: "C F C"
+      - text: Że mogłem leżeć dziś wśród nich.
+        chords: "G C"

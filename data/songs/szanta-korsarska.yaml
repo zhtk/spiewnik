@@ -1,0 +1,54 @@
+id: szanta-korsarska
+title: Szanta korsarska
+category: sailors
+key: F#m
+tags: [szanta, korsarz, walka]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Wielkiej trzeba by wam odwagi, aby płynąć w korsarski rejs,
+        chords: "F#m Bm A E F#m"
+      - text: Twardej walki nie bać się,
+        chords: "F#m Bm"
+      - text: Ni mocnych wrażeń, ni abordaży,
+        chords: "A E F#m"
+      - text: Lecz zazdrościć będzie ten, który nie ruszy się z nami w rejs.
+        chords: "F#m Bm A E F#m"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Hardym musiałbyś być żeglarzem, by na korsarski zawitać dek,
+        chords: "F#m Bm A E F#m"
+      - text: Kapitanem Liron jest,
+        chords: "F#m Bm"
+      - text: Uderza grzmotem w hiszpańską flotę,
+        chords: "A E F#m"
+      - text: Mocne ręce, twarda pięść ma, kto na korsarski płynie rejs.
+        chords: "F#m Bm A E F#m"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Wiernych trzeba by nam kamratów, aby przeżyć korsarski los,
+        chords: "F#m Bm A E F#m"
+      - text: Z piekła zwrotów śmiej się w głos,
+        chords: "F#m Bm"
+      - text: W walki tornadzie, w dział kanonadzie,
+        chords: "A E F#m"
+      - text: Bo dostanie złota trzos ten, kto przeżyje korsarski los.
+        chords: "F#m Bm A E F#m"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Wielkiej trzeba by wam odwagi, aby płynąć w korsarski rejs,
+        chords: "F#m Bm A E F#m"
+      - text: Twardej walki nie bać się,
+        chords: "F#m Bm"
+      - text: Ni mocnych wrażeń, ni abordaży,
+        chords: "A E F#m"
+      - text: Lecz zazdrościć będzie ten, który nie ruszy się z nami w rejs.
+        chords: "F#m Bm A E F#m"

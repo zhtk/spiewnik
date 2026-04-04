@@ -1,0 +1,55 @@
+id: jolly-roger
+title: Jolly Roger
+category: sailors
+key: Am
+tags: [szanta, piraci, korsarz]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Śmiejesz się do mnie draniu, gdy brew wznoszę swą do góry
+        chords: "Am F C Dm"
+      - text: I kiedy pokład pełen krwi, gdy ginie wróg jak szczury,
+        chords: "E F C Dm"
+      - text: Gdy nagiel-zupa szkodzi mi i batem grzbiet pocięty,
+        chords: "Em A G C Dm"
+      - text: Przedrzeźniasz wtedy moją twarz na płótnie rozciągniętym.
+        chords: "Em A G C Dm"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Jolly Roger zmarnowal życie mi,
+        chords: "Am F C Dm E"
+      - text: Jolly Roger w hiszpańskiej tonie krwi,
+        chords: "Am F C Dm E"
+      - text: Jolly Roger otuli was na dnie,
+        chords: "Am G C Dm E"
+      - text: Jolly Roger, Roger, ukryjcie lepiej się!
+        chords: "Am G C Dm E"
+      - text: Na, na, na...
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: A on czerwony wkłada płaszcz na chude swe piszczele.
+        chords: "Am F C Dm"
+      - text: Nikt jeńców dziś nie będzie brał, ech, co tu gadać wiele.
+        chords: "E F C Dm"
+      - text: I tylko szanse przeżyć ma ten, kto się szybko podda,
+        chords: "Em A G C Dm"
+      - text: Gdy Jolly w czarnych szatach lśni na szczycie w blasku ognia.
+        chords: "Em A G C Dm"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Nad moją głową wisi wciąż ta niepokorna flaga,
+        chords: "Am F C Dm"
+      - text: A pod nią co dzień krew i łzy, tchórzostwo i odwaga,
+        chords: "E F C Dm"
+      - text: I choć widziałem już nieraz okryty okręt chmurą,
+        chords: "Em A G C Dm"
+      - text: Z Jolly'm śmiejemy zawsze się, bo Jolly zawsze górą.
+        chords: "Em A G C Dm"

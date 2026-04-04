@@ -1,0 +1,62 @@
+id: jesienne-wino
+title: Jesienne wino
+category: folk
+key: Em
+tags: [folk, ognisko, taniec]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Z brzękiem ostróg wjechałem do miasta
+        chords: "Em D Em"
+      - text: Pod jesień było, czas złotych liści nastał
+        chords: "Em D G"
+      - text: W kieszeni worek srebra, czas do domu
+        chords: "Am G D Em"
+      - text: Wtem za plecami woła głos
+        chords: "D C Am Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Usiądź razem ze mną
+        chords: "Em G"
+      - text: Spróbuj mego wina
+        chords: "D G"
+      - text: Z czereśni, wiśni resztek lata
+        chords: "Am G"
+      - text: Choć jesień się zaczyna
+        chords: "D C"
+      - text: Tyle tej jesieni
+        chords: "Em G"
+      - text: Jeszcze jest przed nami
+        chords: "D G"
+      - text: Zdążysz wrócić do domu
+        chords: "Am G"
+      - text: Nim noc zawita nad drogami
+        chords: "D C Am Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Słońce stało w zenicie bił południowy żar
+        chords: "Em D Em"
+      - text: A w gardle kurz przebytej drogi
+        chords: "Em D G"
+      - text: Co tam spocznę na chwilę, przecież nie zaszkodzi
+        chords: "Am G D Em"
+      - text: Do przejścia niedaleka drogę jeszcze mam
+        chords: "D C Am Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Zbudziłem się w czerwieni zachodu
+        chords: "Em D Em"
+      - text: Pod starą knajpą co rynek zamyka
+        chords: "Em D G"
+      - text: Zabrała moje srebro i duszę ostrogi
+        chords: "Am G D Em"
+      - text: Zostało pragnienie i tępy głowy ból
+        chords: "D C Am Em"

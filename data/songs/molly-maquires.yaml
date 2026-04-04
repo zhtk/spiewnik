@@ -1,0 +1,78 @@
+id: molly-maquires
+title: Molly Maquires
+category: sailors
+key: C
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Tam, gdzie słońca zwykle brak,
+        chords: "C G"
+      - text: Gdzie czekał nas śnieg i lód.
+        chords: "F G"
+      - text: Tam, gdzie sztorm i gęsta mgła,
+        chords: "C"
+      - text: Gdzie diabeł koił nas do snu.
+        chords: "Dm"
+
+  - type: verse
+    label: Zwrotka 1 (cd.)
+    lines:
+      - text: Zawsze śmiało wiodła nas przez świat,
+        chords: "F G"
+      - text: Trzymała dzielnie swój kurs.
+        chords: "C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Hej!
+        chords: "Am C"
+      - text: Way, hey, nasza "Molly Maquires"
+        chords: "Am C"
+      - text: Najszybciej z wszystkich szła pod wiatr.
+        chords: "F C G"
+      - text: Way, hey, nasza "Molly Maquires"
+        chords: "C"
+      - text: Po morzach pływała tyle lat.
+        chords: "Am"
+      - text: "..."
+        chords: "F G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Dzień, czy noc, czy świt, czy zmrok,
+        chords: "Am C"
+      - text: Dziób dumnie groźne fale prół.
+        chords: "Am C"
+      - text: Księżyc, gwiazdy, słońca blask,
+        chords: "F C G"
+      - text: To była jej najlepsza z dróg.
+        chords: "C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Ciepłe plaże, palmy dała nam,
+        chords: "Am C"
+      - text: Śmiech dziewcząt, miłości smak.
+        chords: "Am C"
+      - text: Dziś w sercu ciągle mam
+        chords: "F C G"
+      - text: Jej obraz wśród białych chmur.
+        chords: "C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Z tyłu nas wywiodła burz,
+        chords: "Am C"
+      - text: Że musiał jej pomagać Bóg.
+        chords: "Am"
+      - text: Jej słodkie imię będę śnić,
+        chords: "F G"
+      - text: W pamięci mej będzie trwać.
+        chords: "C"

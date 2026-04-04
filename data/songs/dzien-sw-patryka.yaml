@@ -1,0 +1,78 @@
+id: dzien-sw-patryka
+title: Dzień św. Patryka
+category: sailors
+key: G
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdy w Nowym Jorku wstawał świt,
+        chords: "G C"
+      - text: Na morzu szalał sztorm.
+        chords: "G D G"
+      - text: Sam diabeł piekieł otworzył drzwi
+        chords: "G D G"
+      - text: I ciągnął ship nasz na dno.
+        chords: "G D G"
+      - text: Już wściekłe fale wyrwały maszt,
+        chords: "G D G"
+      - text: Nadziei zniknął już cień.
+        chords: "G D C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: To Patryka dzień, Patryka dzień,
+        chords: "G C"
+      - text: To był Patryka dzień.
+        chords: "G D G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Już każdy widzi, że to kres
+        chords: "G C"
+      - text: I z życiem żegna się.
+        chords: "G D G"
+      - text: Kapitan nawet, ten podły łotr,
+        chords: "G D G"
+      - text: Do Świętych modlić się chce.
+        chords: "G D G"
+      - text: Uratuj Panie, patronie nasz,
+        chords: "G D G"
+      - text: A czcić będziemy ten dzień.
+        chords: "G D C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Już na nic prośby, na nic łzy,
+        chords: "G C"
+      - text: Pochłonie żywioł nas.
+        chords: "G D G"
+      - text: Za podłe życie, parszywy los,
+        chords: "G D G"
+      - text: Rachunki spłacić już czas.
+        chords: "G D G"
+      - text: W spienionych falach szedł na dno ship
+        chords: "G D G"
+      - text: I kończył życia nasz dzień.
+        chords: "G D C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Z załogi tylko pięciu z nas
+        chords: "G C"
+      - text: Ujrzało stały ląd.
+        chords: "G D G"
+      - text: Za całą forsę w kościele swym
+        chords: "G D G"
+      - text: Kupiliśmy nowy dzwon.
+        chords: "G D G"
+      - text: I bije on, kiedy morze grzmi
+        chords: "G D G"
+      - text: I chwalić będzie ten dzień.
+        chords: "G D C"

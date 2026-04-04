@@ -1,0 +1,90 @@
+id: pacyfik
+title: Pacyfik
+category: sailors
+key: D
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Kiedy szliśmy przez Pacyfik,
+        chords: "D"
+      - text: "- Way-hey, roluj go!"
+        chords: "D A"
+      - text: Zwiało nam z pokładu skrzynki...
+        chords: "D"
+      - text: "- Taki był cholerny sztorm!"
+        chords: "D G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Hej, znowu zmyło coś,
+        chords: "A D"
+      - text: Zniknął w morzu jakiś gość.
+        chords: "G"
+      - text: Hej, policz który tam,
+        chords: "A D"
+      - text: Jaki znowu zmyło kram.
+        chords: "G A"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Pełne śledzia i sardynki,...
+        chords: "D"
+      - text: "- Way-hey, roluj go!"
+        chords: "D A"
+      - text: Kosze krabów, beczkę sera,...
+        chords: "D"
+      - text: "- Taki był cholerny sztorm!"
+        chords: "D G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Kalesony oficera,...
+        chords: "D"
+      - text: "- Way-hey, roluj go!"
+        chords: "D A"
+      - text: Sieć jeżowców, jedną żabę,...
+        chords: "D"
+      - text: "- Taki był cholerny sztorm!"
+        chords: "D G"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Kapitańską zmyło babę,...
+        chords: "D"
+      - text: "- Way-hey, roluj go!"
+        chords: "D A"
+      - text: Beczki rumu nam nie zwiało -
+        chords: "D"
+      - text: POŁ ZAŁOGI JA TRZYMAŁO!
+        chords: "D G"
+
+  - type: chorus
+    label: Refren końcowy
+    lines:
+      - text: Hej, znowu zmyło coś,
+        chords: "A D"
+      - text: Zniknął w morzu jakiś gość.
+        chords: "G"
+      - text: Hej, policz który tam,
+        chords: "A D"
+      - text: Jaki znowu zmyło kram.
+        chords: "G A"
+
+  - type: chorus
+    label: Refren końcowy 2
+    lines:
+      - text: Hej, znowu zmyło coś,
+        chords: "A D"
+      - text: Zniknął w morzu jakiś gość.
+        chords: "G"
+      - text: Postawcie wina dzban,
+        chords: "A D"
+      - text: Opowiemy dalej wam!
+        chords: "G A"

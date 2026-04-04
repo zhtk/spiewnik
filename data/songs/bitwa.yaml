@@ -1,0 +1,78 @@
+id: bitwa
+title: Bitwa
+category: sailors
+key: Am
+tags: [szanta, walka, morze]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Okręt nasz wpłynął w mgłę i fregaty dwie
+        chords: "Am G F Dm"
+      - text: Popłynęły naszym kursem by nie zgubić się.
+        chords: "Am G C E7"
+      - text: Potem szkwał wypchnął nas poza mleczny pas
+        chords: "Am G F Dm"
+      - text: I nikt wtedy nie przypuszczał, że fregaty śmierć nam niosą.
+        chords: "Am G C E7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Ciepła krew poleje się strugami,
+        chords: "C G Am Em"
+      - text: Wygra ten, kto utrzyma ship.
+        chords: "F G Am"
+      - text: W huku dział ktoś przykryje się falami,
+        chords: "C G Am Em"
+      - text: Jak da Bóg, ocalimy bryg.
+        chords: "F G Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Nagły huk w uszach grał i już atak trwał,
+        chords: "Am G F Dm"
+      - text: To fregaty uzbrojone rzędem w setkę dział.
+        chords: "Am G C E7"
+      - text: Czarny dym spowił nas, przyszedł śmierci czas,
+        chords: "Am G F Dm"
+      - text: Krzyk i lament mych kamratów, przerywany ogniem katów.
+        chords: "Am G C E7"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Pocisk nasz trafił w maszt, usłyszałem trzask,
+        chords: "Am G F Dm"
+      - text: To sterburtę rozwalił jedna z naszych salw.
+        chords: "Am G C E7"
+      - text: '"Żagiel staw" krzyknął ktoś, znów piratów złość,'
+        chords: "Am G F Dm"
+      - text: Bo od rufy nam powiało, a fregatom w mordę wiało.
+        chords: "Am G C E7"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Z fregat dwóch tylko ta pierwsza w pogoń szła,
+        chords: "Am G F Dm"
+      - text: Wnet abordaż rozpoczęli, gdy dopadli nas.
+        chords: "Am G C E7"
+      - text: Szyper ich dziury dwie zrobił w swoim dnie,
+        chords: "Am G F Dm"
+      - text: Nie pomogło to psubratom, reszta z rei zwisa za to.
+        chords: "Am G C E7"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Po dziś dzień tamtą mgłę i fregaty dwie,
+        chords: "Am G F Dm"
+      - text: Kiedy noc zamyka oczy, widzę w moim śnie.
+        chords: "Am G C E7"
+      - text: Tamci, co śpią na dnie, uśmiechają się,
+        chords: "Am G F Dm"
+      - text: Że ich straszna śmierć pomścili bracia, którzy zwyciężyli.
+        chords: "Am G C E7"
