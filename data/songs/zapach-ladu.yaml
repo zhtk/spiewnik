@@ -14,20 +14,20 @@ verses:
         chords: "Em A7 G"
       - text: Jego światem było morze, które kochał, póki żył,
         chords: "D A G"
-      - text: Dziś na połów stara lajba pływa jego syn.
-        chords: "D A D"
+      - text: Dziś na połów starą łajbą pływa jego syn.
+        chords: "G D A D"
 
   - type: chorus
     label: Refren
     lines:
-      - text: Trawa i kwiatami zawsze pachnie ląd,
+      - text: Trawą i kwiatami zawsze pachnie ląd,
         chords: "D G D"
       - text: Kiedy łodzie pełne tłustych ryb obierają kurs na dom.
-        chords: "Em A7 G"
-      - text: Tam stęsknione nasze serca uspokają bicie swe,
-        chords: "D A G"
+        chords: "D Em A7"
+      - text: Tam stęsknione nasze serca uspokoją bicie swe,
+        chords: "G D A"
       - text: Zanim pożegnania łzy wypełnią oczy Twe.
-        chords: "D A D"
+        chords: "G D A D"
 
   - type: verse
     label: Zwrotka 2

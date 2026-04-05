@@ -1,0 +1,54 @@
+id: zyczenia-noworoczne
+title: Życzenia Noworoczne
+category: sailors
+key: C
+tags: [szanta, morze, nowy-rok]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Patrzę w błękit nieba dobry bożku,
+        chords: "C G"
+      - text: W horyzontu cieniach szukam lądu.
+        chords: "Am Em"
+      - text: W kubryku Nowy Rok rum rozlewa,
+        chords: "Dm G C Am"
+      - text: Krzyczy gdzieś w horyzont, horyzont śpiewa.
+        chords: "Dm F G C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: W nowym roku, białych żagli,
+        chords: "C Em"
+      - text: Tak wydętych dobrym wiatrem,
+        chords: "F Dm G"
+      - text: Byśmy zawsze żeglowali
+        chords: "C Em"
+      - text: Do archipelagu pragnień...
+        chords: "F E"
+      - text: Aby gdzieś w zatoce miłość
+        chords: "Am"
+      - text: Przechadzała się po kei,
+        chords: "F"
+      - text: Tak się jakoś porobiło,
+        chords: "G"
+      - text: Że się spełnią sny, nadzieje.
+        chords: "C"
+      - text: Białe mewy zakrzyczały swoim śpiewem,
+        chords: "F Dm"
+      - text: Że się spełnią sny, nadzieje.
+        chords: "E Am G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Wiatr całuje fale w biały welon,
+        chords: "C G"
+      - text: Żagle w karnawale tańczą z mewą.
+        chords: "Am Em"
+      - text: Za rufą stary rok się oddala,
+        chords: "Dm G C Am"
+      - text: Gwiazd tasiemki błyszczą, uciekną zaraz.
+        chords: "Dm F G C"

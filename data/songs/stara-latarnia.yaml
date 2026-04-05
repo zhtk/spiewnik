@@ -1,0 +1,54 @@
+id: stara-latarnia
+title: Stara Latarnia
+category: sailors
+key: G
+tags: [szanta, morze, tęsknota]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Daleko za rufą pozostał mój dom,
+        chords: "G Em D G"
+      - text: Na skalistym wybrzeżu, o wiele mil stąd.
+        chords: "D G C D"
+      - text: Zostały marzenia z dziecięcych mych dni
+        chords: "D G C D"
+      - text: I stara latarnia, co wciąż mi się śni.
+        chords: "G Em D G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Gdy pierwszy raz w morze trza było mi wyjść,
+        chords: "G Em D G"
+      - text: Pamiętam głos matki, jej oczy do dziś.
+        chords: "D G C D"
+      - text: Gdy już z pełną kabzą wróciłem jak pan,
+        chords: "D G C D"
+      - text: Zastałem dom pusty i zostałem sam.
+        chords: "G Em D G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Na wielu pokładach znalazłem swój dom,
+        chords: "G Em D G"
+      - text: Choć pieskie to życie, nie zszedłem na ląd.
+        chords: "D G C D"
+      - text: Tam przez całe lata tyrałem jak wół,
+        chords: "D G C D"
+      - text: Dziś pierwszym po Bogu mianował mnie Król.
+        chords: "G Em D G"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: A kiedy mi przyjdzie do Hilo wziąć kurs,
+        chords: "G Em D G"
+      - text: Zostawię swą duszę wśród zielonych wzgórz.
+        chords: "D G C D"
+      - text: Zmęczone me ciało niech spocznie na dnie,
+        chords: "D G C D"
+      - text: Ukoi się w falach i w ostatnim śnie.
+        chords: "G Em D G"

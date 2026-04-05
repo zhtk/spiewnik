@@ -1,7 +1,7 @@
 id: zegluj-zegluj
 title: Żegluj, żegluj
 category: sailors
-key: C
+key: Am
 tags: [szanta, morze, zeglowanie]
 
 verses:
@@ -9,33 +9,32 @@ verses:
     label: Refren
     lines:
       - text: Żegluj, żegluj, tam gdzie Nowa Szkocja.
-        chords: "C"
+        chords: "C Em Am F G"
       - text: Żegluj, żegluj, gdzie wstaje nowy dzień.
-        chords: "Em Am"
+        chords: "C Em Am F G C"
 
   - type: verse
     label: Zwrotka 1
     lines:
       - text: Głos Nowej Szkocji nam przynosi wiatr,
-        chords: "F G"
+        chords: "Am G C"
       - text: To zapowiedź nowych dni.
-        chords: "C"
-      - text: Znowu wołają do nas rykiem fal,
-        chords: "Em Am"
+        chords: "F C F"
+      - text: Znowu woła do nas rykiem fal,
+        chords: "Dm C G Am"
       - text: Tam znajdziecie nowy świat.
-        chords: "G C"
+        chords: "F C G"
       - text: Znów dumny brzeg będzie witał was
-        chords: "F Dm C"
+        chords: "Am G C"
       - text: Majestatem groźnych skał.
-        chords: "G Am"
+        chords: "F C F"
       - text: Każdy dzień tu świtem przywita was,
-        chords: "F C"
+        chords: "Dm C G Am"
       - text: Coraz bliższym stanie się,
-        chords: "G Am"
+        chords: "F C F"
       - text: Twoim własnym domem stanie się.
-        chords: "F C"
-      - text: "..."
-        chords: "F Dm G C"
+        chords: "Dm G C"
+    bis: refren x2
 
   - type: verse
     label: Zwrotka 2
@@ -43,18 +42,19 @@ verses:
       - text: Atlantyk bije falą w stromy brzeg,
         chords: "Am G C"
       - text: Wściekle ryczy pośród skał.
-        chords: "F C G Am"
+        chords: "F C F"
       - text: W górze dzikich ptaków słychać śpiew,
-        chords: "F C"
+        chords: "Dm C G Am"
       - text: Głos ich płynie z wiatrem w dal.
-        chords: "G Am"
+        chords: "F C G"
       - text: Tam bujnej trawy się kołysze łan
-        chords: "F C"
+        chords: "Am G C"
       - text: I strumyków cichy szept.
-        chords: "G Am"
+        chords: "F C F"
       - text: W mej pamięci zawsze będzie trwał,
-        chords: "F C"
+        chords: "Dm C G Am"
       - text: Lecz niedługo powiem wam,
-        chords: "F Dm G"
+        chords: "F C F"
       - text: Lecz niedługo wszystkim powiem wam...
-        chords: "C"
+        chords: "Dm G C"
+    bis: refren x3

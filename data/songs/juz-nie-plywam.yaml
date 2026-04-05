@@ -1,0 +1,62 @@
+id: juz-nie-plywam
+title: Już nie pływam
+category: sailors
+key: D
+tags: [szanta, morze, nostalgia]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Długi bar, ósmy drink wokół ludzi tłum
+        chords: "D F#m Am B7"
+      - text: Nie wiem sam czy to splin, czy wątroby ból
+        chords: "Gm Em G A7"
+      - text: Czwarty rok w barze tym piję piwo swe
+        chords: "D D7 G Bb7"
+      - text: Nie wiem sam czy to splin, czy na morze chcę.
+        chords: "D G Em7 A"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Ja już cztery lata nie pływam
+        chords: "D F# Bm Bm7"
+      - text: Obiecałem to sobie i żonie
+        chords: "G Em7 A A7"
+      - text: Urząd Pracy codziennie zdobywam
+        chords: "D F# Bm Bm7"
+      - text: I choć jestem na lądzie to tonę.
+        chords: "Em7 G A A7"
+      - text: Moje rejsy wspominam fatalnie
+        chords: "D F# Bm Bm7"
+      - text: Bo bez przerwy tęskniłem za domem
+        chords: "G Em7 A A7"
+      - text: Jednak tam życie było realne
+        chords: "D F# Bm Bm7"
+      - text: A tu jestem na lądzie i tonę.
+        chords: "Em7 G A A7"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Co dzień idę na brzeg, w wodę gapię się
+        chords: "D F#m Am B7"
+      - text: Zastanawia się człek, dobrze to czy źle
+        chords: "Gm Em G A7"
+      - text: Morze dało mi w kość, ale myślę że
+        chords: "D D7 G Bb7"
+      - text: Tylko sobie na złość pożegnałem je.
+        chords: "D G Em7 A"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Całowałem jej twarz i modliłem się
+        chords: "D F#m Am B7"
+      - text: Żeby choć jeden raz zrozumiała mnie
+        chords: "Gm Em G A7"
+      - text: Rzekła pamiętaj o obietnicy swej
+        chords: "D D7 G Bb7"
+      - text: I wiedziałem już że, że nie zostawię jej.
+        chords: "D G Em7 A"

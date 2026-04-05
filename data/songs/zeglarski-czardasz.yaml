@@ -1,0 +1,54 @@
+id: zeglarski-czardasz
+title: Żeglarski Czardasz
+category: sailors
+key: Dm
+tags: [szanta, morze, taniec]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Kiedy w sercu pusto, źle - grzbiety fal dokoła,
+        chords: "Dm Dm A Dm"
+      - text: Gdy tęsknota duszę rwie - pochyla się głowa,
+        chords: "Dm Dm A Dm D7"
+      - text: Kiedy krzyczeć chcesz, stały ląd przywołać -
+        chords: "Gm Dm A Dm D7"
+      - text: Zaśpiewaj piosnkę tę, jeśli tylko zdołasz.
+        chords: "Gm Dm A Dm"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Jeszcze tylko kilka mil szybko przepłyniemy,
+        chords: "Dm Dm A Dm"
+      - text: Jeszcze tylko kilka chwil w porcie odpoczniemy.
+        chords: "Dm Dm A Dm D7"
+      - text: Wiatr nam czardasza gra, żagli płótno śpiewa
+        chords: "Gm Dm A Dm D7"
+      - text: I płynie piosnka ta, tam gdzie szumią drzewa.
+        chords: "Gm Dm A Dm"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Jakoś wtedy lżej Ci jest, nawet się uśmiechasz
+        chords: "Dm Dm A Dm"
+      - text: I stać Cię na każdy gest, i już się nie wściekasz.
+        chords: "Dm Dm A Dm D7"
+      - text: Zęzy - cóż, taki los, bosman nie wybiera,
+        chords: "Gm Dm A Dm D7"
+      - text: Smutek uleciał precz, w sercu radość wzbiera.
+        chords: "Gm Dm A Dm"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Czardasz smutki goni precz, wszystkich rozwesela,
+        chords: "Dm Dm A Dm"
+      - text: Nie jest ważna żadna rzecz, kiedy gra kapela,
+        chords: "Dm Dm A Dm D7"
+      - text: Gitara, parę strun, głosów tłum schrypnięty,
+        chords: "Gm Dm A Dm D7"
+      - text: Marynarski wór, w pokład tłuką pięty.
+        chords: "Gm Dm A Dm"

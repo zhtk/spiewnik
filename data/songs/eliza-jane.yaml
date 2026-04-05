@@ -1,0 +1,73 @@
+id: eliza-jane
+title: Eliza Jane
+category: sailors
+key: G
+tags: [szanta, humor, port]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Do portu przybił statek nasz
+        chords: "G C G"
+      - text: W słoneczny dzień.
+        chords: "G D"
+      - text: Po długim rejsie sam to znasz,
+        chords: "G C G"
+      - text: Przyszedł zabawy czas.
+        chords: "G D G"
+      - text: Na bulwar, gdzie dziewczynek moc,
+        chords: "G C G"
+      - text: Wybrałem się,
+        chords: "G D"
+      - text: Tam panna w oko wpadła mi,
+        chords: "G C G"
+      - text: Miałem apetyt lwi.
+        chords: "G D G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: 'O! Eliza, Eliza Jane!'
+        chords: "G C G G D G"
+    bis: x4
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: 'Więc klękam przed nią mówiąc tak:'
+        chords: "G C G"
+      - text: Ślicznotko ma,
+        chords: "G D"
+      - text: Poczujesz w ustach morza smak,
+        chords: "G C G"
+      - text: Kiedy buziaka dasz.
+        chords: "G D G"
+      - text: 'A ona na to: "Takluj się!"'
+        chords: "G C G"
+      - text: Wszak dobrze wiesz,
+        chords: "G D"
+      - text: Z kamieniem najpierw pierścień daj,
+        chords: "G C G"
+      - text: Potem dam Ci, co chcesz.
+        chords: "G D G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Oj! Dałem pierścień, forsę też,
+        chords: "G C G"
+      - text: Ślicznotce mej.
+        chords: "G D"
+      - text: Przed ołtarz wkrótce wiodła mnie,
+        chords: "G C G"
+      - text: Żebym nie uciekł jej.
+        chords: "G D G"
+      - text: Na drugi dzień ruszałem w rejs,
+        chords: "G C G"
+      - text: Bo cały świat
+        chords: "G D"
+      - text: Ma tysiąc portów, tysiąc miejsc,
+        chords: "G C G"
+      - text: W każdym z nich Liza ma.
+        chords: "G D G"

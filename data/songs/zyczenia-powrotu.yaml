@@ -1,0 +1,54 @@
+id: zyczenia-powrotu
+title: Życzenia Powrotu
+category: sailors
+key: D
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: My staliśmy na brzegu - a on odpływał stąd
+        chords: "D G A D"
+      - text: Przestrzenie są dla niego - a nam pozostał ląd
+        chords: "D G A"
+      - text: Że tak po prostu musi być, powtarzał razy sto
+        chords: "Bm A D G"
+      - text: Wierzyliśmy, że wróci, wszak nam obiecał to
+        chords: "D G A D"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Płyń, stary, płyń, niech wiatry ci sprzyjają
+        chords: "D G A D"
+      - text: Od sztormów złych niech chroni dobry Bóg
+        chords: "G D E A"
+      - text: Nocą prócz gwiazd niech szlak twój oświetlają
+        chords: "D G A D"
+      - text: Życzenia, byś powrócił do nas tu.
+        chords: "G D A D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Gdy rok już z górą minął, wiadomość przyszła, że
+        chords: "D G A D"
+      - text: Ten okręt, którym płynął, na morza leży dnie
+        chords: "D G A"
+      - text: Lecz nikt z nas w to nie wierzy, honoru słowo dam,
+        chords: "Bm A D G"
+      - text: Bo on na pewno przeżył, wszak tak obiecał nam.
+        chords: "D G A D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Będziemy stać na kei, choćby i lat sto
+        chords: "D G A D"
+      - text: Nie zbraknie nam nadziei, że znów ujrzymy go
+        chords: "D G A"
+      - text: I w tawernianym dymie opowieść będzie snuł
+        chords: "Bm A D G"
+      - text: A potem znów wypłynie - my zostaniemy tu.
+        chords: "D G A D"

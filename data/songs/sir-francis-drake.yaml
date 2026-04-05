@@ -1,0 +1,66 @@
+id: sir-francis-drake
+title: Sir Francis Drake
+category: sailors
+key: Em
+tags: [szanta, piraci, historia]
+
+verses:
+  - type: chorus
+    label: Refren
+    lines:
+      - text: O-e-o! Sir Francis Drake
+        chords: "Em G D"
+      - text: O-e-o! Pożegnał Anglii brzeg
+        chords: "C Em C B7"
+      - text: O-e-o! By wrogów dopaść swych
+        chords: "Em G D"
+      - text: O-e-o! Hiszpańskiej żądny krwi.
+        chords: "C G C Em"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: On Królowej swojej całym sercem wierny był,
+        chords: "Em B7 Em D G"
+      - text: On bogactwo dla niej zdobył i nie szczędził sił.
+        chords: "D Em C B7 Em"
+      - text: Morskim psem go zwali, bo gdy wpadł na wroga trop,
+        chords: "Em B7 Em D G"
+      - text: To do końca zawsze ścigał go.
+        chords: "D C Em B7 Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: To opatrzność przewodnikiem była jego dni,
+        chords: "Em B7 Em D G"
+      - text: '"Złotej Łani", co go niosła, nie pokonał nikt.'
+        chords: "D Em C B7 Em"
+      - text: Choć nieznany szlak i nieprzeparte setki mil,
+        chords: "Em B7 Em D G"
+      - text: Zawsze dobre wiatry były z nim.
+        chords: "D C Em B7 Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: On zasady miał niezłomne, twarde niczym stal,
+        chords: "Em B7 Em D G"
+      - text: Stół miał zastawiony złotem, z niego pił i jadł,
+        chords: "D Em C B7 Em"
+      - text: Ze skazańcem swym potrafił hulać całą noc
+        chords: "Em B7 Em D G"
+      - text: I w objęcia śmierci oddać go.
+        chords: "D C Em B7 Em"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Choć piratem był, szlachecki jednak tytuł miał,
+        chords: "Em B7 Em D G"
+      - text: Jego imię połączyło oceany dwa,
+        chords: "D Em C B7 Em"
+      - text: On odważnie pierwszy spojrzał na Cape Horn,
+        chords: "Em B7 Em D G"
+      - text: Zuchwałością nikt nie przewyższał go.
+        chords: "D C Em B7 Em"

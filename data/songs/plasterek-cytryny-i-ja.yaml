@@ -1,0 +1,66 @@
+id: plasterek-cytryny-i-ja
+title: Plasterek cytryny i ja
+category: sailors
+key: Em
+tags: [szanta, humor, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Na koniec ciężkiego dnia, na koniec ciężkiego dnia
+        chords: "Em"
+      - text: Gdy słońce już w lesie zaczyna się chować
+        chords: "Am"
+      - text: To nie wiem jak wy, ale ja, to nie wiem jak wy, ale ja
+        chords: "Am"
+      - text: Ja lubię tak sobie ot ciut pożeglować
+        chords: "Am B7 Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Szklaneczka cieszy się, bo; szklaneczka cieszy się, bo
+        chords: "Em"
+      - text: Bo widzi, że coli butelkę wytaczam
+        chords: "Am"
+      - text: I przypomina mi o…, i przypomina mi o…
+        chords: "Am"
+      - text: O odrobinie rudego whiskacza,
+        chords: "Am B7 Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Od brzegu szklanego, po szklany horyzont
+        chords: "Em Am"
+      - text: Gdzie szronu rozpina się mgła
+        chords: "Am B7 Em B7"
+      - text: Płyniemy spokojnie, pośpiechem się brzydząc,
+        chords: "Em Am"
+      - text: Plasterek cytryny i ja
+        chords: "Am B7 Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Nie raz słyszałem już, że; nie raz słyszałem już, że
+        chords: "Em"
+      - text: Że takie wieczorne pływanie mnie zgubi
+        chords: "Am"
+      - text: A ja właśnie taki mam styl, a ja właśnie taki mam styl
+        chords: "Am"
+      - text: Niech każdy tak sobie żegluje – jak lubi
+        chords: "Am B7 Em"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Lecz jeśli martwi was fakt, lecz jeśli martwi was fakt,
+        chords: "Em"
+      - text: Że rejsy zaczynać wieczorem najtrudniej
+        chords: "Am"
+      - text: W porządku przyrzekam wam dziś, w porządku przyrzekam wam dziś,
+        chords: "Am"
+      - text: Od jutra już zacznę wypływać w południe
+        chords: "Am B7 Em"

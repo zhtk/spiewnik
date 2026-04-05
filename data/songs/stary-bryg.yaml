@@ -1,0 +1,54 @@
+id: stary-bryg
+title: Stary Bryg (Statek Widmo)
+category: sailors
+key: Em
+tags: [szanta, morze, legenda]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdy wypływał z portu stary bryg,
+        chords: "Em D G D Em"
+      - text: Jego losów nie znał wtedy nikt.
+        chords: "Em D G D"
+      - text: Nikt nie wiedział o tym, że
+        chords: "Em D"
+      - text: Statkiem-widmem stanie się stary bryg.
+        chords: "A B7 Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Hej, ho! Na "Umrzyka Skrzyni"
+        chords: "Em G D Em"
+      - text: I butelka rumu.
+        chords: "G D B7 Em"
+      - text: Hej, ho! Resztę czart uczyni
+        chords: "Em G D Em"
+      - text: I butelka rumu.
+        chords: "G D B7 Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Co z załogą zrobił stary bryg,
+        chords: "Em D G D Em"
+      - text: Tego też nie zgadnie chyba nikt.
+        chords: "Em D G D"
+      - text: Czy zostawił w porcie ją,
+        chords: "Em D"
+      - text: Czy na morza dnie? - Nikt nie wie gdzie.
+        chords: "A B7 Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Przepowiednia zła jest, że ho ho!
+        chords: "Em D G D Em"
+      - text: Kto go spotka - marny jego los.
+        chords: "Em D G D"
+      - text: Ale my nie martwmy się,
+        chords: "Em D"
+      - text: Hej! Nie martwmy się - rum jeszcze jest.
+        chords: "A B7 Em"

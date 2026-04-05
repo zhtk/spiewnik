@@ -1,0 +1,78 @@
+id: to-my-korsarze
+title: To My, Korsarze
+category: sailors
+key: Em
+tags: [szanta, piraci, korsarz]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Początek był radosny, ten rejs to istny raj,
+        chords: "Em Am Em"
+      - text: To był początek wiosny, był kwiecień, albo maj.
+        chords: "Em Am Em"
+      - text: Te uśmiechnięte gęby w pamięci ciągle mam,
+        chords: "Am Em Am Em"
+      - text: Obłowić się po zęby - marzeniem było nam.
+        chords: "Am Em Am Bm Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: To my, bracia korsarze!
+        chords: "D Em"
+      - text: To my, przebiegli tak!
+        chords: "D Em"
+      - text: Te blizny, tatuaże...
+        chords: "D Em Bm"
+      - text: Jolly Roger to nasz znak!
+        chords: "Am Bm Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Gdy "Lady", szkuner żwawy, na kursie stanął nam,
+        chords: "Em Am Em"
+      - text: Powiedział John Kulawy - "Ja jemu łupnia dam!".
+        chords: "Em Am Em"
+      - text: Do abordażu świtem stanęło dwieście głów,
+        chords: "Am Em Am Em"
+      - text: A każdy pewny przy tym, że łatwo pójdzie znów!
+        chords: "Am Em Am Bm Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Jak cień pirackiej flagi - horyzont przeciął lęk,
+        chords: "Em Am Em"
+      - text: Nie brakło nam odwagi, wnet opór wroga pękł.
+        chords: "Em Am Em"
+      - text: Wtem - jakież to zdziwienie - ładownie puste są!
+        chords: "Am Em Am Em"
+      - text: Ogromne poruszenie wstrząsnęło sakwą mą.
+        chords: "Am Em Am Bm Em"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Nieznane świata strony opłynąć przyszło nam,
+        chords: "Em Am Em"
+      - text: Wszak pędził jak szalony nasz statek, mówię wam.
+        chords: "Em Am Em"
+      - text: Gdy nagle ciemne chmury, sztormowy nadszedł czas,
+        chords: "Am Em Am Em"
+      - text: Wtem słychać grzmot ponury i masztu suchy trzask!
+        chords: "Am Em Am Bm Em"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Nie dane jednak było Neptuna ujrzeć tron,
+        chords: "Em Am Em"
+      - text: Gdy piekło się skończyło, nie dany był nam zgon.
+        chords: "Em Am Em"
+      - text: Obdartych, wycieńczonych na brzeg rzuciło gdzieś,
+        chords: "Am Em Am Em"
+      - text: Po złocie zagrabionym przepadła dawno wieść.
+        chords: "Am Em Am Bm Em"

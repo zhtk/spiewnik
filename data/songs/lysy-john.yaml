@@ -9,54 +9,62 @@ verses:
     label: Zwrotka 1
     lines:
       - text: Nasz Stary, Łysy John, kiedy pił
-        chords: "D G D"
+        chords: "D G"
       - text: To pomysłów we łbie tysiąc miał.
-        chords: "Bm D G D"
+        chords: "D Bm"
       - text: Im więcej whisky lał w pusty łeb,
-        chords: "A7 D"
+        chords: "D G"
       - text: Zaraz w morze z nami ruszać chciał
-        chords: "D A7 G"
+        chords: "D A7 D"
       - text: I choć płacił marnie, nie wiem sam,
-        chords: "D G D Bm"
+        chords: "D A7 G D"
       - text: Skąd ludzi do pracy zawsze miał.
-        chords: "D G A7 D"
+        chords: "G D Bm"
 
   - type: chorus
     label: Refren
     lines:
       - text: Do Lowlands, gdzie Holandii brzegi lśnią,
-        chords: "D G A7"
-      - text: Kierował lajbę Łysy John.
         chords: "D"
+      - text: Kierował łajbę Łysy John.
+        chords: "G A7 D"
 
   - type: verse
     label: Zwrotka 2
     lines:
       - text: Tam w porcie czeka już Mary Sue,
-        chords: "D G D"
+        chords: "D G"
       - text: Która wielka jest jak mały sklep.
-        chords: "Bm D G D"
+        chords: "D Bm"
       - text: Jest córka Johna i tak jak on
-        chords: "A7 D"
+        chords: "D G"
       - text: Ma zębów pięć i łysy łeb.
-        chords: "D A7 G"
+        chords: "D A7 D"
       - text: Jeśli przed ołtarzem powiesz "nie",
-        chords: "D G D Bm"
+        chords: "D A7 G D"
       - text: Do zera oskubie czaszkę twą.
-        chords: "D G A7 D"
+        chords: "G D Bm"
 
   - type: verse
     label: Zwrotka 3
     lines:
       - text: Nim ruszysz z nami do Lowlands w rejs,
-        chords: "D G D"
+        chords: "D G"
       - text: Jeszcze raz zastanów dobrze się.
-        chords: "Bm D G D"
+        chords: "D Bm"
       - text: Być zięciem Johna to żaden zysk,
-        chords: "A7 D"
+        chords: "D G"
       - text: To z załogi każdy dziś już wie.
-        chords: "D A7 G"
+        chords: "D A7 D"
       - text: Spójrz na nasze głowy, patrz jak lśnią,
-        chords: "D G D Bm"
+        chords: "D A7 G D"
       - text: Za grosze sprzedałeś wolność swą.
-        chords: "D G A7 D"
+        chords: "G D Bm"
+
+  - type: chorus
+    label: Refren końcowy
+    lines:
+      - text: Do Lowlands, gdzie Holandii brzegi lśnią,
+        chords: "D"
+      - text: Twój skalp wywiezie Łysy John.
+        chords: "G A7 D"

@@ -22,7 +22,7 @@ verses:
     lines:
       - text: Pękały nam żagle tu i tam,
         chords: "Am E7"
-      - text: Rabał po lajbie grad
+      - text: Rąbał po łajbie grad
         chords: "Am E7"
       - text: I tylko jeden został nam
         chords: "C G C G"
@@ -72,7 +72,7 @@ verses:
         chords: "Am E7"
       - text: Jak grom spadło na nas to
         chords: "Am E7"
-      - text: I koles mój przy pompie mdlał,
+      - text: I koleś mój przy pompie mdlał,
         chords: "C G C G"
       - text: Cucili wszyscy go.
         chords: "Am E7 Am"
@@ -129,7 +129,10 @@ verses:
     label: Zwrotka 5 (zakończenie)
     lines:
       - text: I każdy ten wór poklepać chciał,
-        chords: "Dm Am E7 Am"
+        chords: "Am E7"
       - text: Nim skrył go bakisty mrok,
+        chords: "Am E7"
       - text: Bo tyle nam nadziei dał
+        chords: "C G C G"
       - text: Kochany, dzielny grot.
+        chords: "Am E7 Am"

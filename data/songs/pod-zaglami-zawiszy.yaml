@@ -1,0 +1,54 @@
+id: pod-zaglami-zawiszy
+title: Pod Żaglami Zawiszy
+category: sailors
+key: F
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Pod żaglami "Zawiszy"
+        chords: "C7 C7 F F"
+      - text: Życie płynie jak w bajce,
+        chords: "F F Bb Bb"
+      - text: Czy to w sztormie, czy w ciszy,
+        chords: "Bb Bb F F"
+      - text: Czy w noc ciemną, dzień jasny.
+        chords: "C7 C7 F F"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Białe żagle na masztach -
+        chords: "C7 C7 F F"
+      - text: To jest widok mocarny,
+        chords: "F F Bb Bb"
+      - text: W sercu radość i siła,
+        chords: "Bb Bb F F"
+      - text: To "Zawisza" nasz "Czarny".
+        chords: "C7 C7 F F"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Kiedy grot ma dwa refy,
+        chords: "C7 C7 F F"
+      - text: Fala pokład zalewa,
+        chords: "F F Bb Bb"
+      - text: To załoga "Zawiszy"
+        chords: "Bb Bb F F"
+      - text: Czuje wtedy, że pływa.
+        chords: "C7 C7 F F"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Więc popłyńmy raz jeszcze
+        chords: "C7 C7 F F"
+      - text: W tę dal siną bez końca,
+        chords: "F F Bb Bb"
+      - text: Aby użyć swobody,
+        chords: "Bb Bb F F"
+      - text: Wiatru, morza i słońca.
+        chords: "C7 C7 F F"

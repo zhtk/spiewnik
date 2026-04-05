@@ -1,0 +1,74 @@
+id: john-kanaka
+title: John Kanaka
+category: sailors
+key: C
+tags: [szanta, morze, praca]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Mój kumpel dzisiaj do mnie rzekł,
+        chords: "C F C"
+      - text: '- John Kanaka-naka tullai-hej!'
+        chords: "C G C"
+      - text: Roboty nie ruszę, choćbyś się wściekł,
+        chords: "C F C"
+      - text: '-John Kanaka-naka tullai-hej!'
+        chords: "C G C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: 'Tullai-hej!, oh tullai-hej!'
+        chords: "C F C"
+      - text: John Kanaka-naka tullai-hej!
+        chords: "C G C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Ech, szlag by trafił ten pieski świat,
+        chords: "C F C"
+      - text: '- John Kanaka-naka tullai-hej!'
+        chords: "C G C"
+      - text: Do domu jeszcze drogi szmat,
+        chords: "C F C"
+      - text: '-John Kanaka-naka tullai-hej!'
+        chords: "C G C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Jak szliśmy raz do Frisco Bay,
+        chords: "C F C"
+      - text: '- John Kanaka-naka tullai-hej!'
+        chords: "C G C"
+      - text: Sto dni się ciągnął parszywy rejs.
+        chords: "C F C"
+      - text: '-John Kanaka-naka tullai-hej!'
+        chords: "C G C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Tak szliśmy wokół przylądka Horn,
+        chords: "C F C"
+      - text: '- John Kanaka-naka tullai-hej!'
+        chords: "C G C"
+      - text: Gdzie diabeł nam powiedział won!
+        chords: "C F C"
+      - text: '-John Kanaka-naka tullai-hej!'
+        chords: "C G C"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Ciągnij go bracie, ciągnij go też,
+        chords: "C F C"
+      - text: '- John Kanaka-naka tullai-hej!'
+        chords: "C G C"
+      - text: Ciągnij go znowu i forsę bierz.
+        chords: "C F C"
+      - text: '-John Kanaka-naka tullai-hej!'
+        chords: "C G C"

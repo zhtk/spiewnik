@@ -1,0 +1,62 @@
+id: aniolowie
+title: Aniołowie
+category: sailors
+key: Am
+tags: [szanta, zima, swieta]
+
+verses:
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Aniołowie dziś latają nisko.
+        chords: "Am Dm E Am"
+      - text: Wczoraj przyszła kartka nie wiem skąd.
+        chords: "Am Dm G7 C"
+      - text: To już zima ot i wszystko
+        chords: "Dm Am"
+      - text: 'A ja życzę ci – „Wesołych świąt".'
+        chords: "Am Dm E Am"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Idą święta, już zima dokoła
+      - text: Chyłkiem zbliża się Nowy Rok
+        chords: "Am C"
+      - text: A nad drzwiami jemioła,
+        chords: "Bb A7"
+      - text: Ciepło ognia, przytulny kąt.
+        chords: "Dm F E7"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Łodzie w porcie pod białą pościelą,
+      - text: Już zapadły w zimowy sen.
+        chords: "Am Dm E Am"
+      - text: Gruba kra na jeziorze,
+        chords: "Am Dm G7 C"
+      - text: I cichutko pada śnieg, pada śnieg.
+        chords: "Dm Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Ktoś tak dziwnie to życie układa,
+      - text: Dzieląc duszę jak nożem na pół.
+        chords: "Am Dm E Am"
+      - text: Tu kolęda i gwiazdka,
+        chords: "Am Dm G7 C"
+      - text: Wigilijny stół.
+        chords: "Dm Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Ale w myślach już wracasz na wodę,
+      - text: Szumem fali żegnasz brzeg.
+        chords: "Am Dm E Am"
+      - text: A tu kra na jeziorze,
+        chords: "Am Dm G7 C"
+      - text: I cichutko pada śnieg, pada śnieg.
+        chords: "Dm Am"

@@ -9,70 +9,60 @@ verses:
     label: Zwrotka 1
     lines:
       - text: Tam, gdzie słońca zwykle brak,
-        chords: "C G"
+        chords: "Am C"
       - text: Gdzie czekał nas śnieg i lód.
-        chords: "F G"
+        chords: "C Am"
       - text: Tam, gdzie sztorm i gęsta mgła,
-        chords: "C"
+        chords: "C F"
       - text: Gdzie diabeł koił nas do snu.
-        chords: "Dm"
-
-  - type: verse
-    label: Zwrotka 1 (cd.)
-    lines:
+        chords: "C G C"
       - text: Zawsze śmiało wiodła nas przez świat,
-        chords: "F G"
+        chords: "Am Em"
       - text: Trzymała dzielnie swój kurs.
-        chords: "C"
+        chords: "F G"
 
   - type: chorus
     label: Refren
     lines:
-      - text: Hej!
-        chords: "Am C"
+      - text: 'Hej!'
       - text: Way, hey, nasza "Molly Maquires"
-        chords: "Am C"
+        chords: "C G"
       - text: Najszybciej z wszystkich szła pod wiatr.
-        chords: "F C G"
-      - text: Way, hey, nasza "Molly Maquires"
-        chords: "C"
-      - text: Po morzach pływała tyle lat.
-        chords: "Am"
-      - text: "..."
         chords: "F G"
+      - text: Way, hey, nasza "Molly Maquires"
+        chords: "C G"
+      - text: Po morzach pływała tyle lat.
+        chords: "F G C"
+    bis: refren x2
 
   - type: verse
     label: Zwrotka 2
     lines:
       - text: Dzień, czy noc, czy świt, czy zmrok,
         chords: "Am C"
-      - text: Dziób dumnie groźne fale prół.
-        chords: "Am C"
+      - text: Dziób dumnie groźne fale pruł.
+        chords: "C Am"
       - text: Księżyc, gwiazdy, słońca blask,
-        chords: "F C G"
+        chords: "C F"
       - text: To była jej najlepsza z dróg.
-        chords: "C"
+        chords: "C G C"
+      - text: Ciepłe plaże, palmy dała nam,
+        chords: "Am Em"
+      - text: Śmiech dziewcząt, miłości smak.
+        chords: "F G"
 
   - type: verse
     label: Zwrotka 3
     lines:
-      - text: Ciepłe plaże, palmy dała nam,
+      - text: Dzisiaj w sercu ciągle mam
         chords: "Am C"
-      - text: Śmiech dziewcząt, miłości smak.
-        chords: "Am C"
-      - text: Dziś w sercu ciągle mam
-        chords: "F C G"
       - text: Jej obraz wśród białych chmur.
-        chords: "C"
-
-  - type: verse
-    label: Zwrotka 4
-    lines:
+        chords: "C Am"
       - text: Z tyłu nas wywiodła burz,
-        chords: "Am C"
+        chords: "C F"
       - text: Że musiał jej pomagać Bóg.
-        chords: "Am"
+        chords: "C G C"
       - text: Jej słodkie imię będę śnić,
-        chords: "F G"
+        chords: "Am Em"
       - text: W pamięci mej będzie trwać.
-        chords: "C"
+        chords: "F G"

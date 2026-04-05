@@ -1,0 +1,132 @@
+id: plynmy-w-dol-do-starej-maui
+title: Płyńmy w dół do Starej Maui
+category: sailors
+key: Dm
+tags: [szanta, morze, wieloryby]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Mozolny twardy i trudny jest
+        chords: "Dm A7 Dm C"
+      - text: Nasz wielorybniczy znój
+        chords: "Dm A7 Dm"
+      - text: Lecz nie przestraszy nas sztormów ryk
+        chords: "Dm A7 Dm C"
+      - text: I nie zlęknie groza burz
+        chords: "Dm A7 Dm"
+      - text: Dziś powrotnym kursem wracamy znów
+        chords: "F C A7"
+      - text: Rejsu chyba to ostatnie dni
+        chords: "Dm A7"
+      - text: I każdy w sercu już chyba ma
+        chords: "Dm A7 Dm C"
+      - text: Piękne panny ze starej Maui
+        chords: "Bb A7 Dm C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Płyńmy w dół do starej Maui już czas
+        chords: "F C A7"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Z północnym sztormem już płynąć czas
+        chords: "Dm A7 Dm C"
+      - text: Wśród lodowych groźnych gór
+        chords: "Dm A7 Dm"
+      - text: I dobrze wiemy, że nadszedł czas
+        chords: "Dm A7 Dm C"
+      - text: Ujrzeć niebo z tropikalnych chmur
+        chords: "Dm A7 Dm"
+      - text: Dziesięć długich miesięcy zostało gdzieś
+        chords: "F C A7"
+      - text: Wśród piekielnej kamczackiej mgły
+        chords: "Dm A7"
+      - text: Żegnamy już Arktyki blask
+        chords: "Dm A7 Dm C"
+      - text: I płyniemy do starej Maui
+        chords: "Bb A7 Dm C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Za sobą mamy już Diamond Head
+        chords: "Dm A7 Dm C"
+      - text: No i groźne stare Oahu
+        chords: "Dm A7 Dm"
+      - text: Tam maszty i pokład na długo skuł
+        chords: "Dm A7 Dm C"
+      - text: Wszechobecny, groźny lód
+        chords: "Dm A7 Dm"
+      - text: Jak odrażająca i straszna jest
+        chords: "F C A7"
+      - text: Biel Arktyki, tego nie wie nikt
+        chords: "Dm A7"
+      - text: Za sobą mamy już setki mil,
+        chords: "Dm A7 Dm C"
+      - text: Czas wziąć kurs do Starej Maui
+        chords: "Bb A7 Dm C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Lody zostały za rufą gdzieś,
+        chords: "Dm A7 Dm C"
+      - text: Ciepła bryza w żagle dmie
+        chords: "Dm A7 Dm"
+      - text: Że piękne dziewczyny czekają już
+        chords: "Dm A7 Dm C"
+      - text: Na nasz powrót, każdy wie
+        chords: "Dm A7 Dm"
+      - text: Czarne oczy ich wypatrują nas,
+        chords: "F C A7"
+      - text: Chciałby każdy szybko być wśród nich
+        chords: "Dm A7"
+      - text: Więc szybciej łajbo nam się tocz
+        chords: "Dm A7 Dm C"
+      - text: Tam do dziewczyn ze Starej Maui
+        chords: "Bb A7 Dm C"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Harpuny już odłożyć czas,
+        chords: "Dm A7 Dm C"
+      - text: Starczy, dość już wielorybiej krwi
+        chords: "Dm A7 Dm"
+      - text: Już pełne tranu beczki masz,
+        chords: "Dm A7 Dm C"
+      - text: Płynne złoto sprzedasz w mig
+        chords: "Dm A7 Dm"
+      - text: Za swój żywot psi, za trud i znój
+        chords: "F C A7"
+      - text: Kiedyś w niebie dostaniesz złoty tron
+        chords: "Dm A7"
+      - text: O dzięki Ci, Boże, że każdy mógł
+        chords: "Dm A7 Dm C"
+      - text: Wrócić do rodzinnych stron
+        chords: "Bb A7 Dm C"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Kotwica mocno trzyma dno,
+        chords: "Dm A7 Dm C"
+      - text: Wreszcie ujrzysz ukochany dom
+        chords: "Dm A7 Dm"
+      - text: Przed nami główki portów już
+        chords: "Dm A7 Dm C"
+      - text: I kościelny słychać dzwon
+        chords: "Dm A7 Dm"
+      - text: A na lądzie uciech nas czeka sto,
+        chords: "F C A7"
+      - text: Wnet zobaczysz dziatki swe
+        chords: "Dm A7"
+      - text: Na spacer weźmiesz żonę swą
+        chords: "Dm A7 Dm C"
+      - text: I zapomnisz wszystkie chwile złe
+        chords: "Bb A7 Dm C"

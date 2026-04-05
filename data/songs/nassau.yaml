@@ -1,0 +1,66 @@
+id: nassau
+title: Nassau
+category: sailors
+key: Am
+tags: [szanta, piraci, port]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Z rejsu wraca piracki bryg,
+        chords: "Am C G Am"
+      - text: Z oka już widać ląd,
+        chords: "F C E"
+      - text: Płynie ciężko dźwigając skarb
+        chords: "Am C G Am"
+      - text: Zdobyty daleko stąd.
+        chords: "F E Am"
+      - text: W porcie dziesiątki pirackich kryp,
+        chords: "F G F E"
+      - text: Kupiecki przy wraku wrak.
+        chords: "F G F E"
+      - text: Nassau strzegą złe paszcze dział,
+        chords: "Am C G Am"
+      - text: Łańcuchy podwodnych raf.
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Kościół, chata, szałas i sklep,
+        chords: "Am C G Am"
+      - text: Portowych burdeli smród.
+        chords: "F C E"
+      - text: Goni dziewki brodaty łeb
+        chords: "Am C G Am"
+      - text: Stukając na kulach dwóch.
+        chords: "F E Am"
+      - text: Pośród domów kłębi się tłum,
+        chords: "F G F E"
+      - text: Słychać tam kłótnie i śmiech,
+        chords: "F G F E"
+      - text: Pstra papuga otwiera dziób
+        chords: "Am C G Am"
+      - text: I klnie w językach trzech.
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Zamiast bitew, głodu i krwi,
+        chords: "Am C G Am"
+      - text: W tawernie urżnę się sam,
+        chords: "F C E"
+      - text: Po włóczędze na "Golden Hind"
+        chords: "Am C G Am"
+      - text: Kabzę nabitą dziś mam.
+        chords: "F E Am"
+      - text: Dzbanek wina, przytulny kąt,
+        chords: "F G F E"
+      - text: Ciepła dziewczyna i koc,
+        chords: "F G F E"
+      - text: Płynę dzisiaj tam, gdzie mój dom,
+        chords: "Am C G Am"
+      - text: W Nassau powita mnie noc.
+        chords: "F E Am"

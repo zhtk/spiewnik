@@ -9,70 +9,71 @@ verses:
     label: Zwrotka 1
     lines:
       - text: Kiedy forsy nie masz, kiedy głowa Cię boli,
-        chords: "D A D A"
+        chords: "D"
       - text: Kiedy żona hetera płynąć w rejs nie pozwoli,
-        chords: "D D D"
+        chords: "A"
       - text: Kiedy dzieci płaczą i jest bardzo źle -
-        chords: "A D A"
+        chords: "D"
       - text: Tańcz z nami bracie i nie przejmuj się.
-        chords: "D A"
+        chords: "A D"
 
   - type: chorus
     label: Refren
     lines:
       - text: I... Tańcz, tańcz, tańcz z nami i Ty,
-        chords: "D A D A"
+        chords: "D"
       - text: Tańcz z nami bracie, by wióry szły,
-        chords: "D D"
-      - text: Wypij aż do dna za przygody złe,
-        chords: "A D A"
-      - text: Tańcz z nami bracie i nie przejmuj się.
         chords: "D A"
+      - text: Wypij aż do dna za przygody złe,
+        chords: "D"
+      - text: Tańcz z nami bracie i nie przejmuj się.
+        chords: "A D"
+    bis: refren x2
 
   - type: verse
     label: Zwrotka 2
     lines:
       - text: Kiedy wiatr ucichnie, płynąć nie ma nadziei,
-        chords: "D A D A"
-      - text: Wtedy z bracia żeglarską diabeł hula na kei,
-        chords: "D D D"
+        chords: "D"
+      - text: Wtedy z bracią żeglarską diabeł hula na kei,
+        chords: "A"
       - text: Beczki piwa z knajpy czart wytacza dwie,
-        chords: "A D A"
+        chords: "D"
       - text: A pijany żeglarz zaraz tańczyć chce.
-        chords: "D A"
+        chords: "A D"
 
   - type: verse
     label: Zwrotka 3
     lines:
       - text: Tańczą rybki w morzu i dziewuszki na plaży,
-        chords: "D A D A"
+        chords: "D"
       - text: Cała knajpa tańczy z pijaniutkim żeglarzem.
-        chords: "D D D"
+        chords: "A"
       - text: Patrz - na stole tańczą białe myszki dwie,
-        chords: "A D A"
+        chords: "D"
       - text: Skaczą sobie miło i nie przejmują się.
-        chords: "D A"
+        chords: "A D"
 
   - type: verse
     label: Zwrotka 4
     lines:
       - text: Tańczy Jimmy i Johnny, i Maggie nieśmiała,
-        chords: "D A D A"
+        chords: "D"
       - text: Skacze sobie wesoło kompanija nasza cała,
-        chords: "D D D"
+        chords: "A"
       - text: Słodki Kubuś z nami także skakać chce,
-        chords: "A D A"
-      - text: Lecz nóżki poplątal i na keję legł.
-        chords: "D A"
+        chords: "D"
+      - text: Lecz nóżki poplątał i na keję legł.
+        chords: "A D"
 
   - type: verse
     label: Zwrotka 5
     lines:
       - text: Tańczy jedna nóżka frywolna i zgrabna,
-        chords: "D A D A"
+        chords: "D"
       - text: Za nią druga podskoczy wesoła i powabna,
-        chords: "D D D"
+        chords: "A"
       - text: Na koniec brzuszek wytacza się,
-        chords: "A D A"
+        chords: "D"
       - text: Tylko główka nie chce - z nią jest bardzo źle...
-        chords: "D A"
+        chords: "A D"

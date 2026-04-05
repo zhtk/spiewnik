@@ -1,0 +1,66 @@
+id: fiddlers-green
+title: Fiddler's Green
+category: sailors
+key: C
+tags: [szanta, morze, legenda]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Stary port się powoli układał do snu,
+        chords: "C F C Am"
+      - text: Świeża bryza zmarszczyła morze gładkie jak stół,
+        chords: "C F C G"
+      - text: 'Stary rybak na kei zaczął śpiewać swą pieśń:'
+        chords: "F Em Am C"
+      - text: '"- Zabierzcie mnie chłopcy, mój czas kończy się."'
+        chords: "Am7 Dm7 F G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Tylko wezmę mój sztormiak i sweter,
+        chords: "C G C C7"
+      - text: Ostatni raz spojrzę na pirs.
+        chords: "F C G"
+      - text: Pozdrów moich kolegów, powiedz, że dnia pewnego
+        chords: "F Em C Am"
+      - text: Spotkamy się wszyscy tam w Fiddler's Green.
+        chords: "Dm7 G G7 C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: O Fiddler's Green słyszałem nie raz,
+        chords: "C F C Am"
+      - text: Jeśli piekło ominę, dopłynąć chcę tam,
+        chords: "C F C G"
+      - text: Gdzie delfiny figlują w wodzie czystej jak łza,
+        chords: "F Em Am C"
+      - text: A o mroźnej Grenlandii zapomina się tam.
+        chords: "Am7 Dm7 F G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A gdy już tam dopłynę, oddam cumy na ląd,
+        chords: "C F C Am"
+      - text: Wszystkie bary są czynne cały dzień, całą noc,
+        chords: "C F C G"
+      - text: Piwo nic nie kosztuje, dziewczęta jak sen,
+        chords: "F Em Am C"
+      - text: A rum w buteleczkach rośnie na każdym z drzew.
+        chords: "Am7 Dm7 F G"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Aureola i harfa to nie to, o czym śnię,
+        chords: "C F C Am"
+      - text: O morza rozkołys i wiatr modlę się.
+        chords: "C F C G"
+      - text: Stare pudło wyciągnę, zagram coś w cichą noc,
+        chords: "F Em Am C"
+      - text: A wiatr w takielunku zaśpiewa swój song.
+        chords: "Am7 Dm7 F G"

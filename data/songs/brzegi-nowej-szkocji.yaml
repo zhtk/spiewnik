@@ -1,0 +1,54 @@
+id: brzegi-nowej-szkocji
+title: Brzegi Nowej Szkocji
+category: sailors
+key: G
+tags: [szanta, morze, tęsknota]
+
+verses:
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Żegnaj Nowa Szkocjo, niech fale biją w brzeg,
+        chords: "G D"
+      - text: Tajemnicze twe góry wznoszą szczyty swe.
+        chords: "C Am Em"
+      - text: Kiedy będę daleko, hen na oceanie złym,
+        chords: "G D"
+      - text: Czy was kiedyś jeszcze ujrzę, czy zostaną mi sny?
+        chords: "Bm Em D"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Słońce już zachodzi, a ptaki skryły się,
+        chords: "G D"
+      - text: W liściach drzew znalazły schronienie swe.
+        chords: "C Am Em"
+      - text: Mam wrażenie, że przyroda już zamarła w cichym śnie,
+        chords: "G D"
+      - text: Lecz nie dla mnie wolne chwile, praca czeka mnie.
+        chords: "Bm Em D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Kiedy me najskrytsze marzenia ziszczą się,
+        chords: "G D"
+      - text: Marzę, by do przyjaciół swych przyłączyć się.
+        chords: "C Am Em"
+      - text: Wkrótce już opuszczę te rodzinne strony me,
+        chords: "G D"
+      - text: A więc żegnaj ma dziewczyno i wyczekuj mnie.
+        chords: "Bm Em D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Ktoś uderzył w bębny i z domu wyrwał mnie -
+        chords: "G D"
+      - text: To kapitan nas woła, więc stawiłem się.
+        chords: "C Am Em"
+      - text: Żegnajcie kochani, wypływamy w długi rejs,
+        chords: "G D"
+      - text: Powrócimy do swych rodzin, znów spotkamy się.
+        chords: "Bm Em D"

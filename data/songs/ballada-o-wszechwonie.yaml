@@ -1,0 +1,60 @@
+id: ballada-o-wszechwonie
+title: Ballada o Wszechżonie
+category: sailors
+key: Em
+tags: [szanta, morze, milosc]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: 'Mówiłaś: "Za mą miłość coś mi daj,'
+        chords: "Em"
+      - text: Ja piorę Ci koszule i skarpety."
+        chords: "Am B"
+      - text: I wtedy się poczułem, jakbym stał
+      - text: Bez forsy w obcym luksusowym sklepie.
+      - text: A trzeba było znowu w morze iść -
+      - text: Bałtyk jesienią całkiem nieźle gwiżdże.
+      - text: Po wachcie napisałem długi list,
+      - text: Sam jeszcze przecież nie wiem, czy go wyślę.
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Na morzu zamieć, na morzu mgła,
+        chords: "C G"
+      - text: Fale jak domy.
+        chords: "C G"
+      - text: Na morzu całym tylko ja
+        chords: "C G"
+      - text: Myślę o Tobie.
+        chords: "Am G"
+      - text: Podzielą nas tysiące wacht
+      - text: I przestwór wody.
+      - text: Nie mogę zajrzeć w Twój ciepły świat,
+      - text: Sól w oczach boli.
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Wracałem stamtąd, gdzie zamarza rum
+      - text: I gdzie nie jesteś pewien żadnej fali.
+      - text: 'Mówiłaś: "Znowu nam się zepsuł stół.'
+      - text: Mógłbyś, cholera, wreszcie go naprawić."
+      - text: Wracałem stąd, gdzie słońce topi wosk,
+      - text: A myśmy od malarii dygotali.
+      - text: 'Mówiłaś: "Znowu mi zamknęli kiosk.'
+      - text: Po bułki muszę biegać znacznie dalej."
+
+  - type: chorus
+    label: Refren 2
+    lines:
+      - text: Znowu nas dzieli złamany stół,
+      - text: Nienaprawiony.
+      - text: Tu moje pół, tam Twoje pół -
+      - text: Dwie życia strony.
+      - text: Podzielą nas tysiące wacht
+      - text: I przestwór wody.
+      - text: Nie mogę zajrzeć w Twój ciepły świat,
+      - text: Sól w oczach boli.

@@ -13,20 +13,21 @@ verses:
       - text: Brzeg gdzieś za rufą został.
         chords: "E7 Am"
       - text: I nagle ktoś jak papier zbladł -
-        chords: "Am B7 E7"
+        chords: "Dm Am"
       - text: '"Sztorm idzie, Panie Bosman!"'
+        chords: "B7 E7"
 
   - type: chorus
-    label: Refren
+    label: Refren 1
     lines:
       - text: A bosman tylko zapiął płaszcz
         chords: "F C F C"
       - text: 'I zaklął - "Ech, do czorta!'
         chords: "F E7 Am"
-      - text: 'Nie daje lajbie żadnych szans."'
-        chords: "F G Am E7"
+      - text: 'Nie daję łajbie żadnych szans."'
+        chords: "F G Am E7 Am"
       - text: Dziesięć w skali Beauforta!
-        chords: "Am Dm E7 Am"
+        chords: "Dm E7 Am"
 
   - type: verse
     label: Zwrotka 2
@@ -36,8 +37,9 @@ verses:
       - text: Ulewa spadła nagle.
         chords: "E7 Am"
       - text: Rzucało nami w górę, w dół
-        chords: "Am B7 E7"
+        chords: "Dm Am"
       - text: I fala zmyła żagle.
+        chords: "B7 E7"
 
   - type: verse
     label: Zwrotka 3
@@ -47,5 +49,19 @@ verses:
       - text: I padał już do rana.
         chords: "E7 Am"
       - text: Piekielnie ciężki to był rejs,
-        chords: "Am B7 E7"
+        chords: "Dm Am"
       - text: Szczególnie dla bosmana.
+        chords: "B7 E7"
+
+  - type: chorus
+    label: Refren 2
+    lines:
+      - text: A bosman tylko zapiął płaszcz
+        chords: "F C F C"
+      - text: 'I zaklął - "Ech, do czorta!'
+        chords: "F E7 Am"
+      - text: Przedziwne czasem sny się ma.
+        chords: "F G Am E7 Am"
+      - text: Dziesięć w skali Beauforta!
+        chords: "Dm E7 Am"
+    bis: x3

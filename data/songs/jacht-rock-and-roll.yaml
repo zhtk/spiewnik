@@ -1,0 +1,66 @@
+id: jacht-rock-and-roll
+title: Jacht Rock & Roll
+category: sailors
+key: C
+tags: [szanta, humor, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Ponoć pierwszy facet, który jacht ten miał,
+        chords: "C F C C7"
+      - text: Dając mu imię, jakiś taniec uczcić chciał.
+        chords: "F C"
+      - text: A czy wiecie, jakiego tańca nazwę dał?
+        chords: "E7 Am F"
+      - text: 'Jeśli tak, no to wszyscy razem, raz i dwa:'
+        chords: "G Ab G7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Rock & roll'a, a w jego rytm nawet fale szły,
+        chords: "C F C C7"
+      - text: Rock & roll'a, a w jego rytm nawet mokre żagle schły,
+        chords: "F C"
+      - text: Rock & roll'a, a w jego rytmie z szekli schodziła rdza,
+        chords: "E7 Am F"
+      - text: Rock & roll'a, bo w rock & roll'u zawsze wszystko gra.
+        chords: "C G C G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Gdy zdarzyło się, że wiatr zapomniał wiać,
+        chords: "C F C C7"
+      - text: Nasz "Rock & roll" nie zamierzał w miejscu stać.
+        chords: "F C"
+      - text: Wręcz przeciwnie, jak burza w strzępy fale pruł,
+        chords: "E7 Am F"
+      - text: Wystarczyło kilka taktów zagrać mu.
+        chords: "G Ab G7"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: 'Nocą w porcie, w którym ów "Rock & roll" stał,'
+        chords: "C F C C7"
+      - text: Każdy inny jacht, wciąż belkami skrzypiąc, spał.
+        chords: "F C"
+      - text: On nie skrzypiał, nie darmo takie imię miał,
+        chords: "E7 Am F"
+      - text: On nie trzeszczał też, lecz tak jakby grał.
+        chords: "G Ab G7"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Hej, żeglarze, kto z was własną łajbę ma,
+        chords: "C F C C7"
+      - text: Niech "Rock & roll" jej na imię zaraz da.
+        chords: "F C"
+      - text: Z taką nazwą, to choćby dna jej było brak,
+        chords: "E7 Am F"
+      - text: 'Będzie szła..., że nikt nie powie: "Ale wrak."'
+        chords: "G Ab G7"

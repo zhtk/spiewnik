@@ -1,0 +1,66 @@
+id: gdynski-port
+title: Gdyński Port
+category: sailors
+key: Am
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdy nad gdyńskim portem zaświeci nam słońce
+        chords: "C G Am Em"
+      - text: Po długim, zimowym śnie,
+        chords: "F C F G"
+      - text: Rozkwitną znów białe żagle u rej -
+        chords: "C G Am Em"
+      - text: Wietrze wiej im, o hej!
+        chords: "F G C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Przytulna keja już męczy nas nudą
+        chords: "C G Am Em"
+      - text: Powszednich, lądowych spraw...
+        chords: "F C F G"
+      - text: Rozgorzał ogień nam w sercach, już czas -
+        chords: "C G Am Em"
+      - text: Hej, Żeglarze! Już czas!
+        chords: "F G C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Kotwicę mokrą zawieśmy u burt,
+        chords: "F C"
+      - text: Wiatr niechaj melodię gra!
+        chords: "F C"
+      - text: Morze poniesie miarowy nasz wtór
+        chords: "F C Am"
+      - text: Żeglarskiej pieśni przez świat!
+        chords: "F G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Już gdzieś za rufą pozostał nasz dom
+        chords: "C G Am Em"
+      - text: Pełen ciepłych słów naszych żon,
+        chords: "F C F G"
+      - text: Lecz nam nie pora spoglądać dziś wstecz -
+        chords: "C G Am Em"
+      - text: Wiatr porywa nasz śpiew!
+        chords: "F G C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Gdy nad gdyńskim portem zaświeci nam słońce
+        chords: "C G Am Em"
+      - text: Po długim, zimowym śnie,
+        chords: "F C F G"
+      - text: Rozkwitną znów białe żagle u rej -
+        chords: "C G Am Em"
+      - text: Wietrze wiej! Zimo hej!
+        chords: "F G C"

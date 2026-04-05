@@ -1,0 +1,108 @@
+id: zabierz-nas-na-lad
+title: Zabierz nas na ląd
+category: sailors
+key: Bm
+tags: [szanta, morze, sztorm]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdy rzuciłem swój wór na zmarznięty dek
+        chords: "Bm Em"
+      - text: Był styczniowy, mroźny dzień.
+        chords: "F#m Bm"
+      - text: 'W wachcie było nas trzech: ja, Tom i Jack.'
+        chords: "Bm Em"
+      - text: Dwóch do lin, jeden na ster.
+        chords: "F#m Bm"
+      - text: Dmuchnęło z NE na Georges Bank
+        chords: "Bm Em"
+      - text: I czas zaczął szybciej biec.
+        chords: "Asus2 Bm"
+      - text: Motor warknął raz, potem całkiem zgasł
+        chords: "Bm Em"
+      - text: I wtedy zaczęło się.
+        chords: "F#m Bm"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Zabierz nas na ląd, pomóż znaleźć cichy port.
+        chords: "Bm Em F#m Bm"
+      - text: Tak daleko jest dom, wręgi łamie sztorm
+        chords: "F#m Bm"
+      - text: Zabierz nas na ląd.
+        chords: "Em F#m Bm"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: 'Jack klął jak szewc, cisnął korbą i rzekł:'
+        chords: "F#m Bm"
+      - text: Co do diabła z tą maszyną.
+        chords: "Bm Em"
+      - text: Ile zdrowia przez ciebie straciłem nikt nie wie.
+        chords: "F#m Bm"
+      - text: Doprowadzisz nas do ruiny.
+        chords: "Bm Em"
+      - text: Coraz mocniej dmuch, łódź steru nie słucha.
+        chords: "Asus2 Bm"
+      - text: Hej spróbujemy jeszcze raz!
+        chords: "Bm Em"
+      - text: A dryf zwiększał się i wiedziałem, że
+        chords: "F#m Bm"
+      - text: Obraca nas burtą do fal.
+        chords: "F#m Bm"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Tom chwycił za topór, ciął fały i szoty,
+        chords: "F#m Bm"
+      - text: A gdy nagle trafił w reling.
+        chords: "Bm Em"
+      - text: Spluął w morze i zbladł, twarz miał bledszą niż grad
+        chords: "F#m Bm"
+      - text: Co pokład już zaścielił.
+        chords: "Bm Em"
+      - text: Jeszcze raz resztką sił, do wiatru na parę chwil
+        chords: "Asus2 Bm"
+      - text: Tak niewiele brakowało
+        chords: "Bm Em"
+      - text: I pamiętam, że chciałem modlić się
+        chords: "F#m Bm"
+      - text: O więcej wody przed tą czarną skałą.
+        chords: "F#m Bm"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Jack z wiatrem i prądem sztormować chciał
+        chords: "F#m Bm"
+      - text: W szlejącej otchłani.
+        chords: "Bm Em"
+      - text: Łódź leżała na burcie, fala zakryła nas.
+        chords: "F#m Bm"
+      - text: I czułem, że koniec z nami.
+        chords: "Bm Em"
+      - text: Przez kilka chwil widziałem zgniły kil
+        chords: "Asus2 Bm"
+      - text: I zwoje lin w spienionej wodzie.
+        chords: "Bm Em"
+      - text: Nie mogłem zrobić nic i w głowie ta myśl
+        chords: "F#m Bm"
+      - text: Obym się nigdy nie urodził.
+        chords: "F#m Bm"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Płyną prądy, wieje wiatr, zawsze było tak
+        chords: "F#m Bm"
+      - text: Tylko głupiec chce z nimi się mierzyć.
+        chords: "Bm Em"
+      - text: Boże pomóż tym co na morzu dziś są
+        chords: "F#m Bm"
+      - text: I chroń tych co nie mogą przeżyć...
+        chords: "Bm Em"

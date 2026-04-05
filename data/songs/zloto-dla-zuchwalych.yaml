@@ -1,0 +1,66 @@
+id: zloto-dla-zuchwalych
+title: Złoto dla Zuchwałych
+category: sailors
+key: Dm
+tags: [szanta, piraci, bitwa]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Na morzu szalał wściekły sztorm, na strzępy żagle rwał,
+        chords: "Dm C"
+      - text: Baksztagiem ciągnął statek nasz, przy sterze Johnson stał.
+        chords: "Dm F"
+      - text: W bocianim gnieździe majtek zły, wichura smaga twarz,
+        chords: "Dm"
+      - text: W oddali widać stary bryg - dziś będzie nasz.
+        chords: "Bb Dm"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Jupijaj ej, jupijaj o...
+        chords: "F Dm"
+      - text: Ze wszystkich luf i jeszcze raz! Dosięgnij go!
+        chords: "Bb Dm"
+      - text: Jupijaj ej, jupijaj o...
+        chords: "F Dm"
+      - text: Ze wszystkich luf i jeszcze raz! Zatopmy go!
+        chords: "Bb Dm"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Z kubryka ruszył każdy z nas, wprost od cynowych mis,
+        chords: "Dm C"
+      - text: Kulawy bosman dzieli broń, na pokład każe iść,
+        chords: "Dm F"
+      - text: Mocarna ręka chwyta nóż i dłoń zaciska się,
+        chords: "Dm"
+      - text: Dziś marny, brygu, jest twój los - wzbudziłeś gniew.
+        chords: "Bb Dm"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Zderzyły burtą statki się, bosaki poszły w ruch,
+        chords: "Dm C"
+      - text: Już na pokładzie bitwa wre, nie trzeba więcej słów.
+        chords: "Dm F"
+      - text: I nie oszczędzał swego, gdy na brata trafił brat,
+        chords: "Dm"
+      - text: O chłopcach, co zginęli tu, zaśpiewa świat.
+        chords: "Bb Dm"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: W ładowniach naszych skarbów moc, przeminął bitwy czas,
+        chords: "Dm C"
+      - text: I tylko morze stoi w krwi kolejny jeden raz.
+        chords: "Dm F"
+      - text: Okrutny los dosięgnął bryg, co wzbudził straszny gniew,
+        chords: "Dm"
+      - text: A tutaj morze niesie w dal złowieszczy śpiew.
+        chords: "Bb Dm"

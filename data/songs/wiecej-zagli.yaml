@@ -1,0 +1,47 @@
+id: wiecej-zagli
+title: Więcej żagli
+category: sailors
+key: Dm
+tags: [szanta, morze, patriotyczne]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Więcej żagli! Odwińcie z rej płótna!
+        chords: "Dm7 Am7 Dm7"
+      - text: Niechaj maszty się kładą na fali.
+        chords: "Dm7 Am7 Dm7"
+      - text: Choć zawieja na morzu okrutna,
+        chords: "Am7 C Am7"
+      - text: W górę serca, wyjdziemy z niej cali!
+        chords: "Dm7 C Dm7"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Opuściliśmy brzeg bez powrotu,
+      - text: Więc przebojem żeglujmy w powodzi,
+      - text: Wszystkie siły wytężmy do lotu,
+      - text: Jako żywo - już słońce tam wschodzi.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Wszak widzicie tę nić purpurową,
+        chords: "Dm7 A7sus4 A7"
+      - text: Co nad morzem się w tęczę rozbłyska
+        chords: "Dm7 A7sus4 A7"
+      - text: I ku sobie nas nęci i nagli -
+        chords: "Dm7 Am7 Dm7"
+      - text: Niechaj gromy nam biją nad głową,
+      - text: Niechaj w strzępy pryskają płótniska,
+      - text: Bracia, męstwa, do żagli, do żagli!
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Więcej żagli! Odwińcie z rej płótna!
+      - text: Niechaj maszty się kładą na fali.
+      - text: Choć zawieja na morzu okrutna,
+      - text: W górę serca, wyjdziemy z niej cali!

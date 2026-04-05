@@ -15,52 +15,53 @@ verses:
       - text: Rzuć kłopotów stos, no nie wykręcaj się,
         chords: "G D A D"
       - text: Całuj wszystko w nos,
-        chords: "G D A D"
+        chords: "G D"
       - text: Osobowym drugą klasą przejedziemy się.
-        chords: "G D A D"
+        chords: "A"
 
   - type: chorus
     label: Refren
     lines:
       - text: Na Mazury, Mazury, Mazury,
-        chords: "G D A D"
-      - text: Popłyniemy tą lajbą z tektury,
-        chords: "G D A D"
+        chords: "D G D"
+      - text: Popływamy tą łajbą z tektury,
+        chords: "D A D"
       - text: Na Mazury, gdzie wiatr zimny wieje,
-        chords: "G D A D"
+        chords: "D G D"
       - text: Gdzie są ryby i grzyby, i knieje.
-        chords: "G D A"
+        chords: "D A D"
       - text: Tam, gdzie fale nas bujają,
-        chords: "E A E"
+        chords: "G D"
       - text: Gdzie się ludzie opalają,
-        chords: "E B7 E"
+        chords: "A D"
       - text: Wschody słońca piękne są
-        chords: "A E"
+        chords: "G D"
       - text: I komary w dupę tną.
-        chords: "B7 E"
+        chords: "A D"
       - text: Gdzie przy ogniu gra muzyka
-        chords: "E A E"
+        chords: "G D"
       - text: I gorzała w gardłach znika,
-        chords: "E B7 E"
+        chords: "A D"
       - text: A Pan Leśniczy nie wiadomo skąd
-        chords: "A E"
+        chords: "G A"
       - text: Woła do nas, do nas, do nas...
-        chords: "B7 E"
+        chords: "A"
       - text: '"...Paszła won!"'
+        chords: "D"
 
   - type: verse
     label: Zwrotka 2
     lines:
       - text: Uszczelniłem dno, lekko chodzi miecz,
         chords: "D A D"
-      - text: Ezy śmrodów sto przewietrzyłem precz,
+      - text: Zęzy smrodów sto przewietrzyłem precz,
         chords: "D A D"
       - text: Ster nie spada już i grot luzuje się,
         chords: "G D A D"
       - text: Więc się ze mną rusz,
-        chords: "G D A D"
+        chords: "G D"
       - text: Już nie będzie tak jak wtedy, nie denerwuj się.
-        chords: "G D A D"
+        chords: "A"
 
   - type: verse
     label: Zwrotka 3
@@ -72,6 +73,6 @@ verses:
       - text: Coś rozdziawił dziób i masz głupi wzrok?
         chords: "G D A D"
       - text: No nie stój jak ten słup,
-        chords: "G D A D"
+        chords: "G D"
       - text: Z Węgorzewa na Ruciane wykonamy skok.
-        chords: "G D A D"
+        chords: "A"

@@ -1,0 +1,78 @@
+id: w-droge-z-nami
+title: W drogę z nami wyrusz
+category: sailors
+key: D
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdy czujesz już, że masz stałego lądu dość
+        chords: "D G A7"
+      - text: A Twoja dusza do przygody aż się pali
+        chords: "D G A7"
+      - text: Przeżywać chciałbyś coś co w żyłach burzy krew
+        chords: "D G A7"
+      - text: Przygoda wielka i wspaniała Ci się marzy
+        chords: "D G A D"
+      - text: Popłynąć chciałbyś tam gdzie Horn
+        chords: "C G D"
+      - text: Przez morza, oceany trzy
+        chords: "C G D"
+      - text: Na statek z nami bracie wsiądź nie wahaj się
+        chords: "C G Em7 A D"
+      - text: Dziś zaczynamy nowy rejs
+        chords: "G A G A7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: W drogę z nami wyrusz, gdzie nieznany ląd
+        chords: "D Em7 D Em7 G Em7 C A7"
+      - text: Poznaj błękit mórz, oceanów toń
+        chords: "D Em7 D Em7 G A G A7"
+      - text: Gdzie spienione fale, wiatru silny zew
+        chords: "Bm D G Em7 C A7"
+      - text: W pełnych żaglach bieli mocno wchodzi w krew
+        chords: "D Em7 D Em7 G A G A7"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Tu na pokładzie jakby wolniej płynie czas,
+        chords: "D G A7"
+      - text: Gdy nasza łajba śmiało tnie przez morskie fale
+        chords: "D G A7"
+      - text: Tu wszystkie swe problemy zapominasz wnet
+        chords: "D G A7"
+      - text: Jest tylko woda wiatr i Ty
+        chords: "D G A D"
+      - text: I płyniesz na daleki Horn
+        chords: "C G D"
+      - text: Przez morza, oceany trzy
+        chords: "C G D"
+      - text: Nad Tobą białe żagle, niebo, słońce, wiatr
+        chords: "C G Em7 A D"
+      - text: A z piersi dumnie płynie pieśń
+        chords: "G A G A7"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Gdy czas powrotu nieuchronnie zbliża się
+        chords: "D G A7"
+      - text: Cumy na ląd i żagle wszystkie sklarowane
+        chords: "D G A7"
+      - text: To w Twojej głowie rodzi się ta sama myśl
+        chords: "D G A7"
+      - text: By na kolejny rejs wyruszyć znów niebawem
+        chords: "D G A D"
+      - text: I płynąć na daleki Horn
+        chords: "C G D"
+      - text: Przez morza, oceany trzy
+        chords: "C G D"
+      - text: Znów czuć ten słony zapach, a we włosach wiatr
+        chords: "C G Em7 A D"
+      - text: I śpiewać dumnie refren ten
+        chords: "G A G A7"

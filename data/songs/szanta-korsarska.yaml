@@ -16,6 +16,7 @@ verses:
         chords: "A E F#m"
       - text: Lecz zazdrościć będzie ten, który nie ruszy się z nami w rejs.
         chords: "F#m Bm A E F#m"
+    bis: x2 (wers 1 i 4)
 
   - type: verse
     label: Zwrotka 2
@@ -26,8 +27,9 @@ verses:
         chords: "F#m Bm"
       - text: Uderza grzmotem w hiszpańską flotę,
         chords: "A E F#m"
-      - text: Mocne ręce, twarda pięść ma, kto na korsarski płynie rejs.
+      - text: Mocne ręce, twardą pięść ma, kto na korsarski płynie rejs.
         chords: "F#m Bm A E F#m"
+    bis: x2 (wers 1 i 4)
 
   - type: verse
     label: Zwrotka 3
@@ -40,6 +42,7 @@ verses:
         chords: "A E F#m"
       - text: Bo dostanie złota trzos ten, kto przeżyje korsarski los.
         chords: "F#m Bm A E F#m"
+    bis: x2 (wers 1 i 4)
 
   - type: verse
     label: Zwrotka 4
@@ -52,3 +55,4 @@ verses:
         chords: "A E F#m"
       - text: Lecz zazdrościć będzie ten, który nie ruszy się z nami w rejs.
         chords: "F#m Bm A E F#m"
+    bis: x2 (wers 1 i 4)

@@ -9,14 +9,15 @@ verses:
     label: Zwrotka 1
     lines:
       - text: 'Gdyby tak ktoś przyszedł i powiedział:'
-        chords: "Am E7 Am"
-      - text: '"- Stary, czy masz czas?"'
-        chords: "C G7 C"
+        chords: "Am"
+      - text: '- Stary, czy masz czas?'
+        chords: "E7 Am"
       - text: Potrzebuję do załogi jakaś nową twarz,
-        chords: "C C7 F Dm"
+        chords: "C G7 C"
       - text: Amazonka, Wielka Rafa, oceany trzy,
-        chords: "Dm Am E7 Am"
+        chords: "C C7 F Dm"
       - text: 'Rejs na całość, rok, dwa lata - to powiedziałbym:'
+        chords: "Dm Am E7 Am"
 
   - type: chorus
     label: Refren
@@ -24,9 +25,9 @@ verses:
       - text: Gdzie ta keja, a przy niej ten jacht?
         chords: "Am E7 Am"
       - text: Gdzie ta koja wymarzona w snach?
-        chords: "C G Cm"
+        chords: "C G C"
       - text: Gdzie te wszystkie sznurki od tych szmat?
-        chords: "A7 Dm A7 Dm"
+        chords: "Gm A7 Dm A7 Dm"
       - text: Gdzie ta brama na szeroki świat?
         chords: "Am E7 Am"
       - text: Gdzie ta keja, a przy niej ten jacht?
@@ -34,7 +35,9 @@ verses:
       - text: Gdzie ta koja wymarzona w snach?
         chords: "C G C"
       - text: W każdej chwili płynę w taki rejs,
+        chords: "Gm A7 Dm A7 Dm"
       - text: Tylko gdzie to jest? No gdzie to jest?
+        chords: "Am E7 Am"
 
   - type: verse
     label: Zwrotka 2
@@ -42,11 +45,11 @@ verses:
       - text: Gdzieś na dnie wielkiej szafy leży ostry nóż,
         chords: "Am E7 Am"
       - text: Stare dżinsy wystrzępione impregnuje kurz,
-        chords: "C G C"
+        chords: "C G7 C"
       - text: W kompasie igła zardzewiała, lecz kierunek znam,
-        chords: "Cm A7 Dm A7 Dm"
+        chords: "C C7 F Dm"
       - text: Biorę wór na plecy i przed siebie gnam.
-        chords: "Am E7 Am"
+        chords: "Dm Am E7 Am"
 
   - type: verse
     label: Zwrotka 3
@@ -56,6 +59,6 @@ verses:
       - text: A na przystani czółno stało - kolorowy paw.
         chords: "C G7 C"
       - text: Zaokrągliły się marzenia, wyjaławił step,
-        chords: "C C7 F Dm Dm"
+        chords: "C C7 F Dm"
       - text: Lecz ciągle marzy o załodze ten samotny łeb.
-        chords: "Am E7 Am"
+        chords: "Dm Am E7 Am"

@@ -1,0 +1,71 @@
+id: niepoprawny-gosc
+title: Niepoprawny Gość
+category: sailors
+key: Am
+tags: [szanta, humor, zabawa]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Na przystani ją poznałem
+        chords: "Am Am"
+      - text: I pół nocy zmarnowałem,
+        chords: "Am Am"
+      - text: By ją śpiewem i gitarą oczarować.
+        chords: "A7 A7 Dm Dm"
+      - text: A gdy przyszło co do czego,
+        chords: "Dm E7"
+      - text: Ona poszła do innego,
+        chords: "Am F"
+      - text: 'Za to kumple rozpoczęli intonować:'
+        chords: "Dm B7 E7 E7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Gdzie Ty, chłopie, miałeś oczy,
+        chords: "Am Am"
+      - text: Zawsze coś Cię zauroczy,
+        chords: "Am Am"
+      - text: Chyba nie wiesz sam, na jakim świecie żyjesz.
+        chords: "A7 A7 Dm Dm"
+      - text: Wciąż pomysły postrzelone,
+        chords: "Dm E7"
+      - text: A masz przecież dziecko, żonę,
+        chords: "Am F"
+      - text: Zobacz, że łysiejesz już i tyjesz.
+        chords: "Dm B7 E7 E7"
+    bis: refren x2
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Innym razem, idąc szlakiem,
+        chords: "Am Am"
+      - text: Dołączyłem się z plecakiem
+        chords: "Am Am"
+      - text: Do ekipy, co na szczyt się wybierała.
+        chords: "A7 A7 Dm Dm"
+      - text: Nie minęły cztery chwile,
+        chords: "Dm E7"
+      - text: Jak mnie zostawili w tyle,
+        chords: "Am F"
+      - text: 'A w schronisku banda kumpli już śpiewała:'
+        chords: "Dm B7 E7 E7"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Minął czas wędrówek w góry
+        chords: "Am Am"
+      - text: I wyjazdów na Mazury,
+        chords: "Am Am"
+      - text: Lecz wspomnienia miłe w głowie pozostają.
+        chords: "A7 A7 Dm Dm"
+      - text: Życie mijające bokiem
+        chords: "Dm E7"
+      - text: Obserwuję mętnym wzrokiem,
+        chords: "Am F"
+      - text: 'A kolesie moi ciągle mi śpiewają:'
+        chords: "Dm B7 E7 E7"

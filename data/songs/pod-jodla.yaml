@@ -1,0 +1,70 @@
+id: pod-jodla
+title: Pod Jodłą
+category: sailors
+key: D
+tags: [szanta, zabawa, bójka]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Siedzieliśmy pod jodłą i dobrze nam się wiodło,
+        chords: "D Bm"
+      - text: Kapitan Farell, stary zgred, postawić nie chciał whisky.
+        chords: "G D"
+      - text: Trzy razy mu mówiłem, uprzejmie go prosiłem,
+        chords: "D Bm"
+      - text: Lecz pycha rozpierała go, a nam już wyschły pyski.
+        chords: "G D"
+      - text: Więc dałem jemu w nos, co myśli sobie,
+        chords: "A D"
+      - text: Co myśli wredny typ - postawić nie chciał nam!
+        chords: "G D A D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Wybrałem się do Mary, chodziłem tam dni cztery,
+        chords: "D Bm"
+      - text: Ekonom Paddy, suczy syn, wciąż dawał jej robotę.
+        chords: "G D"
+      - text: Trzy razy mu mówiłem, uprzejmie go prosiłem,
+        chords: "D Bm"
+      - text: Lecz nie posłuchał łobuz mnie, do dziś ma Mary cnotę,
+        chords: "G D"
+      - text: Więc dałem jemu w nos, co myśli sobie,
+        chords: "A D"
+      - text: Co myśli wredny typ - pozwolić nie chciał nam!
+        chords: "G D A D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: W Dublinie, przy niedzieli, pięć funtów nam gwizdnęli,
+        chords: "D Bm"
+      - text: Właściciel pubu, tłusty byk, chciał funta na zapłatę.
+        chords: "G D"
+      - text: Trzy razy mu mówiłem, uprzejmie go prosiłem,
+        chords: "D Bm"
+      - text: Lecz nerwy ciut poniosły mnie, zepsutą ma facjatę.
+        chords: "G D"
+      - text: Bo dałem jemu w nos, co myśli sobie,
+        chords: "A D"
+      - text: Co myśli wredny typ - odpuścić nie chciał nam!
+        chords: "G D A D"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Na trakcie, przez przypadek, los też mnie kopnął w zadek,
+        chords: "D Bm"
+      - text: Łapaczy oddział wyrwał mnie tak, jak borsuka z dziury.
+        chords: "G D"
+      - text: Na okręt mnie zabrali, po zadku fest przylali,
+        chords: "D Bm"
+      - text: 'A kiedy drzeć zacząłem pysk, padł taki rozkaz z góry:'
+        chords: "G D"
+      - text: A dajcie jemu w nos, co myśli sobie,
+        chords: "A D"
+      - text: Co myśli wredny typ - przeszkadzać będzie nam!
+        chords: "G D A D"

@@ -1,0 +1,78 @@
+id: wreszcie-plyne
+title: Wreszcie Płynę
+category: sailors
+key: C
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Za pół litra kumple załatwili mi rejs,
+        chords: "C C G G"
+      - text: Bo nie mogli patrzeć, jak marnuję się w domu.
+        chords: "F C G G"
+      - text: Jest wolne miejsce, chcesz - to bierz, no i jedź,
+        chords: "Am Em F C"
+      - text: Ameryka, Atlantyk, trafia się mało komu.
+        chords: "F D G G"
+      - text: Jak jaki głupi - na kolanach do żony mej
+        chords: "C C G G"
+      - text: Przybyłem żebrząc - "Na rejs wypuść mnie Moja Miła",
+        chords: "F C G G"
+      - text: A ona cudna w nieskończonej mądrości swej
+        chords: "Am Em F C"
+      - text: 'Mówi: "Moja odmowa nic by tu nie zmieniła".'
+        chords: "F D G G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Wreszcie płynę - morska fala pianą moczy mi twarz,
+        chords: "F G C C"
+      - text: Rozwichrzone włosy na głowie pozdrawiają wiatr.
+        chords: "F G Am Am"
+      - text: Wreszcie płynę - znowu chmury zawadzają o maszt,
+        chords: "F G C C"
+      - text: A za rufą kilwater przeciwnym kursem gna.
+        chords: "C G C C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: W ciągu godziny galopem skompletowałem sprzęt,
+        chords: "C C G G"
+      - text: Napocić się nie musiałem - sprzęt miałem pod łóżkiem.
+        chords: "F C G G"
+      - text: Parę sztuk gaci, skarpet, koszula, ciepły sweter,
+        chords: "Am Em F C"
+      - text: Sztormiak, dżinsy i kalesony na nóżki.
+        chords: "F D G G"
+      - text: Jeszcze do sklepu po pęk zapasowych strun,
+        chords: "C C G G"
+      - text: Wszystko po to, by mieć czym uzbroić gitarę.
+        chords: "F C G G"
+      - text: Spakować worek - z żaglowego płótna jest on,
+        chords: "Am Em F C"
+      - text: Musi pomieścić wszystkie me graty i mały barek.
+        chords: "F D G G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Z radością w oczach po trapie wchodziłem na ship,
+        chords: "C C G G"
+      - text: Gdy dotknąłem pokładu - nie ukrywałem wzruszenia.
+        chords: "F C G G"
+      - text: Ruszamy z rana - kiedy tylko nastanie świt,
+        chords: "Am Em F C"
+      - text: Nadeszła wreszcie pora ziścić swoje marzenia.
+        chords: "F D G G"
+      - text: 'Już Stary wrzeszczy "Singe lap i żagle staw!"'
+        chords: "C C G G"
+      - text: Wszystkie szmaty poszybowały do nieba,
+        chords: "F C G G"
+      - text: A ja, wpatrzony w horyzontu niebieską dal,
+        chords: "Am Em F C"
+      - text: Śpiewam w duszy. A może dusza wraz ze mną śpiewa?
+        chords: "F D G G"

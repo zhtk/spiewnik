@@ -1,0 +1,55 @@
+id: czarnobrody-kapitan
+title: Czarnobrody Kapitan
+category: sailors
+key: Dm
+tags: [szanta, piraci, historia]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Czarnobrody nasz Kapitan był,
+      - text: A zwał się Edward Teach.
+      - text: W szesnastym roku do nas przyszedł, by
+      - text: Z diabłem i z nami pić.
+      - text: Potężna postać, dziki wzrok,
+      - text: Hiszpanom śmiał się w twarz,
+      - text: Rabował statki. Nim minął rok,
+      - text: Dziesiąty pryz był już nasz.
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Bo Kapitan nasz szalony był,
+        chords: "Dm C Dm"
+      - text: Mówiono, że z diabłem ma pakt.
+        chords: "Bb C Dm"
+      - text: Gdy w warkocz zaplatał brodę swą,
+        chords: "F C Dm"
+      - text: Drżał przed nim cały świat.
+        chords: "Bb C Dm"
+    bis: bis
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Zapragnął zrobić na statku piekło,
+      - text: Pod pokład spędził nas.
+      - text: W trującym dymie prochu i siarki
+      - text: Wytrzymał najdłużej z nas.
+      - text: Na Karaibach z nami był
+      - text: Marynarz - nie znał go nikt.
+      - text: Nie gadał z nami, ze Starym pił,
+      - text: Mówiono, że to sam Zły.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Spotswood ogłosił nagrodę za nasz bryg,
+      - text: Złoto za naszą śmierć.
+      - text: Więc żywy dziś nie wyjdzie nikt,
+      - text: Kto Teacha pragnął mieć.
+      - text: Zadano mu dwadzieścia ran,
+      - text: Na pokład ciężko padł.
+      - text: Dziś odwróconą losu kartą
+      - text: W piekle z Czartami gra.

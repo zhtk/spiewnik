@@ -30,6 +30,7 @@ verses:
         chords: "C G Am Em"
       - text: Czarna bandera nad nami.
         chords: "Am Bm Em"
+    bis: refren x2
 
   - type: verse
     label: Zwrotka 2

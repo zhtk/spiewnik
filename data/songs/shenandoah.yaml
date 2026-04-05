@@ -1,0 +1,102 @@
+id: shenandoah
+title: Shenandoah
+category: sailors
+key: C
+tags: [szanta, rzeka, indianska]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: O Missouri, Ty wielka rzeko!
+        chords: "C F C"
+      - text: '- Ojcze rzek, kto bieg twój zmierzy?'
+        chords: "F C"
+      - text: Wigwamy Indian na jej brzegach,
+        chords: "Am Em G C"
+      - text: '- Away, gdy czółno mknie poprzez nurt Missouri.'
+        chords: "G7 C Em F C G7 C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: O Shenandoah, jej imię było,
+        chords: "C F C"
+      - text: '- Ojcze rzek, kto bieg twój zmierzy?'
+        chords: "F C"
+      - text: I nie wiedziała, co to miłość.
+        chords: "Am Em G C"
+      - text: '- Away, gdy czółno mknie poprzez nurt Missouri.'
+        chords: "G7 C Em F C G7 C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Aż przybył kupiec i w rozterze
+        chords: "C F C"
+      - text: '- Ojcze rzek, kto bieg twój zmierzy?'
+        chords: "F C"
+      - text: Jej własne ofiarował serce.
+        chords: "Am Em G C"
+      - text: '- Away, gdy czółno mknie poprzez nurt Missouri.'
+        chords: "G7 C Em F C G7 C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: A stary wódz rzekł, że nie może
+        chords: "C F C"
+      - text: '- Ojcze rzek, kto bieg twój zmierzy?'
+        chords: "F C"
+      - text: Białemu córka wodza ścielić łoże.
+        chords: "Am Em G C"
+      - text: '- Away, gdy czółno mknie poprzez nurt Missouri.'
+        chords: "G7 C Em F C G7 C"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Lecz wódka białych wzrok mu mami;
+        chords: "C F C"
+      - text: '- Ojcze rzek, kto bieg twój zmierzy?'
+        chords: "F C"
+      - text: Już wojownicy śpią z duchami.
+        chords: "Am Em G C"
+      - text: '- Away, gdy czółno mknie poprzez nurt Missouri.'
+        chords: "G7 C Em F C G7 C"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Wziął czółno swe i z biegiem rzeki
+        chords: "C F C"
+      - text: '- Ojcze rzek, kto bieg twój zmierzy?'
+        chords: "F C"
+      - text: Dziewczynę uwiózł w kraj daleki.
+        chords: "Am Em G C"
+      - text: '- Away, gdy czółno mknie poprzez nurt Missouri.'
+        chords: "G7 C Em F C G7 C"
+
+  - type: verse
+    label: Zwrotka 7
+    lines:
+      - text: O, Shenandoah, czerwony ptaku,
+        chords: "C F C"
+      - text: '- Ojcze rzek, kto bieg twój zmierzy?'
+        chords: "F C"
+      - text: Wraz ze mną płyń po życia szlaku.
+        chords: "Am Em G C"
+      - text: '- Away, gdy czółno mknie poprzez nurt Missouri.'
+        chords: "G7 C Em F C G7 C"
+
+  - type: verse
+    label: Zwrotka 8
+    lines:
+      - text: O, Missouri, Ty wielka rzeko!
+        chords: "C F C"
+      - text: '- Ojcze rzek, kto bieg twój zmierzy?'
+        chords: "F C"
+      - text: Wigwamy Indian na jej brzegach.
+        chords: "Am Em G C"
+      - text: '- Away, gdy czółno mknie poprzez nurt Missouri.'
+        chords: "G7 C Em F C G7 C"

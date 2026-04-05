@@ -1,0 +1,65 @@
+id: nostalgia
+title: Nostalgia
+category: sailors
+key: G
+tags: [szanta, morze, nostalgia]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Dziś odwiedziła mnie nostalgia
+        chords: "G C7 G G7"
+      - text: We włosach miała morską sól
+        chords: "C7 G G7"
+      - text: Mówiła coś od rzeczy
+        chords: "C7 G"
+      - text: O brzuchatych żaglach
+        chords: "Em7"
+      - text: Z butelki piła rum.
+        chords: "Am D7 G G7"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Siedziała u mnie aż do rana
+      - text: Mieszała z rumem cierpki gin
+      - text: Paliła czarny tytoń
+      - text: Na gitarze grała
+      - text: Opowiadała sny.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: O samym środku niepogody
+      - text: O falach stromych wiatrach złych
+      - text: Cyklon z podbitym okiem
+      - text: Ale jeszcze młody
+      - text: W pokoju zaczął wyć.
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: A potem passat tu przyleciał
+      - text: Tańczyły bryzy słonych mórz
+      - text: 'Zbudzona żona woła:'
+      - text: Zamknij drzwi bo przeciąg
+      - text: I przestań już się tłuc!
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Lustro ma zapuchnięte oczy
+      - text: I twarz jak rozłupany pień
+      - text: Cóż trzeba się ogolić
+      - text: I pójść do roboty
+      - text: By jutro kupić chleb.
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Ale w nocy przyjdzie znów nostalgia
+      - text: Przyniesie w dłoniach słony bryzg
+      - text: Przysiądzie mi na kołdrze
+      - text: I w żagle z prześcieradła
+      - text: Otuli moje sny.

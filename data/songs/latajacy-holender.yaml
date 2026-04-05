@@ -1,0 +1,66 @@
+id: latajacy-holender
+title: Latający Holender
+category: sailors
+key: Am
+tags: [szanta, piraci, śmierć]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Rankiem z fortu na góry szczycie
+        chords: "Am F"
+      - text: Spętanych prowadzą nas,
+        chords: "Dm E"
+      - text: Za pirackie beztroskie życie
+        chords: "Am F"
+      - text: Zapłatę odebrać czas.
+        chords: "Dm E Am"
+      - text: Dziewięć pętli, jak dziewięć kwiatów,
+        chords: "Dm E"
+      - text: Rozchyla kielichy swe,
+        chords: "Dm E"
+      - text: Dziewięć sznurów, jak dziewięć batów,
+        chords: "Am C F"
+      - text: Na szyi zaciśnie się.
+        chords: "Dm E Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Tłum żandarmów już stoi gotowy,
+        chords: "Am F"
+      - text: A z nieba spogląda Bóg.
+        chords: "Dm E"
+      - text: W pętlach ciasnych tkwią nasze głowy,
+        chords: "Am F"
+      - text: Kajdany padły na bruk.
+        chords: "Dm E Am"
+      - text: Już zmówiono krótkie modlitwy,
+        chords: "Dm E"
+      - text: Kapelan odśpiewał psalm,
+        chords: "Dm E"
+      - text: Werbli grzmot do ostatniej bitwy
+        chords: "Am C F"
+      - text: I wiatr na sznurach nam gra.
+        chords: "Dm E Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Jeszcze tylko ostatnie słowo,
+        chords: "Am F"
+      - text: Jeszcze smak wina i rum.
+        chords: "Dm E"
+      - text: Rozkaz - Wieszać! Opadły głowy,
+        chords: "Am F"
+      - text: Ostatni potworny ból.
+        chords: "Dm E Am"
+      - text: Przez dwie noce ciała piratów
+        chords: "Dm E"
+      - text: Kołysał pod belką wiatr,
+        chords: "Dm E"
+      - text: Dzisiaj dalej płyną na wraku -
+        chords: "Am C F"
+      - text: Ich statek to Flying Dutch.
+        chords: "Dm E Am"

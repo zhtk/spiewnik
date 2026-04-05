@@ -1,0 +1,66 @@
+id: north-west-passage
+title: North-West Passage
+category: sailors
+key: Am
+tags: [szanta, morze, odkrycia]
+
+verses:
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Spróbuj chociaż raz North-Westowe przejście zdobyć
+        chords: "Am G C G F Am"
+      - text: Znajdź miejsca gdzie zimował Franklin u Beauforta wrót
+        chords: "F C Am Dm G"
+      - text: Wykuj własny szlak przez kraj dziki i surowy
+        chords: "Am G C G F Am"
+      - text: Przejdź drogą północ - zachód poza lód.
+        chords: "F C G C"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Brnę przez kry na zachód od Davisa zimnych wrót
+        chords: "Am F C G"
+      - text: Szlakiem tych, których bogactwa wiodły na Daleki Wschód
+        chords: "Am F C G C"
+      - text: Sławę zdobyć chcieli, został po nich tylko proch,
+        chords: "Am F C Am"
+      - text: Białe kości popłynęły gdzieś na dno.
+        chords: "Am G Dm C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Trzy wieki przeminęły, na wyprawę ruszam znów
+        chords: "Am F C G"
+      - text: Śladami dzielnych chłopców, co walczyli z furią mórz
+        chords: "Am F C G C"
+      - text: Miasta z lodu wyrastają, by rozpłynąć za mną się
+        chords: "Am F C Am"
+      - text: Jak odkrywcom dawnym wskażą nowy brzeg.
+        chords: "Am G Dm C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Mile wloką się bez końca, całą noc pcham się na West
+        chords: "Am F C G"
+      - text: Tu MacKenzie, David Thompson, cała reszta z nimi też
+        chords: "Am F C G C"
+      - text: Wytyczali dla mnie drogę wśród iskrzących lodem gór,
+        chords: "Am F C Am"
+      - text: W mroźnych wiatrach głos ich słyszę jak ze snu.
+        chords: "Am G Dm C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: I czymże ja się różnię od pionierów szlaków tych
+        chords: "Am F C G"
+      - text: Tak jak oni - porzuciłem życie pośród bliskich mi
+        chords: "Am F C G C"
+      - text: By znów odkryć North-West Passage, dla tak wielu koniec znów
+        chords: "Am F C Am"
+      - text: Ale marzę, bym do domu wrócić mógł.
+        chords: "Am G Dm C"

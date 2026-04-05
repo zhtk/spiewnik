@@ -1,0 +1,114 @@
+id: wypij-jeszcze-raz
+title: Wypij Jeszcze Raz
+category: sailors
+key: Am
+tags: [szanta, picie, zabawa]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Wyszliśmy razem John i ja,
+        chords: "Am C G Am"
+      - text: "- Hej, hej stary,"
+        chords: "F G C Em"
+      - text: Na kei w Bristol zabawa trwa,
+        chords: "Am C G Am"
+      - text: "- Wypij jeszcze raz."
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Do starej knajpy idę, gdzie
+        chords: "Am C G Am"
+      - text: "- Hej, hej stary,"
+        chords: "F G C Em"
+      - text: Piwa dają beczki dwie.
+        chords: "Am C G Am"
+      - text: "- Wypij jeszcze raz."
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Gruby barman spieszy się,
+        chords: "Am C G Am"
+      - text: "- Hej, hej stary,"
+        chords: "F G C Em"
+      - text: Już wędrują flachy dwie.
+        chords: "Am C G Am"
+      - text: "- Wypij jeszcze raz."
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: John pociągnął piękny łyk,
+        chords: "Am C G Am"
+      - text: "- Hej, hej stary,"
+        chords: "F G C Em"
+      - text: Zaraz nam pod stołem znikł.
+        chords: "Am C G Am"
+      - text: "- Wypij jeszcze raz."
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Nagle widać ręce dwie,
+        chords: "Am C G Am"
+      - text: "- Hej, hej stary,"
+        chords: "F G C Em"
+      - text: Jednak John nie poddał się.
+        chords: "Am C G Am"
+      - text: "- Wypij jeszcze raz."
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Opadł biedak całkiem z sił,
+        chords: "Am C G Am"
+      - text: "- Hej, hej stary,"
+        chords: "F G C Em"
+      - text: Więc pod stołem będzie pił.
+        chords: "Am C G Am"
+      - text: "- Wypij jeszcze raz."
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 7
+    lines:
+      - text: Dzisiaj stawiam wszystkim ja,
+        chords: "Am C G Am"
+      - text: "- Hej, hej stary,"
+        chords: "F G C Em"
+      - text: Moje zdrowie pij do dna.
+        chords: "Am C G Am"
+      - text: "- Wypij jeszcze raz."
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 8
+    lines:
+      - text: Może już ostatni raz,
+        chords: "Am C G Am"
+      - text: "- Hej, hej stary,"
+        chords: "F G C Em"
+      - text: Na zabawę mamy czas.
+        chords: "Am C G Am"
+      - text: "- Wypij jeszcze raz."
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 9
+    lines:
+      - text: Sprzedam łódź za flachy dwie,
+        chords: "Am C G Am"
+      - text: "- Hej, hej stary,"
+        chords: "F G C Em"
+      - text: Dziś na beczce pływać chcę.
+        chords: "Am C G Am"
+      - text: "- Wypij jeszcze raz."
+        chords: "F E Am"

@@ -1,0 +1,63 @@
+id: powrot-do-domu
+title: Powrót do domu
+category: sailors
+key: Dm
+tags: [szanta, morze, dom]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Pamiętaj zawsze żeglarzu,
+        chords: "Dm"
+      - text: Że tylko jeden masz dom.
+        chords: "Gm"
+      - text: Po długim, zimowym rejsie
+        chords: "A"
+      - text: Zawsze powracasz doń.
+        chords: "Bb A"
+      - text: I tylko jedną masz żonę
+        chords: "Dm"
+      - text: Co czeka na ciebie wciąż
+        chords: "Gm"
+      - text: Gdy wiatry za Żółtym Morzem
+        chords: "A"
+      - text: Ciskają fregatą twą.
+        chords: "Bb A"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Długie wachty i daleko tak od domu
+        chords: "Gm A Dm Bb"
+      - text: Groźne burze nie zapędzą nas na dno
+        chords: "Gm A Dm D7"
+      - text: I Przylądek Horn nie przyśni się nikomu
+        chords: "Gm A Dm Bb"
+      - text: Zostajemy w domu, w domu.
+        chords: "Gm A Gm A Dm"
+    bis: x2
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Piłeś w niejednym barze
+      - text: Poznałeś portów smród
+      - text: Tak mało zostało z marzeń
+      - text: Starcem wróciłeś tu
+      - text: Długie czterdzieści lat było
+      - text: Rok każdy, jak innym trzy
+      - text: Dzisiaj coś się skończyło
+      - text: Morze nie szumi już Ci.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Wracają spaleni od słońca
+      - text: Spotykać znów mogę ich
+      - text: Przygoda dobiegła końca
+      - text: Ostatnie dłużą się dni
+      - text: Czasami tylko z tęsknotą
+      - text: Po masztach błądzi ich wzrok
+      - text: Znowu śni im się złoto
+      - text: Na morzu za rokiem rok.

@@ -1,0 +1,54 @@
+id: jasnowlosa
+title: Jasnowłosa
+category: sailors
+key: D
+tags: [szanta, morze, milosc]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Na tańcach ją poznałem, długowłosą blond
+        chords: "D G A D"
+      - text: Dziewczynę moich marzeń. Nie wiadomo skąd
+        chords: "D Bm G A7"
+      - text: Ona się tam wzięła, piękna niczym kwiat.
+        chords: "D Bm G C A7"
+      - text: Czy jak syrena wyszła z morza, czy ją przygnał wiatr?
+        chords: "D G A7 D"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Żegnaj Irlandio, czas w drogę mi już,
+        chords: "D G A D"
+      - text: W porcie gotowa stoi moja łódź.
+        chords: "D Bm G A7"
+      - text: Na wielki ocean przyjdzie mi zaraz wyjść
+        chords: "D Bm G C A7"
+      - text: I pożegnać się z dziewczyną na Lough Sholin.
+        chords: "D G A7 D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Ująłem ją za rękę delikatną jak
+        chords: "D G A D"
+      - text: Latem mały motyl albo róży kwiat.
+        chords: "D Bm G A7"
+      - text: Poszedłem z nią na plażę wsłuchać się w szum fal,
+        chords: "D Bm G C A7"
+      - text: Pokazałem jasnowłosej wielki morza czar.
+        chords: "D G A7 D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Za moment wypływam w długi, trudy rejs
+        chords: "D G A D"
+      - text: I z piękną mą dziewczyną przyjdzie rozstać się.
+        chords: "D Bm G A7"
+      - text: Żagle pójdą w górę, wiatr mnie pogna w przód
+        chords: "D Bm G C A7"
+      - text: I przez morza mnie powiedzie. Ty zostaniesz tu.
+        chords: "D G A7 D"

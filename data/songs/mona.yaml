@@ -1,0 +1,90 @@
+id: mona
+title: Mona
+category: sailors
+key: Am
+tags: [szanta, morze, tragedia]
+
+verses:
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Był pięćdziesiąty dziewiąty rok.
+        chords: "Am G Am"
+      - text: Pamiętam ten grudniowy dzień
+        chords: "Am Em"
+      - text: Gdy ośmiu mężczyzn zabrał sztorm
+        chords: "Am Em Am"
+      - text: Gdzieś w oceanu wieczny cień.
+        chords: "Dm E Am"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: W grudniowy płaszcz okryta śmierć
+        chords: "Am G Am"
+      - text: Spod czarnych nieba zeszła chmur.
+        chords: "Am Em"
+      - text: Przy brzegu konał smukły bryg
+        chords: "Am G Am"
+      - text: Na pomoc Mona poszła mu.
+        chords: "Dm E Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Gdy przyszedł sygnał każdy z nich
+        chords: "Am G Am"
+      - text: Wpół dojedzonej strawy dzban
+        chords: "Am Em"
+      - text: Porzucił, by na przystań biec,
+        chords: "Am G Am"
+      - text: Wyruszyć w ten dziki z morzem tan
+        chords: "Dm E Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A fale wściekle biły w brzeg,
+        chords: "Am G Am"
+      - text: Ryk morza tłumił chłopców krzyk,
+        chords: "Am Em"
+      - text: Mona do brygu dzielnie szła
+        chords: "Am G Am"
+      - text: Lecz brygu już nie widział nikt
+        chords: "Dm E Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Na brzegu kobiet niemy szloch,
+        chords: "Am G Am"
+      - text: W ramiona ich nie wrócą już
+        chords: "Am Em"
+      - text: Gdy oceanu twarda pięść
+        chords: "Am G Am"
+      - text: Uderzy w ratowniczą łódź
+        chords: "Dm E Am"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: I tylko słońce krwawy dysk
+        chords: "Am G Am"
+      - text: Schyliło już po ciężkim dniu,
+        chords: "Am Em"
+      - text: Mrok okrył morze, niebo, brzeg
+        chords: "Am G Am"
+      - text: Wiecznego całun ścieląc snu
+        chords: "Dm E Am"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Wiem dobrze, że synowie ich
+        chords: "Am G Am"
+      - text: Też w morze pójdą, kiedy znów
+        chords: "Am Em"
+      - text: Do oczu komuś zajrzy śmierć
+        chords: "Am G Am"
+      - text: I wezwie ratowniczą łódź
+        chords: "Dm E Am"

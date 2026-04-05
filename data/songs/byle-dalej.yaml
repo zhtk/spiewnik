@@ -1,0 +1,74 @@
+id: byle-dalej
+title: Byle dalej
+category: sailors
+key: Am
+tags: [szanta, morze, wolnosc]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Byle dalej i dalej, i dalej, i dalej, i dalej...
+        chords: "Am D G"
+      - text: Byle dalej i dalej, i dalej, i dalej, i dalej...
+        chords: "Am D G"
+      - text: W nocy na przystanku wsiadam,
+        chords: "Am D"
+      - text: W tłumie zapomnianych dłoni.
+        chords: "G Em"
+      - text: Razem z deszczem na mnie spada,
+        chords: "C D"
+      - text: Sen wyśniony, wymarzony...
+        chords: "G G7"
+      - text: Znowu wieczór, powrót z pracy,
+        chords: "Am D"
+      - text: W szybie cień zmęczonej twarzy
+        chords: "G Em"
+      - text: I latarni światła spacer.
+        chords: "Am7 D"
+      - text: Chcę inaczej żyć... Inaczej.
+        chords: "Am7 G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Móc nie słuchać cudzych rad,
+        chords: "G"
+      - text: Byle w uszach szumiał wiatr...
+        chords: "Am"
+      - text: Z wędrującą falą gnać,
+        chords: "Bm7 Am7"
+      - text: Byle dalej...
+        chords: "G"
+      - text: Nie żegnając dawnych dróg,
+        chords: "G"
+      - text: W żaglach sen odnaleźć mógł
+        chords: "Am"
+      - text: 'Aż po brzegów zawołanie:'
+        chords: "Bm7 Am7"
+      - text: '...Byle dalej...'
+        chords: "G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Byle dalej i dalej, i dalej, i dalej, i dalej...
+        chords: "Am D G"
+      - text: Byle dalej i dalej, i dalej, i dalej, i dalej...
+        chords: "Am D G"
+      - text: Zakołysał się autobus,
+        chords: "Am D"
+      - text: Na pustkowiu drzwi otwarte.
+        chords: "G Em"
+      - text: Może złapię w kroplach deszczu,
+        chords: "C D"
+      - text: Chwycę prawdę, że odnajdę...
+        chords: "G G7"
+      - text: W nocy sny wzburzone biją
+        chords: "Am D"
+      - text: W odchodzących burty kutrów,
+        chords: "G Em"
+      - text: Ku wzburzonym pędząc wichrom.
+        chords: "Am7 D"
+      - text: Może minie czas mych smutków?
+        chords: "Am7 G"

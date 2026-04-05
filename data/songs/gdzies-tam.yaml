@@ -1,0 +1,74 @@
+id: gdzies-tam
+title: Gdzieś tam
+category: sailors
+key: C
+tags: [szanta, morze, poetyckie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdzieś tam, na krańcach Wielkiej Wody,
+        chords: "C Bm E7"
+      - text: Gdzieś tam, gdzie giną ludzkie drogi,
+        chords: "Am Bb C7"
+      - text: Gdzieś tam, gdzie siedzi stary, siwy Bóg,
+        chords: "F Em"
+      - text: Jest dom naszych wszystkich dusz.
+        chords: "D G7 C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Gdzieś tam, w syntezie wszelkich Światów,
+        chords: "C Bm E7"
+      - text: Gdzieś tam, bez wiary, bez dogmatów,
+        chords: "Am Bb C7"
+      - text: Wśród naturalnych praw,
+        chords: "F Em"
+      - text: Do załatwienia mam parę spraw.
+        chords: "D G7 C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Po pierwsze, po drugie, po trzecie, po czwarte...
+        chords: "E7 Am"
+      - text: I co to życie było warte?
+        chords: "D7 G7"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Gdzieś tam, gdzie nieśmiertelne żyje,
+        chords: "C Bm E7"
+      - text: Gdzieś tam, gdzie źródło prawdy bije,
+        chords: "Am Bb C7"
+      - text: Gdzie zło i dobro traci sens,
+        chords: "F Em"
+      - text: W ostatni popłynę rejs.
+        chords: "D G7 C"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Gdzieś tam, na drugą stronę cienia,
+        chords: "C Bm E7"
+      - text: Gdzieś tam, gdzie duch materię zmienia,
+        chords: "Am Bb C7"
+      - text: Przejmę ostatnią z wacht,
+        chords: "F Em"
+      - text: Do kei przytulę jacht.
+        chords: "D G7 C"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Gdzieś tam, na krańcach Wielkiej Wody,
+        chords: "C Bm E7"
+      - text: Gdzieś tam, gdzie giną ludzkie drogi,
+        chords: "Am Bb C7"
+      - text: Gdzieś tam, gdzie siedzi stary, siwy Bóg,
+        chords: "F Em"
+      - text: Jest dom naszych wszystkich dusz...
+        chords: "D G7 C"

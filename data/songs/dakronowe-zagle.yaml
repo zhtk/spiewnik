@@ -1,0 +1,66 @@
+id: dakronowe-zagle
+title: Dakronowe Żagle
+category: sailors
+key: Am
+tags: [szanta, zeglowanie, nowoczesnosc]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Czy pamiętasz stary szkuner trójmasztowy,
+        chords: "Am Dm Am Am"
+      - text: Co kołysał się na fali niczym ptak?
+        chords: "Am Dm Am A7"
+      - text: Nie pamiętam, a mój jacht jest plastikowy,
+        chords: "Dm Dm Am Am"
+      - text: Zresztą... nie wiem, czy mi tych staruszków brak.
+        chords: "F Dm E E7"
+      - text: Odpłynęły dawno żagle bawełniane
+        chords: "Am Dm Am Am"
+      - text: I cedrowych masztów zniknął także las,
+        chords: "C F C C7"
+      - text: Już nie skrzypią z drewna burty nadpróchniałe,
+        chords: "Dm Dm Am Am"
+      - text: Smołowane w każdym porcie raz po raz.
+        chords: "F Dm E E7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Dzisiaj mam żagle dakronowe, lśnią profile duralowe,
+        chords: "D E A F# Bm"
+      - text: Laminatu białe gładzie i kwasówka na pokładzie,
+        chords: "D E A B7 E7"
+      - text: I mam gdzieś sekstantu szparkę, bo japońską mam drukarkę.
+        chords: "D E A F# Bm"
+      - text: Sterowanie samosterem, nawigacja z komputerem.
+        chords: "D E A B7 E7"
+      - text: Rakietnice i naboje, styropianu pełne koje,
+        chords: "D E A F# Bm"
+      - text: A co Neptun mi szykuje, grzecznie radio zamelduje.
+        chords: "D E A B7 E7"
+      - text: Z konserwowej puszki danie w mig podgrzewam na propanie,
+        chords: "D E A F# Bm"
+      - text: A gdy nudzę się czasami, to kasety mam z szantami.
+        chords: "D E A E A"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Nie usłyszysz dziś zaśpiewek marynarzy,
+        chords: "Am Dm Am Am"
+      - text: Co harując zawodzili na swój los,
+        chords: "Am Dm Am A7"
+      - text: Tylko czasem w jakimś porcie, albo w barze,
+        chords: "Dm Dm Am Am"
+      - text: Wzruszy ludzi rozmarzony męski głos.
+        chords: "F Dm E E7"
+      - text: Dziś opaski przeszywanej już nie znają,
+        chords: "Am Dm Am Am"
+      - text: Zapałkami zatapiają końce lin,
+        chords: "C F C C7"
+      - text: Ekspresami do swych domów odjeżdżają
+        chords: "Dm Dm Am Am"
+      - text: I na wódkę zamienili stary gin.
+        chords: "F Dm E E7"

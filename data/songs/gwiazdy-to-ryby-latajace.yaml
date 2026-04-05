@@ -1,0 +1,66 @@
+id: gwiazdy-to-ryby-latajace
+title: Gwiazdy to ryby latające
+category: sailors
+key: Am
+tags: [szanta, morze, poetyckie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Rozbiję swój świat zabity deskami,
+        chords: "Am7 Dm7 E7"
+      - text: Z tych desek zbuduję, jak z tęsknoty, łódź.
+        chords: "Am7 D7 E7"
+      - text: Perły, korale, rozsypię na szczęście,
+        chords: "Am7 G Cdim F#dim"
+      - text: Muszle, bursztyny, a może coś jeszcze.
+        chords: "Dm7 E Am7"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Będę wędrował poza horyzont
+        chords: "Am7 Dm7 E7"
+      - text: Ze swojskim balastem - wielką walizą.
+        chords: "Am7 D7 E7"
+      - text: Z wyspy na wyspę, raz dniem, raz nocą,
+        chords: "Am7 G Cdim F#dim"
+      - text: Popłynę tam, gdzie oczy poniosą.
+        chords: "Dm7 E Am7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Gwiazdy to ryby latające
+        chords: "Dm7 E7 Am7"
+      - text: Między księżycem a słońcem.
+        chords: "Dm7 E7 Am7"
+      - text: Morze - modlitwa Boga i ludzi
+        chords: "Dm G C F"
+      - text: Za tych, których życie zbytnio trudzi.
+        chords: "Dm E7 Am7"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: W trójkącie żagla słońce powieszę
+        chords: "Am7 Dm7 E7"
+      - text: I będę studził płonne zapały
+        chords: "Am7 D7 E7"
+      - text: Serc zbyt gorących i tych zbyt małych
+        chords: "Am7 G Cdim F#dim"
+      - text: I tych co burzą o tych, co ciszą.
+        chords: "Dm7 E Am7"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Pójdą nade mną trzy czarne wieże,
+        chords: "Am7 Dm7 E7"
+      - text: Jak trzy dzwonnice rybackich świątyń,
+        chords: "Am7 D7 E7"
+      - text: Będzie im lekko w wodach, gdy dzwony
+        chords: "Am7 G Cdim F#dim"
+      - text: Wydzwonią żywot wieczornych modlitw.
+        chords: "Dm7 E Am7"

@@ -9,60 +9,63 @@ verses:
     label: Zwrotka 1
     lines:
       - text: To dwudziesty czwarty był lutego,
-        chords: "C C"
-      - text: Poranna zrzedła mgła,
-        chords: "G Am Am"
-      - text: Wyszło z niej siedem uzbrojonych kryp,
-        chords: "G Am"
-      - text: Turecki niosły znak.
         chords: "C"
+      - text: Poranna zrzedła mgła,
+        chords: "C G"
+      - text: Wyszło z niej siedem uzbrojonych kryp,
+        chords: "Am"
+      - text: Turecki niosły znak.
+        chords: "Am G Am"
 
   - type: chorus
     label: Refren
     lines:
       - text: No i...
-        chords: "C C"
       - text: Znów bijatyka, no i...
-        chords: "G Am Am"
+        chords: "C"
       - text: Znów bijatyka, no i...
-        chords: "G Am"
-      - text: Bijatyka cały dzień,
-      - text: I porabany dzień, i porabany łeb,
+        chords: "C"
+      - text: Bijatyka cały dzień, [dzień! dzień!]
+        chords: "C G"
+      - text: I porąbany dzień, i porąbany łeb,
+        chords: "Am"
       - text: Razem bracia, aż po zmierzch!
+        chords: "Am G Am"
       - text: Hej!
+    bis: refren x2
 
   - type: verse
     label: Zwrotka 2
     lines:
       - text: Już pierwszy skrada się do burt,
-        chords: "C C"
-      - text: 'A zwie się "Goździk" i'
-        chords: "G Am Am"
-      - text: Z Algieru Pasza wysłał go,
-        chords: "G Am"
-      - text: Żeby nam upuścił krwi.
         chords: "C"
+      - text: 'A zwie się "Goździk" i'
+        chords: "C G"
+      - text: Z Algieru Pasza wysłał go,
+        chords: "Am"
+      - text: Żeby nam upuścił krwi.
+        chords: "Am G Am"
 
   - type: verse
     label: Zwrotka 3
     lines:
       - text: Następny zbliża się do burt,
-        chords: "C C"
-      - text: 'A zwie się "Róży Pak".'
-        chords: "G Am Am"
-      - text: Plunęliśmy ze wszystkich rur -
-        chords: "G Am"
-      - text: Bardzo prędko szedł na dno.
         chords: "C"
+      - text: 'A zwie się "Róży Pąk".'
+        chords: "C G"
+      - text: Plunęliśmy ze wszystkich rur -
+        chords: "Am"
+      - text: Bardzo prędko szedł na dno.
+        chords: "Am G Am"
 
   - type: verse
     label: Zwrotka 4
     lines:
       - text: W naszych rękach dwa i dwa na dnie,
-        chords: "C C"
-      - text: Cała reszta zwiała gdzieś,
-        chords: "G Am Am"
-      - text: No a jeden z nich zabraliśmy
-        chords: "G Am"
-      - text: Na starej Anglii brzeg.
         chords: "C"
+      - text: Cała reszta zwiała gdzieś,
+        chords: "C G"
+      - text: No a jeden z nich zabraliśmy
+        chords: "Am"
+      - text: Na starej Anglii brzeg.
+        chords: "Am G Am"

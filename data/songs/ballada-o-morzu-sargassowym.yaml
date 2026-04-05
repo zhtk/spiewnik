@@ -1,0 +1,74 @@
+id: ballada-o-morzu-sargassowym
+title: Ballada o Morzu Sargassowym
+category: sailors
+key: D
+tags: [szanta, morze, poetyckie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Na sargassowym Morzu tkwią okręty,
+        chords: "D G D"
+      - text: Burty im porasta trupia pleśń
+        chords: "D G D"
+      - text: I nie czekają na nie już kobiety,
+        chords: "B7 Em"
+      - text: Bo która zechce czekać cały wiek.
+        chords: "A7 D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: A po pokładach snują się szkielety,
+      - text: Głowonogi w kości z nimi rżną,
+      - text: W banku tylko fałszywe monety
+      - text: I nikt się zbytnio nie przejmuje grą.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A Bóg nakręca zegar wielkim kluczem,
+      - text: Siedem obrotów nieba - siedem dni,
+      - text: I znów nam jakiś tydzień głupio uciekł,
+      - text: I tak nam się to życie jakoś tli.
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Wiatr muzykę w duszy mi wysuszył,
+      - text: W moim sercu pustym tylko sól
+      - text: I nim się człowiek spostrzeże - już skruszał,
+      - text: A potem zmówią pacierze i w dół...
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Jak somnambulik po pochyłym dachu,
+      - text: Ośmiornice dławią mnie w snach
+      - text: I można by zwariować ze strachu,
+      - text: Lecz zwariować przecież także strach.
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: A Bóg ruletę kręci, tak jak krupier,
+      - text: Pociąga z flaszki kapitański rum,
+      - text: Na burcie prawej i lewej stawia duszę,
+      - text: A kości rzuca w paszcze morskim lwom.
+
+  - type: verse
+    label: Zwrotka 7
+    lines:
+      - text: Na sargassowym Morzu, jak okrętom,
+      - text: Burty nam porasta trupia pleśń,
+      - text: Na pokładach tkwimy jak szkielety,
+      - text: Czasem któryś załka śmieszną pieśń.
+
+  - type: verse
+    label: Zwrotka 8
+    lines:
+      - text: Że Bóg nakręca zegar wielkim kluczem,
+      - text: Że siedem obrotów nieba - siedem dni,
+      - text: Że znów nam jakiś tydzień głupio uciekł
+      - text: I tak nam się to życie jakoś tli.

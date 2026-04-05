@@ -1,0 +1,102 @@
+id: szkuner-im-alone
+title: Szkuner I'm Alone
+category: sailors
+key: Em
+tags: [szanta, morze, przemyt]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Baksztagiem pruł nasz "I'm Alone" hen od Meksyku bram,
+        chords: "Em G D"
+      - text: A Jankes w dziób kopany po piętach deptał nam.
+        chords: "Am Em"
+      - text: Tysiące beczek rumu od lockerów aż po dno,
+        chords: "Em G D"
+      - text: I nawet kabla luzu, choćbyś robił nie wiem co.
+        chords: "Am Em"
+
+  - type: chorus
+    label: Refren 1
+    lines:
+      - text: Sam Neptun śpiewał szanty, po cichu sprzyjał nam,
+        chords: "C G"
+      - text: Więc bił rekordy "I'm Alone", choć groził wciąż Wuj Sam
+        chords: "Am B7"
+      - text: Na jedną kartę wszystko, jak struna każdy bras,
+        chords: "C G B7 Em"
+      - text: Niech diabli porwą Coast Guard tak mawiał każdy z nas.
+        chords: "Am Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: A dawniej szkuner "I'm Alone" hen po łowiskach gnał,
+        chords: "Em G D"
+      - text: Lecz w końcu ryb zabrakło i głód w oczy zajrzał nam,
+        chords: "Am Em"
+      - text: Za burtę poszły sieci bo tak krzyczał kobiet tłum,
+        chords: "Em G D"
+      - text: Jankesi mają ginu dość, postawmy więc na rum.
+        chords: "Am Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Gdy stawialiśmy żagle to Coast Guard wpadał w trans,
+        chords: "Em G D"
+      - text: Ta banda bubków w baliach nie miała żadnych szans.
+        chords: "Am Em"
+      - text: Pułapkę zastawili gnoje, choć tak dobrze szło,
+        chords: "Em G D"
+      - text: Posłali dzielny "I'm Alone" z ładunkiem aż na dno.
+        chords: "Am Em"
+
+  - type: chorus
+    label: Refren 2
+    lines:
+      - text: I nawet śpiewa szanty, po cichu sprzyja nam,
+        chords: "C G"
+      - text: Choć leży na dnie "I'm Alone" i śmieje się Wuj Sam
+        chords: "Am B7"
+      - text: Na jedną kartę wszystko, jak struna każdy bras,
+        chords: "C G B7 Em"
+      - text: Niech diabli porwą Coast Guard tak mawia każdy z nas.
+        chords: "Am Em"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Niejeden z Nowej Szkocji szkuner taki spotkał los,
+        chords: "Em G D"
+      - text: A wszystko przez cholerny głód i wiecznie pusty trzos.
+        chords: "Am Em"
+      - text: Choć jeden z nich nasz "I'm Alone" swe miejsce w pieśni ma
+        chords: "Em G D"
+      - text: I pewnie Neptun lubi go i w kości na nim gra
+        chords: "Am Em"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: A ci co pokład "I'm Alone" kochali jak swój dom,
+        chords: "Em G D"
+      - text: Nie dla nich blaski sławy i nie dla nich w niebie tron.
+        chords: "Am Em"
+      - text: Niech mają choć ten cichy klang, ten jeden marny dzwon,
+        chords: "Em G D"
+      - text: 'Niech każdy do nich woła: "Hej Smugglers z I''m Alone!!!"'
+        chords: "Am Em"
+
+  - type: chorus
+    label: Refren 3
+    lines:
+      - text: Niech Neptun śpiewa szanty, po cichu sprzyja nam,
+        chords: "C G"
+      - text: Rekordy bije "I'm alone" i zamknie się Wuj Sam
+        chords: "Am B7"
+      - text: Na jedną kartę wszystko, jak struna każdy bras,
+        chords: "C G B7 Em"
+      - text: Niech Smuggler pije tylko rum, tak mawia każdy z nas.
+        chords: "Am Em"

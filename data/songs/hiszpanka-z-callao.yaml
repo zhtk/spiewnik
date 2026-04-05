@@ -1,0 +1,98 @@
+id: hiszpanka-z-callao
+title: Hiszpanka z Callao
+category: sailors
+key: G
+tags: [szanta, morze, miłość]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Przepuściłem znów całą forsę swą
+        chords: "G Em"
+      - text: Na hiszpańską dziewkę z Callao.
+        chords: "Am G D"
+      - text: Wyciągnęła ze mnie cały szmal
+        chords: "G Em"
+      - text: I spłukałem na nią się do cna.
+        chords: "Am G D"
+      - text: Już znikają główki portu,
+        chords: "G D"
+      - text: W którym stary został dom.
+        chords: "G D"
+      - text: Znów za rufą niknie w dali
+        chords: "G Em"
+      - text: Ukochany stały ląd.
+        chords: "Am G D"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Dalej chłopcy, rwijmy fały,
+        chords: "G Em"
+      - text: Niech uderzy w żagle wiatr.
+        chords: "Am G D"
+      - text: W morze znowu wypływamy -
+        chords: "G Em"
+      - text: Ile tam spędzimy lat?
+        chords: "Am G D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Już niejeden pokład mym domem był
+        chords: "G Em"
+      - text: I niejeden kot me plecy bił.
+        chords: "Am G D"
+      - text: Choć robota ciężka i żarcie psie,
+        chords: "G Em"
+      - text: W Callao po rejsie znajdziesz mnie.
+        chords: "Am G D"
+      - text: Znów znikają główki portu,
+        chords: "G D"
+      - text: W którym stary został dom.
+        chords: "G D"
+      - text: Znów za rufą niknie w dali
+        chords: "G Em"
+      - text: Ukochany stały ląd.
+        chords: "Am G D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Zaprószyłem tam nieraz głowę swą,
+        chords: "G Em"
+      - text: W barze u Hiszpanki z Callao.
+        chords: "Am G D"
+      - text: Butlę rumu wielką dała mi
+        chords: "G Em"
+      - text: I ciągnęła ze mną aż po świt.
+        chords: "Am G D"
+      - text: Już znikają główki portu,
+        chords: "G D"
+      - text: W którym stary został dom.
+        chords: "G D"
+      - text: Znów za rufą niknie w dali
+        chords: "G Em"
+      - text: Ukochany stały ląd.
+        chords: "Am G D"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: A pod Cape Horn, gdzie nas poniesie wiatr,
+        chords: "G Em"
+      - text: Popłyniemy z sztormem za pan brat.
+        chords: "Am G D"
+      - text: Przez groźne burze, śnieg i lód
+        chords: "G Em"
+      - text: Dojdziemy aż do piekła wrót.
+        chords: "Am G D"
+      - text: Choć grabieją z zimna ręce,
+        chords: "G D"
+      - text: Zadek mokry dzień i noc,
+        chords: "G D"
+      - text: Jedna myśl rozgrzewa serce -
+        chords: "G Em"
+      - text: O Hiszpance z Callao!
+        chords: "Am G D"

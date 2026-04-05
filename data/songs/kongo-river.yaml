@@ -9,99 +9,110 @@ verses:
     label: Zwrotka 1
     lines:
       - text: Czy byłeś kiedyś tam nad Kongo River?
-        chords: "D G Em"
-      - text: "- Razem, hoo!"
         chords: "D G"
-      - text: Tam febra niezle zbiera żniwo.
-        chords: "D A D"
+      - text: "- Razem, hoo!"
+        chords: "Em D G"
+      - text: Tam febra niezłe zbiera żniwo.
+        chords: "D A D G"
       - text: "- Razem weźmy go, hoo!"
-        chords: "G D A D"
+        chords: "D A D"
 
   - type: chorus
     label: Refren
     lines:
       - text: Brać się chłopcy, brać, a żywo!
-        chords: "D G Em"
-      - text: "- Razem, hoo!"
         chords: "D G"
+      - text: "- Razem, hoo!"
+        chords: "Em D G"
       - text: Cholerne brzegi Kongo River!
-        chords: "D A D"
+        chords: "D A D G"
       - text: "- Razem weźmy go, hoo!"
-        chords: "G D A D"
+        chords: "D A D"
 
   - type: verse
     label: Zwrotka 2
     lines:
       - text: Jankeski okręt w rzekę wpłynął,
-        chords: "D G Em D G D A D G D A D"
+        chords: "D G"
       - text: Tam błyszczą reje barwą żywą.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 3
     lines:
       - text: Skąd wiesz, że okręt to jankeski?
-        chords: "D G Em D G D A D G D A D"
+        chords: "D G"
       - text: Zbroczone krwią pokładu deski.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 4
     lines:
       - text: Ach, Kongo River, a potem Chiny,
-        chords: "D G Em D G D A D G D A D"
+        chords: "D G"
       - text: W kabinach same sukinsyny.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 5
     lines:
       - text: Ach, powiedz, kto tam jest kapitanem?
-        chords: "D G Em D G D A D G D A D"
+        chords: "D G"
       - text: John Mokra Śliwa - stary palant.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 6
     lines:
       - text: A kto tam jest pierwszym oficerem?
-        chords: "D G Em D G D A D G D A D"
+        chords: "D G"
       - text: Sam Tander Jim, cwana cholera.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 7
     lines:
       - text: A kogo tam mają za drugiego?
-        chords: "D G Em D G D A D G D A D"
-      - text: Sarape - Johna Piekielnego.
+        chords: "D G"
+      - text: Sarapę - Johna Piekielnego.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 8
     lines:
-      - text: A bosman - czarnuch zaplesniały,
-        chords: "D G Em D G D A D G D A D"
+      - text: A bosman - czarnuch zapleśniały,
+        chords: "D G"
       - text: Jack z Frisco liże mu sandały.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 9
     lines:
-      - text: Kuk lubi z chłopcem pobaraszkowac
-        chords: "D G Em D G D A D G D A D"
+      - text: Kuk lubi z chłopcem pobaraszkować
+        chords: "D G"
       - text: I nie ma czasu by gotować.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 10
     lines:
       - text: Jak myślisz, co mają na śniadanie?
-        chords: "D G Em D G D A D G D A D"
+        chords: "D G"
       - text: Tę wodę, co miał kuk w kolanie.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 11
     lines:
       - text: Jak myślisz, co na obiad zjedzą?
-        chords: "D G Em D G D A D G D A D"
-      - text: Z handszpaka stek polany zeza.
+        chords: "D G"
+      - text: Z handszpaka stek polany zęzą.
+        chords: "D A D G"
 
   - type: verse
     label: Zwrotka 12
     lines:
       - text: Nie zgadniesz, jaki tam jest ładunek -
-        chords: "D G Em D G D A D G D A D"
+        chords: "D G"
       - text: Z plugawych tawern sto dziewczynek.
+        chords: "D A D G"

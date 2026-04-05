@@ -13,9 +13,12 @@ verses:
       - text: Wdzięczny Ci jestem bardzo,
         chords: "C G C"
       - text: Toś Ty mnie wychowało,
-        chords: "Dm G C D"
-      - text: Toś Ty mnie wychowało, Szkoły mi dało twardą.
+        chords: "Dm G"
+      - text: Toś Ty mnie wychowało,
+        chords: "C Dm"
+      - text: Szkoły mi dało twardą.
         chords: "Am E Am"
+    bis: x2 (wersy 3-5)
 
   - type: verse
     label: Zwrotka 2
@@ -25,9 +28,12 @@ verses:
       - text: Uczyło łodzią pływać,
         chords: "C G C"
       - text: Żagle pięknie cerować,
-        chords: "Dm G C D"
-      - text: Żagle pięknie cerować, Codziennie pokład zmywać.
+        chords: "Dm G"
+      - text: Żagle pięknie cerować,
+        chords: "C Dm"
+      - text: Codziennie pokład zmywać.
         chords: "Am E Am"
+    bis: x2 (wersy 3-5)
 
   - type: verse
     label: Zwrotka 3
@@ -37,9 +43,12 @@ verses:
       - text: Od soli i od kurzy,
         chords: "C G C"
       - text: Mosiądze wyglansować,
-        chords: "Dm G C D"
-      - text: Mosiądze wyglansować, W ciszy, czy w czasie burzy.
+        chords: "Dm G"
+      - text: Mosiądze wyglansować,
+        chords: "C Dm"
+      - text: W ciszy, czy w czasie burzy.
         chords: "Am E Am"
+    bis: x2 (wersy 3-5)
 
   - type: verse
     label: Zwrotka 4
@@ -49,9 +58,12 @@ verses:
       - text: Trzeba przy pracy śpiewać,
         chords: "C G C"
       - text: Bo kiedy śpiewu nie ma,
-        chords: "Dm G C D"
-      - text: Bo kiedy śpiewu nie ma, Neptun się będzie gniewać.
+        chords: "Dm G"
+      - text: Bo kiedy śpiewu nie ma,
+        chords: "C Dm"
+      - text: Neptun się będzie gniewać.
         chords: "Am E Am"
+    bis: x2 (wersy 3-5)
 
   - type: verse
     label: Zwrotka 5
@@ -61,18 +73,24 @@ verses:
       - text: I klątwę brzydką rzuci,
         chords: "C G C"
       - text: Wpakuje na mieliznę,
-        chords: "Dm G C D"
-      - text: Wpakuje na mieliznę, Albo nam łódź wywróci.
+        chords: "Dm G"
+      - text: Wpakuje na mieliznę,
+        chords: "C Dm"
+      - text: Albo nam łódź wywróci.
         chords: "Am E Am"
+    bis: x2 (wersy 3-5)
 
   - type: verse
     label: Zwrotka 6
     lines:
       - text: Albo nam łódź wywróci
         chords: "Am E Am"
-      - text: I krzyknie - "Hej partacze!
+      - text: 'I krzyknie - "Hej partacze!'
         chords: "C G C"
       - text: Nakarmię wami rybki,
-        chords: "Dm G C D"
-      - text: Nakarmię wami rybki, Nikt po was nie zapłacze!"
+        chords: "Dm G"
+      - text: Nakarmię wami rybki,
+        chords: "C Dm"
+      - text: Nikt po was nie zapłacze!"
         chords: "Am E Am"
+    bis: x2 (wersy 3-5)

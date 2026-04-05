@@ -1,0 +1,74 @@
+id: nieczule-morze
+title: Nieczułe Morze
+category: sailors
+key: Bm
+tags: [szanta, morze, nostalgia]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Tysiące strof piękno Twe już zna
+        chords: "Bm A7 D D"
+      - text: I nie ma gamy Twoich barw,
+        chords: "Bm Bm D D"
+      - text: A Ty wciąż dumne i zachłanne tak,
+        chords: "G D A G"
+      - text: Urodą swoją stale mamisz nas
+        chords: "G D A G"
+      - text: I znów w chłopięcych jesteś snach...
+        chords: "Bm A"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Czy w martwej ciszy, czy w sztormie, ja to wiem
+        chords: "Bm D E G"
+      - text: Nieczułe jesteś morze me.
+        chords: "Bm A"
+      - text: Czy błogosławić, czy przeklinać mam ten dzień,
+        chords: "Bm D E G"
+      - text: W którym w niewolę wzięłoś mnie?
+        chords: "Bm A7 G A"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Z chłopięcych marzeń co zostaje, gdy
+        chords: "Bm A7 D D"
+      - text: Już Twą prawdziwą zna się twarz?
+        chords: "Bm Bm D D"
+      - text: Oraczem Twoim dzisiaj jestem i
+        chords: "G D A G"
+      - text: Ech, jakże ciężko wiernie służyć Ci,
+        chords: "G D A G"
+      - text: Lecz chyba sól we krwi już mam...
+        chords: "Bm A"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Codzienność z Tobą dziś tak szara jest,
+        chords: "Bm A7 D D"
+      - text: Odarta z wielkich, pięknych słów.
+        chords: "Bm Bm D D"
+      - text: W dusznych kabinach wolno płyną dni,
+        chords: "G D A G"
+      - text: W jazgocie maszyn ciężkie ma się sny,
+        chords: "G D A G"
+      - text: Smak samotności także znam...
+        chords: "Bm A"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Swą smugę cienia już za sobą mam,
+        chords: "Bm A7 D D"
+      - text: Poznałem Twe zasady gry.
+        chords: "Bm Bm D D"
+      - text: I nie mam żalu, cóż, wybrałem sam,
+        chords: "G D A G"
+      - text: 'Choć czasem jeszcze muszę przyznać się:'
+        chords: "G D A G"
+      - text: Świat wielkich żagli mi się śni...
+        chords: "Bm A"

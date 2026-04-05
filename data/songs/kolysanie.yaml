@@ -1,0 +1,74 @@
+id: kolysanie
+title: Kołysanie
+category: sailors
+key: Am
+tags: [szanta, morze, samotnosc]
+
+verses:
+  - type: verse
+    label: Intro
+    lines:
+      - text: Kołysanie, kołysanie,
+        chords: "C E7 Am A7"
+      - text: Żagle, jak nerwy napięte, pchają mnie pod prąd.
+        chords: "Dm G C E7"
+      - text: Dałeś mi dobry Panie Oceanie
+        chords: "C E7 Am A7"
+      - text: Podszyty wiatrem los.
+        chords: "Dm G C E7"
+      - text: Kołysanie, kołysanie,
+        chords: "C E7 Am A7"
+      - text: Jak "Latający Holender" wsiąkam w noc.
+        chords: "Dm G C E7"
+      - text: Dałeś mi dobry Panie Oceanie
+        chords: "C E7 Am A7"
+      - text: Podszyty wiatrem los.
+        chords: "Dm G C E7"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Wystygł już kubek kawy,
+        chords: "C E7 Am A7"
+      - text: Co miał mi ręce grzać.
+        chords: "Dm G C E7"
+      - text: Papieros zgasł w rękawie przemoczonym,
+        chords: "C E7 Am A7"
+      - text: W zegarach zbutwiał czas.
+        chords: "Dm G C C7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: A w butach mi chlupie Atlantyk,
+        chords: "F G"
+      - text: Rdzewieję na wskroś.
+        chords: "C A7"
+      - text: Hej, Panie Reumatyzm,
+        chords: "F G"
+      - text: Gapisz się jak sroka w kość.
+        chords: "C A7"
+      - text: Widnokrąg w lusterku sekstantu
+        chords: "F G"
+      - text: Tak, jak koślawy płot.
+        chords: "C A7"
+      - text: Mego domu w ogrodzie sztormów,
+        chords: "F G"
+      - text: Domu wciąż kołyszących się podłóg,
+        chords: "F G"
+      - text: Domu, którego adres
+        chords: "F G"
+      - text: W morze wsiąkł.
+        chords: "C E7"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Karleją wielkie sprawy
+        chords: "C E7 Am A7"
+      - text: Po drugiej stronie wiatru, z dala stąd.
+        chords: "Dm G C E7"
+      - text: Czasem się zachce baby, no to wtedy
+        chords: "C E7 Am A7"
+      - text: Znowu się przyśni ląd.
+        chords: "Dm G C E7"

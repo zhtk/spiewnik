@@ -1,0 +1,63 @@
+id: piosenka-dla-mojej-dziewczyny
+title: Piosenka dla mojej dziewczyny
+category: sailors
+key: Em
+tags: [szanta, morze, milosc]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Szesnaście lat miałem, gdy na żagle
+        chords: "Em"
+      - text: Pierwszy raz w świat przyjaciel mnie zabrał -
+        chords: "Am"
+      - text: Wdzięczny jestem mu za to do dziś.
+        chords: "Bm A Bm"
+      - text: Morze jest mym życiem i żywiołem
+      - text: Do końca dni. Teraz, gdy zacząłem,
+        chords: "Em"
+      - text: Przyjaźń z nim - z tego już nie da się wyjść.
+        chords: "Am"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Morze i wiatr, na dobre i na złe,
+      - text: Przez wiele lat szukałem, znalazłem.
+        chords: "Am"
+      - text: Miła, błagam, nie zrozum mnie źle.
+        chords: "Em"
+      - text: Kocham Cię tak, jak swoje przestworza
+      - text: Pokochał wiatr, a jednak, o Morzu,
+        chords: "Am"
+      - text: Nie wiem, czy miłość to też, czy zew?
+        chords: "Em"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Miesiące dwa na morzu bez Ciebie
+      - text: To deszcz i mgła, to słońce na niebie.
+        chords: "Em"
+      - text: Zdjęcie Twe nad głową w koi swej mam.
+        chords: "Am"
+      - text: Na grzbietach fal poznaję świat nowy,
+      - text: Krążę wśród skał czujny, gotowy,
+        chords: "Em"
+      - text: Lecz sercem uparcie wędruję tam, tam, gdzie Ty.
+        chords: "Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Miesięcy sześć we dwoje znów w domu,
+      - text: Mówisz, że mnie nie oddasz nikomu,
+        chords: "Em"
+      - text: Więcej nic nie zabierze Ci mnie.
+        chords: "Am"
+      - text: Dajesz mi to, co ważne jest w życiu,
+      - text: Lecz serce me cichutko i skrycie
+        chords: "Em"
+      - text: W morze jachtem żegluje co dzień, choć we śnie.
+        chords: "Am"

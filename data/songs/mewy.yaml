@@ -1,0 +1,43 @@
+id: mewy
+title: Mewy
+category: sailors
+key: Em
+tags: [szanta, morze, natura]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Mewy, białe mewy, wiatrem rzeźbione z pian,
+        chords: "Em C D Em"
+      - text: Skrzydlate, białe muzy okrętów odchodzących w dal.
+        chords: "C D Em"
+      - text: Kto wam szybować każe za horyzontu kres,
+        chords: "Em C D Em"
+      - text: W bezmierne oceany, przez sztormów święty gniew?
+        chords: "Em C B7 Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Żeglarzom wracającym z morza
+        chords: "C B7 Em"
+      - text: Na pamięć przywodzicie dom,
+        chords: "C B7 Em"
+      - text: Rozbitkom wasze skrzydła niosą
+        chords: "C D7 Em"
+      - text: Nadzieję na zbawienny ląd.
+        chords: "C B7 Em"
+    bis: bis
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Ptaki zapamiętane jeszcze z dziecięcych lat,
+        chords: "Em C D Em"
+      - text: Drapieżnie spadające ze skał na szary Skagerrak.
+        chords: "C D Em"
+      - text: Wiatr czesał w grzywy morze, po falach skacząc lekko biegł.
+        chords: "Em C D Em"
+      - text: Pamiętam tamte mewy, przestworzy słonych zew.
+        chords: "Em C B7 Em"

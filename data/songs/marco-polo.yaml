@@ -11,19 +11,19 @@ verses:
       - text: Nasz "Marco Polo" to dzielny ship,
         chords: "Em G D Em"
       - text: Największe fale brał.
-        chords: "Em G C"
+        chords: "Em G"
       - text: W Australii będąc widziałem go,
-        chords: "Em G D Em"
+        chords: "C Em G D"
       - text: Gdy w porcie przy kei stał.
-        chords: "Em G D Em"
+        chords: "Em D Em"
       - text: I urzekł mnie tak urodą swą,
-        chords: "Em G C"
-      - text: Że zaciągnąłem się
         chords: "Em G D Em"
+      - text: Że zaciągnąłem się
+        chords: "Em G"
       - text: I powiał wiatr, w dali zniknął ląd,
-        chords: "Em D"
+        chords: "C Em G D"
       - text: Mój dom i Australii brzeg.
-        chords: "Em"
+        chords: "Em D Em"
 
   - type: chorus
     label: Refren
@@ -43,19 +43,19 @@ verses:
       - text: Na jednej z wysp za korali sznur
         chords: "Em G D Em"
       - text: Tubylec złoto dał
-        chords: "Em G C"
+        chords: "Em G"
       - text: I poszli wszyscy w ten dziki kraj,
-        chords: "Em G D Em"
+        chords: "C Em G D"
       - text: Bo złoto mieć każdy chciał.
-        chords: "Em G D Em"
+        chords: "Em D Em"
       - text: I wielkie szczęście spotkało tych,
-        chords: "Em G C"
-      - text: Co wyszli na ten brzeg,
         chords: "Em G D Em"
+      - text: Co wyszli na ten brzeg,
+        chords: "Em G"
       - text: Bo pełne złota ładownie są
-        chords: "Em D"
+        chords: "C Em G D"
       - text: I każdy bogaczem jest.
-        chords: "Em"
+        chords: "Em D Em"
 
   - type: verse
     label: Zwrotka 3
@@ -63,16 +63,16 @@ verses:
       - text: W powrotnej drodze tak szalał sztorm,
         chords: "Em G D Em"
       - text: Że drzazgi poszły z rej,
-        chords: "Em G C"
+        chords: "Em G"
       - text: A statek wciąż burtą wodę brał,
-        chords: "Em G D Em"
+        chords: "C Em G D"
       - text: Do dna było coraz mniej.
-        chords: "Em G D Em"
+        chords: "Em D Em"
       - text: Ładunek cały trza było nam
-        chords: "Em G C"
-      - text: Do morza wrzucić tu,
         chords: "Em G D Em"
+      - text: Do morza wrzucić tu,
+        chords: "Em G"
       - text: Do lądu dojść i biedakiem być,
-        chords: "Em D"
+        chords: "C Em G D"
       - text: Ratować choć żywot swój.
-        chords: "Em"
+        chords: "Em D Em"

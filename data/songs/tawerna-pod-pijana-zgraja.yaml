@@ -1,0 +1,66 @@
+id: tawerna-pod-pijana-zgraja
+title: Tawerna pod Pijaną Zgrają
+category: sailors
+key: C
+tags: [szanta, tawerna, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Kiedy niebo do morza przytula się z płaczem,
+        chords: "C E7 Am F"
+      - text: Liche sosny garbate do reszty wykrzywia,
+        chords: "C Gm Dm G7"
+      - text: Brzegiem nocy wędrują bezdomni tułacze
+        chords: "C E7 Am F"
+      - text: I nikt nie wie, skąd idą, jaki wiatr ich przywiał.
+        chords: "C F G7 C Am"
+      - text: Do tawerny "Pod Pijaną Zgrają",
+        chords: "F G C Am"
+      - text: Do tańczących, rozhukanych ścian
+        chords: "F G C Am"
+      - text: I do dziewczyn, które serca za złamany grosz oddają
+        chords: "F G C Am"
+      - text: Nie pytając, czyś Ty kiep, czy drań.
+        chords: "F G C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Kiedy wiatry noc chmurną przegonią za wodę,
+        chords: "C E7 Am F"
+      - text: Gdy pół-słońce pół nieba, pół morza rozpali,
+        chords: "C Gm Dm G7"
+      - text: Opuszczają wędrowcy uśpioną gospodę,
+        chords: "C E7 Am F"
+      - text: Z pierwszą bryzą znikają w pomarszczonej dali.
+        chords: "C F G7 C Am"
+      - text: A w tawernie "Pod Pijaną Zgrają"
+        chords: "F G C Am"
+      - text: Spływa smutek z okopconych ścian,
+        chords: "F G C Am"
+      - text: A dziewczyny z półgrosików amulety układają
+        chords: "F G C Am"
+      - text: Na kochanie, na tęsknotę i na żal.
+        chords: "F G C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Kiedy chandra jesienna jak mgła Cię otoczy,
+        chords: "C E7 Am F"
+      - text: Kiedy wszystko postawisz na kartę przegraną,
+        chords: "C Gm Dm G7"
+      - text: Zamiast siedzieć bezczynnie i płakać, lub psioczyć
+        chords: "C E7 Am F"
+      - text: Weź węzełek na plecy, ruszaj w świat, w nieznane.
+        chords: "C F G7 C Am"
+      - text: Do tawerny "Pod Pijaną Zgrają",
+        chords: "F G C Am"
+      - text: Do tańczących, rozhukanych ścian
+        chords: "F G C Am"
+      - text: I do dziewczyn, które serca za złamany grosz oddają
+        chords: "F G C Am"
+      - text: Nie pytając czyś Ty kiep, czy drań.
+        chords: "F G C"

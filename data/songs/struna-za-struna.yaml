@@ -1,0 +1,115 @@
+id: struna-za-struna
+title: Struna za struną
+category: sailors
+key: Bm
+tags: [szanta, humor, gitara]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Nie kazała mi przysięgać
+        chords: "B7 Em"
+      - text: Na kolanach, że nie zdradzę,
+        chords: "Bm"
+      - text: Dotąd zawsze tego chciała, teraz nie.
+        chords: "A A7 D B7"
+      - text: Tylko tajemniczym szeptem
+        chords: "Em"
+      - text: Rozkazała coś gitarze
+        chords: "Bm"
+      - text: 'I odchodząc rzekła: "...No to - trzymaj się."'
+        chords: "C#7 F#7 Bm F#7 Bm"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Struna za struną wciąż się rwie,
+        chords: "F#7 Bm"
+      - text: 'Już pękła "H", a wcześniej "E".'
+        chords: "F#7 Bm B7"
+      - text: Pewnie klasyczna wada fabryczna,
+        chords: "Em Bm"
+      - text: Albo korozja mi je żre.
+        chords: "C#7 F#7 Bm F#7 Bm"
+    bis: x2
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Minął tydzień i już porcik,
+        chords: "B7 Em"
+      - text: Bar i piwo słodko niańczy,
+        chords: "Bm"
+      - text: Ech, Hiszpance jakiejś dałem porwać się.
+        chords: "A A7 D B7"
+      - text: A wieczorem przy kolacji,
+        chords: "Em"
+      - text: Chłopcy śpiewać chcą, potańczyć,
+        chords: "Bm"
+      - text: 'Ja gitarę biorę, patrzę - pękła struna "G".'
+        chords: "C#7 F#7 Bm F#7 Bm"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A w Lizbonie prosi Zdzichu,
+        chords: "B7 Em"
+      - text: Że turystkę spotkał - Szwedkę,
+        chords: "Bm"
+      - text: Ale ta ze sobą koleżankę ma.
+        chords: "A A7 D B7"
+      - text: Trudno - idę - przecież w biedzie,
+        chords: "Em"
+      - text: Żeglarz kumpla nie zawiedzie,
+        chords: "Bm"
+      - text: 'Gdy wróciłem pękła cicho struna "H".'
+        chords: "C#7 F#7 Bm F#7 Bm"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: No i wreszcie w Neapolu
+        chords: "B7 Em"
+      - text: Były tańce i dziewczyny,
+        chords: "Bm"
+      - text: Tam żeglarzy lubią, tam się o nas dba.
+        chords: "A A7 D B7"
+      - text: A gdy rano powróciłem,
+        chords: "Em"
+      - text: To nie mogłem dojść przyczyny,
+        chords: "Bm"
+      - text: 'Czemu pękły obie "E" i "D", i "A".'
+        chords: "C#7 F#7 Bm F#7 Bm"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Cały czas w powrotnej drodze
+        chords: "B7 Em"
+      - text: Zakładałem nowe struny,
+        chords: "Bm"
+      - text: Lecz pękały - jakże dziwny to przypadek.
+        chords: "A A7 D B7"
+      - text: A tak chciałem móc na powitanie,
+        chords: "Em"
+      - text: Zagrać i zaśpiewać mojej żonie
+        chords: "Bm"
+      - text: Ulubioną jej lambadę.
+        chords: "C#7 F#7 Bm F#7 Bm"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Staję w drzwiach, zaczynam śpiewać,
+        chords: "B7 Em"
+      - text: A to, co się później stało,
+        chords: "Bm"
+      - text: Było gorsze niźli sztorm, czy salmonella.
+        chords: "A A7 D B7"
+      - text: Teraz drapiąc się po gipsie,
+        chords: "Em"
+      - text: Dam wam radę taką małą,
+        chords: "Bm"
+      - text: Nie śpiewajcie nigdy żonom a cappella.
+        chords: "C#7 F#7 Bm F#7 Bm"

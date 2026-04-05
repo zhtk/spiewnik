@@ -1,0 +1,68 @@
+id: pije-za-rejs
+title: Pije za rejs
+category: sailors
+key: Am
+tags: [szanta, morze, zeglowanie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Parę godzin pozostało -
+        chords: "Am F"
+      - text: Rankiem port pożegna mnie.
+        chords: "G C"
+      - text: Piję więc za mój pierwszy w życiu rejs.
+        chords: "Dm E7 Am"
+      - text: Keja pełna będzie płaczu,
+        chords: "Am F"
+      - text: Pięknych panien, wiernych żon.
+        chords: "G C"
+      - text: Piję więc za mój pierwszy w życiu rejs.
+        chords: "Dm E7 Am"
+      - text: Myśli już powrotu czekać chcą,
+        chords: "F G"
+      - text: Z morskich przygód, morskich wód,
+        chords: "C Dm"
+      - text: A tu czas cholera płynąć na miesięcy długie dni.
+        chords: "F E7"
+    bis: x2 (wersy 1-2)
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Na nieznane wody gdzieś,
+        chords: "Dm G"
+      - text: Gdzie wieje wiatr, żaglowców brat,
+        chords: "C F"
+      - text: Gdzie legendy wilków morskich prowadzą nas.
+        chords: "Dm E7 Am A7"
+      - text: Gdzie dni długie jak miesiące,
+        chords: "Dm G"
+      - text: Szklanę rumu barman daj,
+        chords: "C F"
+      - text: Piję dziś za mój pierwszy w życiu rejs.
+        chords: "Dm E7 Am"
+    bis: refren x2
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Czasem sztorm wysoką falą,
+        chords: "Am F"
+      - text: Pokład zmyje, grozy błyśnie czar.
+        chords: "G C"
+      - text: Piję więc za mój pierwszy w życiu rejs.
+        chords: "Dm E7 Am"
+      - text: Woda wściekle burty bije,
+        chords: "Am F"
+      - text: Los jest jeden tylko nam,
+        chords: "G C"
+      - text: Piję więc za mój pierwszy w życiu rejs.
+        chords: "Dm E7 Am"
+      - text: Ster na północ, za horyzont,
+        chords: "F G"
+      - text: Pierwszy port przywita mnie,
+        chords: "C Dm"
+      - text: Parę dni na lądzie no i znowu w morze ruszę hen.
+        chords: "F E7"

@@ -1,0 +1,60 @@
+id: po-wodzie-piano
+title: Po wodzie pianą
+category: sailors
+key: Dm
+tags: [szanta, morze, poetyckie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdzieś zawieruszył się widnokrąg
+        chords: "Dm Dm7 Bb7 A7"
+      - text: I nie ma gwiazd, i nie ma słońc,
+        chords: "Dm Dm7 Bb7 A7"
+      - text: I tylko w oczach plamy ostre jak korkociąg zagęszczają mrok.
+        chords: "Dm A Dm G"
+      - text: A gdyby mnie spytano, po co tak bardzo wzrok wytężać w noc -
+        chords: "Dm Dm7 Bb7 A7"
+      - text: Odpowiem, że to nie ma nic wspólnego z nocą.
+        chords: "Dm Dm7 Bb7 A7"
+      - text: Noc ma na imię los.
+        chords: "Dm A Dm G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Gdybym naprawdę szczerze Ciebie klął.
+        chords: "C A7 Bb A7 Dm"
+      - text: Życie pisane na wodzie pianą,
+        chords: "C A7 Bb A7 Dm"
+      - text: Pół życia, pół zguby.
+        chords: "Gm A7 Dm G"
+      - text: Życie pisane na wodzie pianą,
+        chords: "Gm A7 Dm"
+      - text: Życie jak wielki sztorm.
+        chords: "Gm A7 Dm G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Ja płynę a sternikiem okręt,
+        chords: "Dm Dm7 Bb7 A7"
+      - text: Ze sztormu w sztorm, ze sztormu w sztorm.
+        chords: "Dm Dm7 Bb7 A7"
+      - text: Gdy słońce się rozpali jak miedziany ołtarz,
+        chords: "Dm A Dm G"
+      - text: Oświetli drugie dno.
+        chords: "Gm A7 Dm"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Ocean kipi białym wierszem,
+        chords: "Dm Dm7 Bb7 A7"
+      - text: A w jego rytm bieleje skroń.
+        chords: "Dm Dm7 Bb7 A7"
+      - text: Pod mokrym swetrem rdzą zachodzi nawet serce
+        chords: "Dm A Dm G"
+      - text: I tak za rokiem rok.
+        chords: "Gm A7 Dm"

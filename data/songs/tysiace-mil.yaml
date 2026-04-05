@@ -1,0 +1,79 @@
+id: tysiace-mil
+title: Tysiące Mil
+category: sailors
+key: Em
+tags: [szanta, morze, tęsknota]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Irlandii brzeg porzucić przyszło dziś,
+        chords: "Em D Em"
+      - text: "- Porzucić przyszło dziś,"
+        chords: "G A Em"
+      - text: Przez dzikie sztormy, przez oceany iść,
+        chords: "Em D Em"
+      - text: "- Przez oceany iść,"
+        chords: "G A Em"
+      - text: Nieznane skarby zdobywać przyjdzie nam,
+        chords: "Em D Em"
+      - text: "- Zdobywać przyjdzie nam,"
+        chords: "G A Em"
+      - text: Bogactwo, sława, czekają na nas tam,
+        chords: "Em D Em"
+      - text: "- Czekają na nas tam."
+        chords: "G A Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Tysiące mil za sobą mam,
+        chords: "D Em"
+      - text: I oceany dwa dziś między nami.
+        chords: "D Em"
+      - text: Nie minie rok - ucichnie łoskot dział,
+        chords: "G A B7 Em"
+      - text: Nadejdzie czas, znów się spotkamy.
+        chords: "D Em"
+    bis: refren x2
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Pod czarną flagą pływałem wiele lat,
+        chords: "Em D Em"
+      - text: "- Pływałem wiele lat,"
+        chords: "G A Em"
+      - text: Straszliwie imię poznał cały świat,
+        chords: "Em D Em"
+      - text: "- Poznał cały świat,"
+        chords: "G A Em"
+      - text: Jak zdołam ręką mokrą tak od krwi,
+        chords: "Em D Em"
+      - text: "- Mokrą tak od krwi,"
+        chords: "G A Em"
+      - text: Otworzyć kiedyś złote nieba drzwi,
+        chords: "Em D Em"
+      - text: "- Otworzyć nieba drzwi."
+        chords: "G A Em"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Kochana Irlandio, co dzień modlę się,
+        chords: "Em D Em"
+      - text: "- Co dzień modlę się,"
+        chords: "G A Em"
+      - text: By kiedyś znowu ujrzeć łąki twe,
+        chords: "Em D Em"
+      - text: "- Ujrzeć łąki twe,"
+        chords: "G A Em"
+      - text: Zmazać krzywdy, które czynię dziś,
+        chords: "Em D Em"
+      - text: "- Które czynię dziś,"
+        chords: "G A Em"
+      - text: Z sercem czystym do nieba prosto iść,
+        chords: "Em D Em"
+      - text: "- Do nieba prosto iść."
+        chords: "G A Em"

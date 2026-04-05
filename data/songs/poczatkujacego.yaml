@@ -1,0 +1,94 @@
+id: poczatkujacego
+title: Początkującego Żeglarza Pieśń Radosna
+category: sailors
+key: D
+tags: [szanta, morze, humor]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Pływanie to nie taka trudna sprawa,
+        chords: "D D"
+      - text: Pływanie to nie taka trudna rzecz,
+        chords: "D A"
+      - text: Bo jak wiatr z tyłu będzie w żagiel dmuchać,
+        chords: "Em A"
+      - text: To wtedy łódź do przodu musi przeć.
+        chords: "A D"
+      - text: Jak już się płynie tą łodzią do przodu,
+        chords: "D D"
+      - text: Nie można bać się ani jednej fali,
+        chords: "D7 G"
+      - text: Mocno się trzymać trzonka od steru,
+        chords: "Gm D"
+      - text: No i uważać, aby się nie wywalić.
+        chords: "E A A"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Kto mnie weźmie na łódkę,
+        chords: "D D"
+      - text: Kto mnie weźmie na rejs,
+        chords: "A A"
+      - text: Staż żeglarski mam krótki,
+        chords: "A A"
+      - text: Lecz wiem, co grane jest.
+        chords: "D D"
+      - text: Kto mnie weźmie na łódkę,
+        chords: "D"
+      - text: Kto mnie weźmie na wodę,
+        chords: "D7 G"
+      - text: Chociaż staż mój jest krótki,
+        chords: "Gm D"
+      - text: To ja chętnie pomogę.
+        chords: "A D D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Bluzka żeglarza musi być w paski,
+        chords: "D D"
+      - text: Trochę spłowiała ma to być bluzka,
+        chords: "D A"
+      - text: Spod niej wystają włosy na torsie,
+        chords: "Em A"
+      - text: Na szyi obowiązkowa chustka.
+        chords: "A D"
+      - text: Z takim wyglądem to można zaszaleć,
+        chords: "D D"
+      - text: W porcie, tawernie lub w barze szantować,
+        chords: "D7 G"
+      - text: A czasem los trochę mocniej przyfarci,
+        chords: "Gm D"
+      - text: Pozwoli laskę na noc zmontować.
+        chords: "E A A"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Zbajerowana do końca laska
+        chords: "D D"
+      - text: Powinna szybko się znaleźć w kokpicie,
+        chords: "D A"
+      - text: Poczęstowana niedrogim winkiem
+        chords: "Em A"
+      - text: Żeglarskiej braci zaprzeda swe życie.
+        chords: "A D"
+      - text: A wtedy z innych łódek żeglarze
+        chords: "D D"
+      - text: Z wielką zazdrością łódź tę wytykają,
+        chords: "D7 G"
+      - text: Że, mimo braku fali na wodzie,
+        chords: "Gm D"
+      - text: Maszty się w rytmie tej pieśni kiwają.
+        chords: "E A A"
+
+  - type: chorus
+    label: Refren końcowy
+    lines:
+      - text: Może pływać nie umiem,
+      - text: Ale śpiewam i gram,
+      - text: Komu się nie podoba,
+      - text: To jest świnia, prostak i cham.

@@ -1,0 +1,114 @@
+id: mazurscy-kolumbowie
+title: Mazurscy Kolumbowie
+category: sailors
+key: Am
+tags: [szanta, humor, mazury]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdzieś daleko Ameryka,
+        chords: "Am Em Am G"
+      - text: Z ortodromą loksodroma,
+        chords: "C Dm C G"
+      - text: Na odkrycie swoje czeka
+        chords: "Am Em F G"
+      - text: Gdzieś za morzem przyczajona.
+        chords: "C G Am"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: A my, hej! Pochwyćmy wiatru powiew,
+        chords: "C Dm"
+      - text: Niech nam zawsze sprzyja niebo.
+        chords: "C F C G"
+      - text: My, Mazurscy Kolumbowie,
+        chords: "Am G Am G"
+      - text: Odkrywamy Węgorzewo.
+        chords: "Am Em Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Na wyprawę swoich marzeń
+        chords: "Am Em Am G"
+      - text: Wyruszyli z ranną bryzą,
+        chords: "C Dm C G"
+      - text: Nieugięci wprost żeglarze,
+        chords: "Am Em F G"
+      - text: Z lękiem gnali za horyzont.
+        chords: "C G Am"
+
+  - type: chorus
+    label: Refren 2
+    lines:
+      - text: A my, hej! Pochwyćmy wiatru powiew,
+        chords: "C Dm"
+      - text: By w nieznane miejsca płynąć.
+        chords: "C F C G"
+      - text: My, Mazurscy Kolumbowie,
+        chords: "Am G Am G"
+      - text: Odkrywamy dzisiaj Sztynort.
+        chords: "Am Em Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Na wyprawie długiej przyszło
+        chords: "Am Em Am G"
+      - text: Znosić bunty i zwątpienia,
+        chords: "C Dm C G"
+      - text: Aż ktoś w końcu z masztu krzyknął
+        chords: "Am Em F G"
+      - text: 'To magiczne słowo: "Ziemia!"'
+        chords: "C G Am"
+
+  - type: chorus
+    label: Refren 3
+    lines:
+      - text: A my, hej! Pochwyćmy wiatru powiew,
+        chords: "C Dm"
+      - text: Obce lądy nie są blisko.
+        chords: "C F C G"
+      - text: My, Mazurscy Kolumbowie,
+        chords: "Am G Am G"
+      - text: Odkrywamy dziś Giżycko.
+        chords: "Am Em Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Powrócili cali w glorii,
+        chords: "Am Em Am G"
+      - text: Wieszcze mieli o czym pisać,
+        chords: "C Dm C G"
+      - text: No i przeszli do historii,
+        chords: "Am Em F G"
+      - text: Bo przywieźli syfilisa.
+        chords: "C G Am"
+
+  - type: chorus
+    label: Refren 4
+    lines:
+      - text: A my, hej! Pochwyćmy wiatru powiew,
+        chords: "C Dm"
+      - text: Fale, sztormy to nie bajki.
+        chords: "C F C G"
+      - text: My, Mazurscy Kolumbowie,
+        chords: "Am G Am G"
+      - text: Odkrywamy Mikołajki.
+        chords: "Am Em Am"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Za Kolumbem morskie mile,
+        chords: "C Dm"
+      - text: Za nim rejs co wart był życia,
+        chords: "C F G"
+      - text: A my mamy jeszcze tyle
+        chords: "Am G Am G"
+      - text: Jakichś Mazur do odkrycia, do odkrycia, do odkrycia...
+        chords: "Am G Am"

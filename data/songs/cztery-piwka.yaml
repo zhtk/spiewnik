@@ -65,6 +65,7 @@ verses:
       - text: I wtedy Flak, podnosząc głos,
         chords: "Gm"
       - text: 'Powiedział - "Cztery pik!"'
+        chords: "Gm"
       - text: I kiedy jeszcze cztery Króle
         chords: "Gm"
       - text: Pokazał mu jak trza,
@@ -72,6 +73,47 @@ verses:
       - text: 'To Fred, z renonsem - "Siedem pik" -'
         chords: "Gm"
       - text: 'Powiedział - "Niech gra Flak!"'
+        chords: "Gm"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: 'A ja mu - "Kontra", on mi - "Re",'
+        chords: "Gm"
+      - text: Ja czuję pełen luz,
+        chords: "Gm"
+      - text: Bo widzę w moich kartach, że
+        chords: "Gm"
+      - text: Jest atutowy tuz.
+        chords: "Gm"
+      - text: Więc strzelam! Kiedy karty Fred
+        chords: "Gm"
+      - text: Wyłożył mu na blat,
+        chords: "Gm"
+      - text: To każdy mógł zobaczyć, jak
+        chords: "Gm"
+      - text: Siwego Flaka trafia szlag.
+        chords: "Gm"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Już nie pamiętam, ile dni
+        chords: "Gm"
+      - text: W miesiące złożył czas,
+        chords: "Gm"
+      - text: Morszczuki dosyć dobrze szły
+        chords: "Gm"
+      - text: I grało się nie raz,
+        chords: "Gm"
+      - text: Lecz nigdy więcej Siwy Flak,
+        chords: "Gm"
+      - text: Klnę na jumprowe wszy,
+        chords: "Gm"
+      - text: Choćbyś go prosił tak, czy siak,
+        chords: "Gm"
+      - text: Nie zasiadł już do gry!
+        chords: "Gm"
 
   - type: chorus
     label: Refren (końcowy)

@@ -1,0 +1,84 @@
+id: piracki-okret
+title: Piracki Okręt (Pechowi Piraci)
+category: sailors
+key: D
+tags: [szanta, piraci, humor]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Cóż to za okręt nad okręty,
+        chords: "D D"
+      - text: Czerwony żagiel tam rozpięty.
+        chords: "D D"
+      - text: Załoga na nim podejrzana,
+        chords: "G E"
+      - text: Jakaś taka porąbana.
+        chords: "A7"
+      - text: Bosman ogromne to chłopisko,
+      - text: Kaprawym okiem śledzi wszystko.
+      - text: Gruby kapitan krzycząc basem
+      - text: Wymachuje kordelasem.
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: To piracki okręt płynie,
+      - text: Wiezie skarbów pełne skrzynie.
+      - text: Każdy zwiewa, gdzie się da,
+      - text: Śmieją się piraci - Ha, ha, ha!
+      - text: Pędzi okręt jak szalony,
+      - text: Trupią czachą naznaczony,
+      - text: Skrzyżowane kości dwie,
+      - text: Śmieją się piraci - He, he, he!
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Nazwa na rufie zamazana,
+      - text: Nowa siekierą wyrąbana,
+      - text: Dwa obrzydliwie sprośne słowa,
+      - text: Taka ta piracka mowa.
+      - text: Cały ten okręt przerobiony,
+      - text: Widać, że także ukradziony.
+      - text: Ogromny bukszpryt aż przeraża,
+      - text: Straszne świństwo wyobraża.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: W dali korona na banderze
+      - text: I chude jakieś tam żołnierze.
+      - text: Już zbóje ręce zacierają,
+      - text: Znowu skarbów nazbierają.
+      - text: Może się trafią szable krzywe,
+      - text: Perły jak jaja urodziwe,
+      - text: Może coś będzie do wypitki,
+      - text: A może trafią się kobitki.
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: I nastała bitwa krwawa,
+      - text: Wokół rwetes, gwar i wrzawa,
+      - text: Świszczą kule, błyszczą noże,
+      - text: Każdy chowa się gdzie może.
+      - text: Straszna jest piracka żądza
+      - text: Do cudzego wszak pieniądza.
+      - text: By napełnić swe skarbonki
+      - text: Łupią oczy, kroją członki,
+      - text: Że aż strach za gardło ściska
+      - text: I nie można patrzeć z bliska.
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Zawrzała walka i zwycięstwo,
+      - text: Znów okazali zbóje męstwo,
+      - text: Gdy policzyli wszystkie trupy,
+      - text: Zawołali - "Dawać łupy!"
+      - text: Blady kapitan pokonany,
+      - text: Co woził guano do Panamy,
+      - text: 'Rzecze im: "Bierzcie wszystko, trudno,'
+      - text: Mam w ładowniach ptasie gówno."

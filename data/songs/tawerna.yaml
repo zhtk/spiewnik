@@ -20,13 +20,14 @@ verses:
   - type: chorus
     label: Refren
     lines:
-      - text: I znów się w sztormach poniewiera,
+      - text: I znów się w sztormach poniewieram,
         chords: "A7 E7"
       - text: Tu mokro i piekielny ziąb,
         chords: "A7 E7"
       - text: I jasna, Bracie, trzaska mnie cholera,
-        chords: "A7 E7 B7"
+        chords: "A7 E7"
       - text: Bo niedaleko stąd...
+        chords: "B7"
 
   - type: verse
     label: Zwrotka 2
@@ -64,6 +65,18 @@ verses:
       - text: Na pewno sympatyczne jest.
         chords: "E7 D7 A7 E7"
 
+  - type: chorus
+    label: Refren (var. po zw. 4)
+    lines:
+      - text: A ja się w sztormach poniewieram,
+        chords: "A7 E7"
+      - text: Tu mokro i piekielny ziąb,
+        chords: "A7 E7"
+      - text: Lecz jednak przyszło mi do głowy teraz,
+        chords: "A7 E7"
+      - text: Że to wygrany los...
+        chords: "B7"
+
   - type: verse
     label: Zwrotka 5
     lines:
@@ -76,6 +89,18 @@ verses:
       - text: 'Już ułożyły chytry plan:'
         chords: "E7 D7 A7 E7"
 
+  - type: chorus
+    label: Refren (var. po zw. 5)
+    lines:
+      - text: Jak Cię człowieku sponiewierać,
+        chords: "A7 E7"
+      - text: Jak wtłoczyć pod żelazny but,
+        chords: "A7 E7"
+      - text: Jak Cię, cholera, zmienić w mokrą ścierę
+        chords: "A7 E7"
+      - text: Bez marzeń i bez snów.
+        chords: "B7"
+
   - type: verse
     label: Zwrotka 6
     lines:
@@ -87,3 +112,4 @@ verses:
         chords: "E7 D7 A7 E7"
       - text: Hej, ludzie, tak już chcę na ląd.
         chords: "E7 D7 A7 E7"
+    bis: x4 (ostatni wers)

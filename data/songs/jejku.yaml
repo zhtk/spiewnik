@@ -1,0 +1,88 @@
+id: jejku
+title: Jejku, Jejku
+category: sailors
+key: Am
+tags: [szanta, morze, humor]
+
+verses:
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Jejku, jejku, no mówię wam,
+        chords: "Am E Am Dm"
+      - text: Jaki rejs za sobą mam.
+        chords: "Am E Am"
+      - text: Stary, zardzewiały, śmierdzący wrak
+        chords: "Am E Am Dm"
+      - text: Na pół roku zastąpił mi świat.
+        chords: "Am E Am"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: W cuchnącej norze rzeczy rzuciłem wór,
+      - text: A tu myk mi spod nóg szczur.
+      - text: 'Kuk w mesie rzekł: "Oto obiad twój",'
+      - text: A na stole karakanów rój.
+      - text: Nawet jeden taki, co miał biały wąs,
+        chords: "C G7 C Dm"
+      - text: Tylko za mną chodził, chodził wciąż.
+        chords: "Am E Am Dm"
+      - text: Właził mi do piwa i w szufladzie spał,
+        chords: "Am E Am Dm"
+      - text: I tam z żoną dzieci miał.
+        chords: "Am E Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: W "piwnicy" rzężąc resztką sił,
+      - text: Zlany ropą silnik w zęzach gnił.
+      - text: Bił tam z grubej rury księżycowy zdrój,
+      - text: Nawet Chief mechanik podstawiał słój,
+      - text: 'Mówiąc: "Gdyby nawet pękł tu wał,'
+      - text: To ja dalej będę sobie gnał."
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Stary w porcie kupił kaset sto,
+      - text: Same gołe baby, chłopy, no i... wiecie co.
+      - text: Potem cichcem to puszczał i czerwony miał łeb,
+      - text: I wszyscy mówili, że Stary się wściekł.
+      - text: Nocą gonił bajkoka, by mu czyścił buty,
+      - text: Ale za to miał nasikane do zupy.
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Już po jakimś czasie, gdzieś po stu trzydziestu dniach,
+      - text: Na środku oceanu zaryliśmy w piach.
+      - text: Ściągała nas Yellow Submarine,
+      - text: A była to kubańska Zatoka Świń.
+      - text: I były tam manewry NATO, statków tłok,
+      - text: A nasz jednemu z nich łubudu w bok!
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: I była nota w ONZ,
+      - text: A Stary znów czerwony miał łeb.
+      - text: W zaniedbanej radiostacji stół zielony stał,
+      - text: Na nim radzik nic nie robił, tylko w karty grał.
+      - text: I nie myty, nie golony, no... nie lubił pić,
+      - text: Ogrywał nas wszystkich do gołej rzyci.
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: A kiedy nazbierał naszych dolców wór,
+      - text: W pewnym porcie zwiał jak szczur.
+      - text: Już w powrotnej drodze przyszła wielka mgła,
+      - text: A nasz Stary tym kaloszem "całą naprzód" gna.
+      - text: I kiedy wiatr tę mgłę zwiał,
+      - text: W Hamburgu przy kei nasz statek stał.
+      - text: To Stary uknuł ten chytry plan,
+      - text: Poleciał ćwiczyć na Repeerbahn.
+      - text: A ja, spokojny stary dzwon,
+      - text: Koleją wróciłem do rodzinnych stron.

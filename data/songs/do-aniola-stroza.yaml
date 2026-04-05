@@ -1,0 +1,102 @@
+id: do-aniola-stroza
+title: Do Anioła Stróża
+category: sailors
+key: C
+tags: [szanta, morze, humor]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Aniele - stróżu mój,
+        chords: "C B7 A7"
+      - text: Gdy wiatr mnie na morze wywieje,
+        chords: "Dm"
+      - text: Ty zawsze przy mnie stój.
+        chords: "G"
+      - text: I rano, i we dnie, i w noc,
+        chords: "C B7 A7"
+      - text: I zawsze, gdy piany ścianą,
+        chords: "Dm"
+      - text: Ocean splunie mi w nos.
+        chords: "G"
+      - text: Trochę będziesz się musiał namoczyć,
+        chords: "F"
+      - text: Trochę nałatać burt,
+        chords: "C A7"
+      - text: A wiem, nie masz nawet kaloszy
+        chords: "Dm"
+      - text: I tyle wypadło Ci piór.
+        chords: "G"
+      - text: Trochę pewnie zgrabieją Ci ręce,
+        chords: "F"
+      - text: Kiedy sztorm ześle Pan Bóg,
+        chords: "C A7"
+      - text: 'Powiesz - Stary, gdzie masz tą butelkę,'
+        chords: "Dm"
+      - text: No tę, w której trzymasz rum?
+        chords: "G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Aniele - dobrze wiesz,
+        chords: "C B7 A7"
+      - text: Dla Ciebie też kubek naleję,
+        chords: "Dm"
+      - text: A potem pójdziemy coś zjeść.
+        chords: "G"
+      - text: I tylko przeżyjmy ten sztorm,
+        chords: "C B7 A7"
+      - text: A potem na jakąś chwilkę
+        chords: "Dm"
+      - text: Zajdziemy na pobliski ląd.
+        chords: "G"
+      - text: Tam zdrowo się pewnie zaprószysz
+        chords: "F"
+      - text: I po butelkach paru
+        chords: "C A7"
+      - text: Dasz wychodne mej duszy
+        chords: "Dm"
+      - text: Z jakąś dziewczyną z baru.
+        chords: "G"
+      - text: Tylko zróbmy to całkiem spokojnie,
+        chords: "F"
+      - text: Bo po co ma wiedzieć Twój szef,
+        chords: "C A7"
+      - text: Że, owszem, bogobojnie,
+        chords: "Dm"
+      - text: A jednak musiałem Cię nieść.
+        chords: "G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Aniele - wspominaj mnie,
+        chords: "C B7 A7"
+      - text: Gdy Bóg mi już miękko pościele
+        chords: "Dm"
+      - text: Na kamienistym dnie.
+        chords: "G"
+      - text: Aniele - dobrze wiem,
+        chords: "C B7 A7"
+      - text: Że wpadniesz tu kiedyś w niedzielę,
+        chords: "Dm"
+      - text: Lub w jakiś inny dzień.
+        chords: "G"
+      - text: Napomknij tam komuś o mnie
+        chords: "F"
+      - text: Po znajomości starej
+        chords: "C A7"
+      - text: I weź dla nas obu wychodne
+        chords: "Dm"
+      - text: Do tamtej dziewczyny z baru.
+        chords: "G"
+      - text: Sam pewnie też się zaprószysz
+        chords: "F"
+      - text: I zaśniesz pod powałą,
+        chords: "C A7"
+      - text: A rano będzie nas suszyć
+        chords: "Dm"
+      - text: Zupełnie, jak dawniej bywało.
+        chords: "G"

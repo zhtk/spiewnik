@@ -38,8 +38,9 @@ verses:
         chords: "Am Em Am"
       - text: Wielorybów cielska groźne są,
         chords: "Am Em C G"
-      - text: Lecz dostaniemy je! Hej,
+      - text: Lecz dostaniemy je!
         chords: "Am Em Am"
+    bis: refren x2
 
   - type: verse
     label: Zwrotka 2

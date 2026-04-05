@@ -1,0 +1,55 @@
+id: toast
+title: Toast
+category: sailors
+key: G
+tags: [szanta, morze, picie]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Parszywy los nas rzucił na stary statek ten,
+        chords: "G D C D G"
+      - text: Gdy bosman nas ocucił, pochmurny wstawał dzień,
+        chords: "G D C D"
+      - text: Do zmroku trwała praca, nagrodą tylko kij,
+        chords: "G D C D G"
+      - text: Zapomnij o zmartwieniach, Bracie, razem z nami pij.
+        chords: "G D C D G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Wypij Ty, wypiję ja,
+        chords: "G D C D G"
+      - text: Nalej mi i w górę szkła.
+        chords: "G D C D"
+      - text: Za zwycięstwo w bitwach stu
+        chords: "G D C D G"
+      - text: Pijmy Bracia dzisiaj tu.
+        chords: "C D G"
+    bis: refren x2
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Trzy noce łajbą kiwa, suchary kończą się,
+        chords: "G D C D G"
+      - text: Załoga ledwie żywa, kapitan wścieka się,
+        chords: "G D C D"
+      - text: Uciekły wszystkie szczury, śmierć idzie - dobrze wiesz,
+        chords: "G D C D G"
+      - text: Zapomnij o zmartwieniach, Bracie, kufel w ręce bierz.
+        chords: "G D C D G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Nadejdzie taka chwila, gdy zginąć przyjdzie nam,
+        chords: "G D C D G"
+      - text: 'Ktoś powie: "Warto było, bez żalu głowę dam."'
+        chords: "G D C D"
+      - text: Lecz, nim hiszpańskie działa kulami pluną w nas,
+        chords: "G D C D G"
+      - text: Zapomnij o zmartwieniach, Bracie, wypij jeszcze raz.
+        chords: "G D C D G"

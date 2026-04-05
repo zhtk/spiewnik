@@ -1,0 +1,78 @@
+id: colombo
+title: Colombo
+category: sailors
+key: C
+tags: [szanta, humor, historia]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: W XV wieku, raz w Madrycie, ze starej gość Italii,
+        chords: "C C G"
+      - text: Zakładał w rynsztok pawie, do "mewek" aż się palił.
+        chords: "G F C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Że ziemia jest okrągła, jak jaja co mu wiszą,
+        chords: "C C G"
+      - text: On wiedział to, ten na baby pies, lubieżny Kolumb Krzysio.
+        chords: "C F G C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: 'Hiszpańskiej Izabeli rzekł, gdy spotkał ją po drodze:'
+        chords: "C C G"
+      - text: '"Daj statek i ładunek, a z Chicago Ci przywiozę."'
+        chords: "G F C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: '"Ach, nie tak szybko" - rzekła Iza - "żeglarzu narowisty,'
+        chords: "C C G"
+      - text: Niech sprawdzę w buduarze twe wierzytelne listy."
+        chords: "G F C"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Biednemu żeglarzowi odpocząć nie dawała,
+        chords: "C C G"
+      - text: Królowa co godzinę Kolumba glejt sprawdzała.
+        chords: "G F C"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: W czterdzieści dni i nocy Atlantyk przepłynęli,
+        chords: "C C G"
+      - text: I Kolumb, i załoga, i strasznie baby chcieli.
+        chords: "G F C"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Nasz Kolumb miał kolesia też tak jak on szubrawca,
+        chords: "C C G"
+      - text: Co kochał go jak brata, a dmuchał jak dmuchawca.
+        chords: "G F C"
+
+  - type: verse
+    label: Zwrotka 7
+    lines:
+      - text: Zoczyli pewną damę, co brzegiem przechodziła
+        chords: "C C G"
+      - text: I sto tysięcy dolców ich w godzinę zarobiła.
+        chords: "G F C"
+
+  - type: verse
+    label: Zwrotka 8
+    lines:
+      - text: Cudzołożyli, aż kurzyło i dzielnie się sprawiali,
+        chords: "C C G"
+      - text: I populacja wzrosła dziesięć razy, gdy wracali.
+        chords: "G F C"

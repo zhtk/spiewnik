@@ -1,0 +1,66 @@
+id: emeryt
+title: Emeryt
+category: sailors
+key: Dm
+tags: [szanta, morze, tęsknota]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Leżysz wtulony w pościel, coś cichutko mruczysz przez sen,
+        chords: "Dm Am"
+      - text: Łóżko szerokie, pościel czysta, za oknem prawie dzień.
+        chords: "F A7"
+      - text: A jeszcze niedawno koja, a w niej cuchnący rybą koc,
+        chords: "Dm Am"
+      - text: Fale bijące o pokład i bosmana zdarty głos.
+        chords: "F A7"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: To wszystko było - minęło, zostało tylko wspomnienie,
+        chords: "Dm C G Dm"
+      - text: Już nie poczuję wibracji pokładu, gdy kable grają.
+        chords: "Dm C G Dm"
+      - text: Już tylko dom i ogródek, i tak aż do śmierci,
+        chords: "Dm C G Dm"
+      - text: A przecież stare żaglowce po morzach jeszcze pływają.
+        chords: "Dm C G Dm"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Nie gniewaj się kochana, że trudno ze mną żyć,
+        chords: "Dm Am"
+      - text: Że nie kupiłem mleka, zapomniałem gary zmyć.
+        chords: "F A7"
+      - text: Bo jeszcze niedawno statek mym drugim domem był,
+        chords: "Dm Am"
+      - text: Tam nie stało się w kolejkach, tam nie było miejsca dla złych.
+        chords: "F A7"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Upłynie sporo czasu nim przyzwyczaję się,
+        chords: "Dm Am"
+      - text: Czterdzieści lat na morzu zamknięte w jeden dzień.
+        chords: "F A7"
+      - text: Skąd lekarz może wiedzieć, że za morzem tęskno mi,
+        chords: "Dm Am"
+      - text: Że duszę się na lądzie, że śni mi się pokład pełen ryb.
+        chords: "F A7"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Wiem, masz do mnie żal - mieliśmy do przyjaciół iść,
+        chords: "Dm Am"
+      - text: Spotkałem kumpla z rejsu, on w morze wyszedł dziś.
+        chords: "F A7"
+      - text: Siedziałem potem na kei, ze łzami patrzyłem na port,
+        chords: "Dm Am"
+      - text: I dla mnie też przyjdzie taki dzień, że opuszczę go, a na razie...
+        chords: "F A7"

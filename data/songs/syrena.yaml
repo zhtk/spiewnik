@@ -1,0 +1,80 @@
+id: syrena
+title: Syrena
+category: sailors
+key: G
+tags: [szanta, morze, humor]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdy w piątek rano żegnaliśmy ląd
+        chords: "G G C G"
+      - text: I nasz statek niósł nas w dal,
+        chords: "C D G G"
+      - text: Piękną syrenę przyniósł morski prąd,
+        chords: "G G C G"
+      - text: Pozdrawiała nas wśród fal.
+        chords: "C D G G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Choć się fala pieni wkrąg,
+        chords: "G C G G"
+      - text: Chociaż sztorm szaleje wciąż,
+        chords: "G7 D D7"
+      - text: To my żeglarze weselimy się
+        chords: "G G C G"
+      - text: A lądowym szczurom jest źle, jest źle, jest źle.
+        chords: "C D7 G G"
+      - text: A lądowym szczurom jest źle.
+        chords: "C D7 G G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Na widok taki nasz kapitan zbladł,
+        chords: "G G C G"
+      - text: Choć był z niego dzielny chłop,
+        chords: "C D G G"
+      - text: 'I rzekł: "Cholernie każdy z nas dziś wpadł,'
+        chords: "G G C G"
+      - text: Czeka na nas morskie dno."
+        chords: "C D G G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A stary bosman, silny niczym tur,
+        chords: "G G C G"
+      - text: 'Trząsł się jak osiki liść:'
+        chords: "C D G G"
+      - text: '"Nie ujrzę już więcej żadnej z moich cór,'
+        chords: "G G C G"
+      - text: Na dno przyjdzie nam dziś iść."
+        chords: "C D G G"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: A mały mess-boy bliski płaczu był,
+        chords: "G G C G"
+      - text: 'Mówiąc: "Będzie z nami źle.'
+        chords: "C D G G"
+      - text: Ojciec i matka z całych swoich sił
+        chords: "G G C G"
+      - text: 'Opłakiwać będą mnie."'
+        chords: "C D G G"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Nim noc nadeszła, dumny statek nasz
+        chords: "G G C G"
+      - text: Neptun wziął w królestwo swe.
+        chords: "C D G G"
+      - text: 'Pamiętaj o tym: gdy rejs rozpocząć masz,'
+        chords: "G G C G"
+      - text: W piątek nie wybieraj się.
+        chords: "C D G G"

@@ -1,0 +1,98 @@
+id: a-few-days
+title: A Few Days
+category: sailors
+key: Am
+tags: [szanta, morze, tęsknota]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: O Panie, czemu w ziemi tkwię,
+        chords: "C G C"
+      - text: Hej raz, hej raz,
+        chords: "C F"
+      - text: I macham szuflą cały dzień?
+        chords: "C G C"
+      - text: Hej, na morze czas.
+        chords: "Am E7 Am"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Mogę kopać tu dalej,
+        chords: "Am E7 Am"
+      - text: Few days, few days,
+        chords: "Am F"
+      - text: Mogę kopać przez dni parę,
+        chords: "C E7 Am"
+      - text: Ale wracać chcę.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Tam każdy takie bajdy plótł,
+        chords: "C G C"
+      - text: Nie raz, nie raz,
+        chords: "C F"
+      - text: Przekroczysz Jukon, złota w bród,
+        chords: "C G C"
+      - text: Hej, na morze czas.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Wykopię jeszcze parę dziur,
+        chords: "C G C"
+      - text: Hej raz, hej raz,
+        chords: "C F"
+      - text: Wyciągnę płonnej skały wór,
+        chords: "C G C"
+      - text: Hej, na morze czas.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Za żonę tu łopatę mam,
+        chords: "C G C"
+      - text: Już dość, już dość,
+        chords: "C F"
+      - text: A zysk, że jej używam sam,
+        chords: "C G C"
+      - text: Hej, na morze czas.
+        chords: "Am E7 Am"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: O Panie, nie jest to Twój raj,
+        chords: "C G C"
+      - text: O nie, o nie,
+        chords: "C F"
+      - text: Nadzieję innym głupcom daj,
+        chords: "C G C"
+      - text: Ja na morze chcę.
+        chords: "Am E7 Am"
+
+  - type: chorus
+    label: Refren końcowy
+    lines:
+      - text: Chociaż już mi wystarczy,
+        chords: "Am E7 Am"
+      - text: Few days, few days,
+        chords: "Am F"
+      - text: Dam Ci jeszcze jedną szansę,
+        chords: "C E7 Am"
+      - text: Potem wrócić chcę.
+        chords: "Am E7 Am"
+      - text: Mogę kochać się dalej,
+        chords: "Am E7 Am"
+      - text: Few days, few days,
+        chords: "Am F"
+      - text: Mogę kochać przez dni parę,
+        chords: "C E7 Am"
+      - text: Ale wracać chcę.
+        chords: "Am E7 Am"

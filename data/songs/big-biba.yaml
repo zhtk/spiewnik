@@ -1,0 +1,79 @@
+id: big-biba
+title: The Big Biba in Muna Port
+category: sailors
+key: F
+tags: [szanta, port, zabawa]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: W portowej tawernie, przy kei w Muna,
+        chords: "F C F C"
+      - text: Dziś pił cały statek, więc piłem i ja.
+        chords: "F Bb C F"
+      - text: Po pierwszym kufelku na drugi mam chęć,
+        chords: "F C F C"
+      - text: Na trzeci, na czwarty - wypiłem tak pięć.
+        chords: "F Bb C F"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Jeszcze jedna beczka piwa,
+        chords: "F C"
+      - text: Jeszcze w szklance mocny grog,
+        chords: "F C"
+      - text: Cała knajpa razem już się kiwa,
+        chords: "F C F Bb"
+      - text: Tańczysz z nami - trzymaj krok.
+        chords: "F C F"
+    bis: refren x2
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Po kilku kufelkach już tańczyć się chce,
+        chords: "F C F C"
+      - text: Pod ręce chwyciłem więc panny dwie.
+        chords: "F Bb C F"
+      - text: Frunęły na parkiet, za nimi zaś ja,
+        chords: "F C F C"
+      - text: Muzyka nie w knajpie, lecz w głowie mi gra.
+        chords: "F Bb C F"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Popijam wesoło i kręcę się z Sue,
+        chords: "F C F C"
+      - text: Gdy nagle ujrzałem dziewczynę ze snu.
+        chords: "F Bb C F"
+      - text: Stanęła w tawernie i kręci swój lok,
+        chords: "F C F C"
+      - text: Jej zdrowie wypiłem i straciłem wzrok.
+        chords: "F Bb C F"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Starczyła mi chwila i już całe zło
+        chords: "F C F C"
+      - text: Zniknęło mi z serca za sprawą Margot.
+        chords: "F Bb C F"
+      - text: Tak zwała się panna, John zwałem się ja,
+        chords: "F C F C"
+      - text: Oddałem jej serce na kei w Muna.
+        chords: "F Bb C F"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Pięć beczek piwa dziś wlano tu w nas,
+        chords: "F C F C"
+      - text: Więc wracać na statek najwyższy już czas.
+        chords: "F Bb C F"
+      - text: Żegnajcie dziewczyny, kochanki ze snu,
+        chords: "F C F C"
+      - text: Nie kocha, nie pije się nigdzie, jak tu.
+        chords: "F Bb C F"

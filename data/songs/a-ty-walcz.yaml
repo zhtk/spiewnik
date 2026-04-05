@@ -9,59 +9,58 @@ verses:
     label: Zwrotka 1
     lines:
       - text: Wczesnym rankiem, w sinej gęstej mgle
-        chords: "Em Bm D A"
-      - text: Zobaczyliśmy galeon Hiszpan
-        chords: "Em Bm D A"
-      - text: niósł w nim złoto swe
-        chords: "Em D Bm A"
+        chords: "Em Bm"
+      - text: Zobaczyliśmy galeon Hiszpan niósł w nim złoto swe
+        chords: "Em Bm"
       - text: Zanim Stary do ataku rozkaz dał
-        chords: "Em D Bm A"
+        chords: "D A"
       - text: Już Hiszpanie do nas pruli ze swych wielkich dział
+        chords: "D A"
 
   - type: chorus
     label: Refren
     lines:
       - text: A ty walcz! Za zwycięstwo w bitwie tej
-        chords: "Em Bm D A"
+        chords: "Em Bm"
       - text: A ty walcz! Niechaj wroga płynie krew
-        chords: "Em Bm D A"
+        chords: "Em Bm"
       - text: A ty walcz! Zmień na złoto życie swe
-        chords: "Em D Bm A"
+        chords: "D A"
       - text: Kiedy zginiesz na dnie morza znajdziesz się
-        chords: "Em D Bm A"
+        chords: "D A"
 
   - type: verse
     label: Zwrotka 2
     lines:
       - text: Burtą w burtę, wnet okrety zderza się
-        chords: "Em Bm D A"
+        chords: "Em Bm"
       - text: Hej, Abordaż! pora przelać wroga krew
-        chords: "Em Bm D A"
+        chords: "Em Bm"
       - text: Rzucać haki, śmierci nie wywinie się
-        chords: "Em D Bm A"
+        chords: "D A"
       - text: Tylko złoto albo koja gdzieś na dnie
-        chords: "Em D Bm A"
+        chords: "D A"
 
   - type: verse
     label: Zwrotka 3
     lines:
       - text: Bitwy gwar, dookoła tylko krzyk
-        chords: "Em Bm D A"
+        chords: "Em Bm"
       - text: Poprzez dym rabiesz wroga ile sił
-        chords: "Em Bm D A"
+        chords: "Em Bm"
       - text: Precz za burty! Tam rekiny czają się
-        chords: "Em D Bm A"
+        chords: "D A"
       - text: Dla nas Gloria a Hiszpanom ból i śmierć
-        chords: "Em D Bm A"
+        chords: "D A"
 
   - type: verse
     label: Zwrotka 4
     lines:
       - text: Jeszcze skarb! Pod pokładem gdzieś tam jest
-        chords: "Em Bm D A"
+        chords: "Em Bm"
       - text: Pełno sztab! Pora więc wydobyć je
-        chords: "Em Bm D A"
+        chords: "Em Bm"
       - text: Za nasz trud, za zwycięstwo w bitwie tej
-        chords: "Em D Bm A"
+        chords: "D A"
       - text: Pełny trzos! No i w porcie panny hej!
-        chords: "Em D Bm A"
+        chords: "D A"

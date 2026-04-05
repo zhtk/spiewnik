@@ -1,0 +1,52 @@
+id: lodeczka
+title: Łódeczka
+category: sailors
+key: G
+tags: [szanta, zeglowanie, morze]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdy wiosna swym ciepłem pożegna zły mróz, na wodę wypłynę znów.
+        chords: "G D Em C D"
+      - text: Wypiję z Neptunem nim żagle rozwinę, zetrę w kambuzie kurz.
+        chords: "G D Em C D G"
+      - text: Niech przez rok kolejny znów szczęście mi da, od skał ochroni i burz,
+        chords: "Em D C D"
+      - text: 'A potem zakrzyknę: hej cumy tu rzuć, niech wiatr uniesie mą łódź!'
+        chords: "Em D C D"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Prowadź łódeczko ma, płyń w dal stateczku mały,
+        chords: "G C G C G"
+      - text: Przez jeziora i kanały
+        chords: "C D G Em"
+      - text: Póki wiatr będzie wiał, póki wiatr będzie wiał.
+        chords: "C D G Em C D G"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Latem, gdy tylko w piątkowe południe czas wolny zapuka do drzwi,
+        chords: "G D Em C D"
+      - text: Jadę na keję, gdzie w ciszy tygodnia ma łódka kochana śpi.
+        chords: "G D Em C D G"
+      - text: Znowu śpiew gitar i przyjaciół tłum, noce upojne bez snu,
+        chords: "Em D C D"
+      - text: W dzień płynę samotnie i śpiewam tak tu, aż w płucach zabraknie tchu.
+        chords: "Em D C D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Jesień nadchodzi i kolorem drzew maluje samotny brzeg,
+        chords: "G D Em C D"
+      - text: Jeszcze w oddali na jeziora tle, biel żagli rysuje się.
+        chords: "G D Em C D G"
+      - text: Ostatnie to chwile, ostatni to rejs nim zimę przywita mróz,
+        chords: "Em D C D"
+      - text: Zawijam do portu, slinuję swą łódź, by sezon zakończyć już.
+        chords: "Em D C D"

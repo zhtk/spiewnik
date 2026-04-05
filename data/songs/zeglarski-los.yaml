@@ -19,11 +19,11 @@ verses:
       - text: Z Liverpool do Frisco wybrałem się raz,
         chords: "D A7 D"
       - text: Myślałem pozostać tam przez dłuższy czas.
-        chords: "A7 D A7 D"
+        chords: "A7 D C"
       - text: Dziewczyny i whisky sprawiły wszak, że
         chords: "D A7 D"
       - text: Już wkrótce znów do Liverpool wieźli mnie.
-        chords: "A7 D A7 D C"
+        chords: "A7 D C"
 
   - type: verse
     label: Zwrotka 2
@@ -31,11 +31,11 @@ verses:
       - text: Staliśmy w zatoce czekając na wiatr,
         chords: "D A7 D"
       - text: Nasz statek żałośnie się kiwał bez szmat.
-        chords: "A7 D A7 D"
+        chords: "A7 D C"
       - text: Podobnie załoga kiwała się, bo
         chords: "D A7 D"
       - text: W butelkach po whisky widniało już dno.
-        chords: "A7 D A7 D C"
+        chords: "A7 D C"
 
   - type: verse
     label: Zwrotka 3
@@ -43,23 +43,23 @@ verses:
       - text: Niedługo trwał spokój, godzinę czy dwie,
         chords: "D A7 D"
       - text: Bo Pierwszy już zadbał, by nie nudzić się.
-        chords: "A7 D A7 D"
+        chords: "A7 D C"
       - text: 'Gdy nagle zaryczał: "Do żagli, co tchu!"'
         chords: "D A7 D"
       - text: Nie wspomnę, co na to krzyknęliśmy mu.
-        chords: "A7 D A7 D C"
+        chords: "A7 D C"
 
   - type: verse
     label: Zwrotka 4
     lines:
-      - text: Do dziś pamiętam ponurą tę noc,
+      - text: Do dzisiaj pamiętam ponurą tę noc,
         chords: "D A7 D"
       - text: Wkrąg morze kipiało i tęgi wiatr dął.
-        chords: "A7 D A7 D"
+        chords: "A7 D C"
       - text: Choć wszystko trzeszczało od topu po kil,
         chords: "D A7 D"
       - text: W godzinę dwanaście robiliśmy mil.
-        chords: "A7 D A7 D C"
+        chords: "A7 D C"
 
   - type: verse
     label: Zwrotka 5
@@ -67,8 +67,8 @@ verses:
       - text: '"Za zdrowie Starego!" Wypijmy do dna,'
         chords: "D A7 D"
       - text: Bo równy to chłop i swój fach dobrze zna.
-        chords: "A7 D A7 D"
-      - text: Pierwszego pominmy, bo każdy to wie,
+        chords: "A7 D C"
+      - text: Pierwszego pomińmy, bo każdy to wie,
         chords: "D A7 D"
       - text: Że lepiej, by w ręce nie dostał nam się.
-        chords: "A7 D A7 D C"
+        chords: "A7 D C"
