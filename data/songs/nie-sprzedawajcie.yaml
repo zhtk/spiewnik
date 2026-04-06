@@ -1,0 +1,50 @@
+id: nie-sprzedawajcie
+title: Nie sprzedawajcie swych marzeń
+category: sailors
+key: D
+tags: [szanta, marzenia, zeglowanie]
+author: "Muzyka: M. Słopek, słowa: W. Borkowski, M. Słopek / EKT - Wreszcie płynę"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Samotni ze sobą nie możemy znaleźć
+        chords: "D G D G D A D A"
+      - text: Miejsca i czasu na zadumy chwilę
+        chords: "D D G G"
+      - text: Uciekamy do nikąd - pod prąd wyobraźni
+        chords: "A A D D"
+      - text: Zostawiając sny jak bezbronne motyle
+        chords: "D D G G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Ludzie - nie sprzedawajcie swych marzeń
+        chords: "A A G D D"
+      - text: Nie wiadomo co się jeszcze wydarzy
+        chords: "D G D"
+      - text: W waszych snach
+        chords: "G D"
+      - text: Może taka mała chwila zadumy
+        chords: "Em A"
+      - text: Sprawi, że te marzenia pofruną
+        chords: "D G D"
+      - text: Jeszcze raz
+        chords: "G D"
+      - text: Jeszcze raz
+        chords: "Em A G D"
+    bis: "x2"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Wstawcie w okna tęczę, szykujcie witraże
+        chords: "D G D G D A D A"
+      - text: Na które wiatr swawolny gwiazd wam nawieje
+        chords: "D D G G"
+      - text: Na pewno przyjdzie wiosna z uśmiechem na twarzy
+        chords: "A A D D"
+      - text: By jak matka dzieciom rozdawać nadzieję
+        chords: "D D G G"

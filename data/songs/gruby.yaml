@@ -1,0 +1,116 @@
+id: gruby
+title: Gruby
+category: sailors
+key: Em
+tags: [szanta, opowiesci, morze]
+author: "Słowa i muzyka: L. M. Kowalczyk / Spinakery - Spinakery 1"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: W pewnym porcie, już sam nie wiem gdzie,
+        chords: "Em Em Bm Bm"
+      - text: Ta historia wydarzyła się.
+        chords: "D D A A"
+      - text: W nędznym barze jakiś starzec ścierał kurz.
+        chords: "Am Am G B7 Em Em B7 B7"
+      - text: Nagle cisza zabiła gwar i śmiech,
+        chords: "Em Em Bm Bm"
+      - text: Kiedy w drzwiach stanęło drabów trzech.
+        chords: "D D A A"
+      - text: Oniemiałem, bo ich znałem wcześniej już.
+        chords: "Am Am G B7 Em Em B7 B7"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Jeden z nich przekrzywiony miał łeb.
+        chords: "Em Em Bm Bm"
+      - text: Mordę jak z cuchnącą rybą sklep.
+        chords: "D D A A"
+      - text: Nic dobrego, biło z niego samo zło.
+        chords: "Am Am G B7 Em Em B7 B7"
+      - text: Taki był on, ech, psia jego mać,
+        chords: "Em Em Bm Bm"
+      - text: Ludzi trącał, ciągle chciał się prać.
+        chords: "D D A A"
+      - text: Uciekali, bo się bali wszyscy go.
+        chords: "Am Am G B7 Em Em Em Em"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Hej ty, gruby! Nalej jeszcze raz!
+        chords: "G D B7 Em"
+      - text: Biegną dni jak fale, pędzi z wiatrem czas.
+        chords: "G D B7 Em"
+      - text: Hej ty, gruby! Powiedz, jak to jest,
+        chords: "G D B7 Em"
+      - text: Że spokojny człowiek jest ścigany jak pies?
+        chords: "G D B7 B7"
+    bis: "x2"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Stali tak, rozglądali się w krąg,
+        chords: "Em Em Bm Bm"
+      - text: Z trudem ukrywałem drżenie rąk.
+        chords: "D D A A"
+      - text: Przeczuwałem, już widziałem własny zgon.
+        chords: "Am Am G B7 Em Em B7 B7"
+      - text: Na nic to, że spuściłem wzrok,
+        chords: "Em Em Bm Bm"
+      - text: Skierowali jednak do mnie krok.
+        chords: "D D A A"
+      - text: Zrozumiałem, Teraz ja albo on.
+        chords: "Am Am G B7 Em Em B7 B7"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Nie zwlekałem, stłukłem kufel o stół,
+        chords: "Em Em Bm Bm"
+      - text: Szklane zęby wbiłem mu w brzucha dół.
+        chords: "D D A A"
+      - text: Odstąpili ci, co byli przy nim tuż.
+        chords: "Am Am G B7 Em Em B7 B7"
+      - text: Skręcił się ten portowy gad
+        chords: "Em Em Bm Bm"
+      - text: I jak stał, tak z jękiem padł na blat.
+        chords: "D D A A"
+      - text: Uciekałem, dzień witałem w morzu już.
+        chords: "Am Am G B7 Em Em Em Em"
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Pytasz się, co on do mnie miał,
+        chords: "Em Em Bm Bm"
+      - text: Że mnie tak zawzięcie dopaść chciał?
+        chords: "D D A A"
+      - text: Z wielkim fartem kiedyś w karty ze mną grał.
+        chords: "Am Am G B7 Em Em B7 B7"
+      - text: Wkurzał mnie jego cygar smród,
+        chords: "Em Em Bm Bm"
+      - text: Ograł mnie, no to łajbę spaliłem mu.
+        chords: "D D A A"
+      - text: Może o to taki żal do mnie miał?
+        chords: "Am Am G B7 Em Em B7 B7"
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Teraz znów jego kumpli dwóch,
+        chords: "Em Em Bm Bm"
+      - text: Chcą mi oddać to, co ja dałem mu.
+        chords: "D D A A"
+      - text: W niepewności, w nieufności biegną dni.
+        chords: "Am Am G B7 Em Em B7 B7"
+      - text: Chociaż czasem jest gorzej niż źle,
+        chords: "Em Em Bm Bm"
+      - text: To na ląd nie zejdę już nigdy, o nie!
+        chords: "D D A A"
+      - text: Podła zemsta wciąż po piętach depcze mi.
+        chords: "Am Am G B7 Em Em Em Em"

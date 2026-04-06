@@ -1,0 +1,56 @@
+id: czarna-chmura
+title: Czarna chmura
+category: sailors
+key: Am
+tags: [szanta, humor, morze]
+author: "Autor nieznany / EKT - Ja stawiam"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Hej spójrz, stary spójrz, czarna chmura rośnie w dali
+        chords: "Em D Am Am"
+      - text: Away, holu way, ciąginij go Joe
+        chords: "Em D B7 Em"
+      - text: O, czy widzisz ją, ta czarna chmura na nas wali
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: A kiedy byłem mały brzdąc, wuj wziął mnie na kolana
+      - text: I płacząc rzewnie whisky pił, pił ze mną aż do rana
+      - text: Posłuchaj mały, mówił mi, byś kiedyś nie żałował
+      - text: Wujowi twemu straszna rzecz, odpadło, bowiem nie używał
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: By nie powtórzyć błędu, wcześnie wziąłem się za kobity
+      - text: Poznałem wcześnie miodu smak z dziewczyną z London City
+      - text: A potem była spanish girl i była gruba i leniwa
+      - text: Zabrała całą forsę i uciekła wredna głupia dziwa
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Jankeska z którą pewien czas miewałem do czynienia
+      - text: Z odwyku po to wyszła by znowu trafić do więzienia
+      - text: 'Mulatka jedna rzekła mi: "Choć ze mną, nie bądź głupi"'
+      - text: Przez dwa tygodnie - mówię wam - no oglądała tylko sufit
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: I tak to szło, a teraz w Gdyni Lolę mam
+      - text: Ech Lola, Lola, Lola co to za laska, ludzie mówię wam
+      - text: I buzia, nózia, rąsia, głos, biuścik i to, co lubię
+      - text: O ciągaj go, ciągaj go, ciągaj go, bo jak lubię to podłubię
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: Czy czarna, czy biała, żółta czy też kolorowa
+      - text: O, Lolę, Lolę moją bierz, bo Lola jest dziewucha zdrowa
+      - text: Hej spójrz, stary spójrz, ta czarna chmura znika w dali
+        chords: "Em D Am Am"

@@ -1,0 +1,63 @@
+id: male-piwo
+title: Małe piwo
+category: sailors
+key: Am
+tags: [szanta, humor, lato]
+author: "Muzyka: The Kinks, tłum. R. Krasowski / EKT - Ja stawiam"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Ukrop z nieba leje się
+        chords: "Am Am F E Am Am F E"
+      - text: Chyba ze 40 C
+        chords: "Am Am G G"
+      - text: W gardle sucho
+        chords: "C C G G"
+      - text: Niech to trafi szlag
+        chords: "E E"
+      - text: Słoneczny skwarny dzień
+        chords: "E E Am"
+      - text: Gdzieś zgubiłem własny cień
+        chords: "Am G G"
+      - text: W gardle sucho
+        chords: "C C G G"
+      - text: Niech to trafi szlag
+        chords: "E E"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Żeby chociaż jakieś małe piwo
+        chords: "Am Am F E"
+      - text: Albo wody z sokiem choćby jeden łyk
+        chords: "Am Am Am Am D D D D"
+      - text: Na ulicach jakby wymiótł ktoś
+        chords: "G G G G E E E E"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Wszędzie pusto i upalnie
+        chords: "Am Am D D"
+      - text: W gardle sucho
+        chords: "Am Am G G"
+      - text: Niech to trafi szlag
+        chords: "C C"
+      - text: Słoneczny dzień
+        chords: "E E Am Am F E"
+      - text: Upalny dzień
+        chords: "Am Am G E"
+      - text: Piekielny skwar
+        chords: "Am Am G E"
+      - text: Głowa mi już pęka w szwach
+        chords: "Am Am G E"
+      - text: Wszędzie upał sił mi brak
+        chords: "Am Am G G"
+      - text: W gardle sucho
+        chords: "C C G G"
+      - text: Niech to trafi szlag
+        chords: "E E"
+      - text: Słoneczny skwarny dzień...
+        chords: "E E Am"

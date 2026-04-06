@@ -1,0 +1,71 @@
+id: wzgorza-walii
+title: Wzgórza Walii
+category: sailors
+key: D
+tags: [szanta, tradycyjna, nostalgia]
+author: 'Słowa: Henryk "Szkot" Czekała / Mechanicy Shanty, Ryczące Dwudziestki'
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Powróćmy do wzgórz,
+        chords: "D Bm"
+      - text: Irlandzkich, groźnych skał,
+        chords: "Em A"
+      - text: Powróćmy do wzgórz mojej Walii,
+        chords: "D Bm G F#m"
+      - text: Do oczu dziewczyny
+        chords: "Bm D"
+      - text: Błyszczących, pełnych łez.
+        chords: "Em/G A"
+      - text: Jej cichy głos słyszę przez fale.
+        chords: "D Em/G A D"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Czerwona róża jest
+        chords: "D Bm"
+      - text: W ogrodzie, w domu mym,
+        chords: "Em A"
+      - text: W mym domu, w wiosce gdzieś, w mojej Walii.
+        chords: "D Bm G F#m"
+      - text: Tak jak przed laty
+        chords: "Bm D"
+      - text: Strumyków cichy szept,
+        chords: "Em/G A"
+      - text: Szum drzew, ptaków śpiew niknie w dali.
+        chords: "D Em/G A D"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Przez mgłę widzę jak
+        chords: "D Bm"
+      - text: Na skrzydłach szybko gna,
+        chords: "Em A"
+      - text: Wśród gwiazd wiedzie nas księżyc stary.
+        chords: "D Bm G F#m"
+      - text: Przez doliny fal,
+        chords: "Bm D"
+      - text: Przez ich grzbiety w bryzgach pian,
+        chords: "Em/G A"
+      - text: Już chciałbym zobaczyć brzeg Walii.
+        chords: "D Em/G A D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: To nic, że w mym sercu
+        chords: "D Bm"
+      - text: Tak ostry kolec tkwi.
+        chords: "Em A"
+      - text: To nic, że tam gdzieś sieją ziarno.
+        chords: "D Bm G F#m"
+      - text: Wśród łąk, żyznych pól,
+        chords: "Bm D"
+      - text: Pszczoły noszą słodki miód.
+        chords: "Em/G A"
+      - text: Na zawsze zostanę w swej Walii.
+        chords: "D Em/G A D"

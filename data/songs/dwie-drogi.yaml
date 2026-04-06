@@ -1,0 +1,52 @@
+id: dwie-drogi
+title: Dwie drogi
+category: sailors
+key: D
+tags: [szanta, rozstanie, droga]
+author: "Muzyka i słowa: A. Perzyński / EKT - Wreszcie płynę"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Jedną drogą ty, drugą drogą ja
+        chords: "D F#m G C#m"
+      - text: A przez wodę tylko jeden most
+        chords: "Em C A A"
+      - text: Pod tym mostem wiatr swoją bazę ma
+        chords: "D F#m G C#m"
+      - text: Warto więc zatrzymać się na noc
+        chords: "Em C A A"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Ile nocy prześpiewanych aż po świt
+        chords: "D D F#m Bm"
+      - text: Ile ognisk aż po brzask
+        chords: "D C A A"
+      - text: Ile zwrotek zapamiętasz przez te dni
+        chords: "D D F#m Bm"
+      - text: Schowaj w sercu - ruszać czas
+        chords: "D CA D D"
+    bis: "x2"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Jedną drogą ja, drugą drogą ty
+        chords: "D F#m G C#m"
+      - text: Powykręcał nam te drogi los
+        chords: "Em C A A"
+      - text: Drogowskazy złe wplątał między mgły
+        chords: "D F#m G C#m"
+      - text: Trudno bracie - trzeba walić wprost
+        chords: "Em C A A"
+
+  - type: outro
+    label: Zakończenie
+    lines:
+      - text: Schowaj w sercu - ruszać czas
+        chords: "D CA D D"
+      - text: Schowaj w sercu
+        chords: "D CA"

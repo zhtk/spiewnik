@@ -1,0 +1,67 @@
+id: skowronek-o-poranku
+title: Skowronek o poranku
+category: sailors
+key: F
+tags: [szanta, tradycyjna, powrot]
+author: "Słowa: H. Czekała, melodia: trad. / Mechanicy Shanty - Zapach Lądu"
+
+verses:
+  - type: verse
+    label: Refren/Zwrotka 1
+    lines:
+      - text: Skowronek o poranku buduje gniazdo swe
+        chords: "F F C Am"
+      - text: I swoim śpiewem budzi słońce budzi nowy dzień
+        chords: "Dm F Dm Am Dm"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Do domu wraca Johny, mężczyzną dziś już jest
+        chords: "Dm F C Am"
+      - text: Gdy po trzyletnim rejsie wrócił do dziewczyny swej
+        chords: "Dm F Dm Am Dm Dm"
+      - text: I radość go rozpiera, daleko został port
+        chords: "F F C Am"
+      - text: Wesoło gwiżdże, śpiewa, tańczy wśród zielonych łąk
+        chords: "Dm F Dm Am Dm"
+      - text: Tam czeka jego Susan, przepiękna niby kwiat
+        chords: "Dm F C Am"
+      - text: Jej czarnych oczu w gwiazdach szukał nocą podczas wacht
+        chords: "Dm F Dm Am Dm Dm"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Przy boku pełna sakwa, za tyle długich dni
+        chords: "F F C Am"
+      - text: Na łące ścięta świeża trawa pachnie mu przez świt
+        chords: "Dm F Dm Am Dm"
+      - text: Na sianku jutro rano nie puści z objęć jej
+        chords: "Dm F C Am"
+      - text: Całusów szybko kilka skradnie, nie da wyrwać się
+        chords: "Dm F Dm Am Dm Dm"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A kiedy minie długich tygodni kilka już
+        chords: "F F C Am"
+      - text: Jej mama spyta o przyczynę takich luźnych bluz
+        chords: "Dm F Dm Am Dm"
+      - text: Gdzie twoja talia osy, gdzie twój panieński krok
+        chords: "Dm F C Am"
+      - text: I sto innych pytań będzie nim się zjawi on
+        chords: "Dm F Dm Am Dm Dm"
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Zapyta czy przed ołtarz w welonie chce z nim pójść
+        chords: "F F C Am"
+      - text: Nie miną nawet trzy niedziele, kedy ksiądz da ślub
+        chords: "Dm F Dm Am Dm"
+      - text: A potem jeszcze porter, zabawa całą noc
+        chords: "Dm F C Am"
+      - text: Nim zrodzi w sercu się tęsknota przestworzy morskich łąk
+        chords: "Dm F Dm Am Dm Dm"

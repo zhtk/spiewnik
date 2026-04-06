@@ -1,0 +1,57 @@
+id: zeglarski-tesknoty
+title: Żeglarskie tęsknoty
+category: sailors
+key: Dm
+tags: [szanta, nostalgia, zeglowanie]
+author: "Muzyka i słowa: Marta Wendołowska"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Żeglarze już gotowi
+        chords: "Dm Am"
+      - text: Na sygnał czekać chcą
+        chords: "Dm Am"
+      - text: Kapitan jeszcze chrapie
+        chords: "Dm Am"
+      - text: Zmęczony drogą swą
+        chords: "F Am Dm"
+      - text: Nie całkiem zgrzane piwo
+      - text: W dali stary bar
+      - text: Uroków wir płynący
+      - text: Tajemnych spojrzeń czar
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Ukradkiem z daleka zobaczysz maszt
+        chords: "F Am"
+      - text: Jasne jego włosy, rytmiczny takt
+        chords: "Bb F"
+      - text: Plącze się marzenie, nagi myśli akt
+        chords: "F Am"
+      - text: By spotkać się znowu
+        chords: "Bb"
+      - text: W żeglarski wspólny czas
+        chords: "A Dm"
+      - text: Kei smak poznany
+      - text: W porcie porto łyk
+      - text: A my wciąż czekamy
+      - text: Na jeszcze jeden drink!
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Aleją pośród nieba
+      - text: Płynie w dali gdzieś
+      - text: Serducha ma potrzeba
+      - text: By śpiewać razem pieśń!
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Słońce już przymiera
+      - text: Łajba płacze wciąż
+      - text: Ze koniec tej wędrówki
+      - text: Zobaczmy się za rok!

@@ -1,0 +1,83 @@
+id: po-co-mi-to-bylo
+title: Po co mi to było
+category: sailors
+key: C
+tags: [szanta, humor, morze]
+author: "Muzyka: J. Wydra, słowa: I. Wójcicki / EKT - Wreszcie płynę"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Chyba mnie podpuścił czart
+        chords: "F G C F C G C C"
+      - text: Żeby sprawdzić com jest wart
+        chords: "C F"
+      - text: Bo na lądzie żyło mi się nienajgorzej
+        chords: "C F"
+      - text: Chciałem wypróbować los
+        chords: "C A D G"
+      - text: Chciałem szybko nabić trzos
+        chords: "F G"
+      - text: Pierwsze co mi wpadło do łba było morze
+        chords: "C F"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Pierwszy rejs fatalny był
+        chords: "C F G G"
+      - text: Bo bujało z całych sił
+        chords: "C F"
+      - text: Miałem mdłości i wrednego kapitana
+        chords: "C F"
+      - text: A gdy opłynąłem Horn
+        chords: "C A D G"
+      - text: I gdy trochę ustał sztorm
+        chords: "F G"
+      - text: To nad losem swym beczałem aż do rana
+        chords: "C F G G"
+      - text: Lepiej było w domu spać
+        chords: "F F"
+      - text: Co za życie - psia go mać
+        chords: "C C"
+      - text: Wszędzie woda i daleko wciąż do domu
+        chords: "F A D G"
+      - text: Winny sobie jestem sam
+        chords: "F G"
+      - text: Chciałem przygód - no to mam
+        chords: "C F"
+      - text: I za lądem teraz tęsknię po kryjomu
+        chords: "C G C C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Potem rejsów było w bród
+        chords: "F G C F C G C C"
+      - text: Słodkich, gorzkich, słonych wód
+        chords: "C F"
+      - text: Było tyle, że się nie da opowiedzieć
+        chords: "C F"
+      - text: I choć opłynąłem świat
+        chords: "C A D G"
+      - text: Ciągle myślę sobie tak
+        chords: "F G"
+      - text: Że najlepiej byłoby mi w domu siedzieć
+        chords: "C F G G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Chyba czort jedyny wie
+        chords: "C F"
+      - text: Co tu jeszcze trzyma mnie
+        chords: "C F"
+      - text: Bal od święta, lecz na co dzień ciężka praca
+        chords: "C A D G"
+      - text: Fajni kumple, podły wikt
+        chords: "F G"
+      - text: I nie czeka na mnie nikt
+        chords: "C F"
+      - text: Ale pływam - choć uparcie myśl powraca
+        chords: "C F G G"

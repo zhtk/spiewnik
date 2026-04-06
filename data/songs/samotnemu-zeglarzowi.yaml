@@ -1,0 +1,52 @@
+id: samotnemu-zeglarzowi
+title: Samotnemu żeglarzowi
+category: sailors
+key: Em
+tags: [szanta, ballada, morze]
+author: "Słowa: T. Śliwiak / EKT-Gdynia"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Toporem zręcznym, ostrzem nagłym
+        chords: "Em A Em A"
+      - text: Wywiodę z lasu łódź i maszt,
+        chords: "Em D B7 B7"
+      - text: I spojrzę, jak u szczytu nieba
+        chords: "Em D C B7"
+      - text: Wstępuje w obszar morza czas.
+        chords: "Em D A A"
+      - text: I przez samotność poprowadzę
+        chords: "Em A Em A"
+      - text: Swych uniesionych powiek ból,
+        chords: "Em D B7 B7"
+      - text: I będę wody odgadywał,
+        chords: "Em D C B7"
+      - text: Gdzie świeci portów biała sól.
+        chords: "Em D A A"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Oto są moje Himalaje,
+        chords: "Am B7 Em A"
+      - text: Pustynie i Arktyki lód.
+        chords: "Em D G B7"
+      - text: To mój zgarnięty w jeden żagiel
+        chords: "Em D C B7"
+      - text: Ludzkiej godności wieczny głód.
+        chords: "Em D A A"
+    bis: "x2"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Zamknie się po mnie i zabliźni
+        chords: "Em A Em A"
+      - text: Mój niedotknięty stopą ślad
+        chords: "Em D B7 B7"
+      - text: I tylko w to do krwi uwierzę,
+        chords: "Em D C B7"
+      - text: Co w dłoniach mi zawiąże wiatr.
+        chords: "Em D A A"

@@ -1,0 +1,62 @@
+id: pierwszy-rejs
+title: Pierwszy rejs (Morska choroba)
+category: sailors
+key: Am
+tags: [szanta, humor, morze]
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdym pierwszy raz na morze szedł, oho
+        chords: "Am Am Am Am"
+      - text: To niemal mnie zalała krew
+        chords: "Am E"
+      - text: Cho łaj, cho, choł doł dej,
+        chords: "Am Am"
+      - text: Trzymaj bracie kurs North West
+        chords: "C C C"
+      - text: Za rufą Hel
+        chords: "G G"
+      - text: Com przeżył tam posłuchaj no
+        chords: "F E"
+      - text: Wstąpiłem chyba na piekieł dno
+        chords: "Am Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Hej! Woda w zęzach krzyknął ktoś
+      - text: Wiadrami kiepsko nam to szło
+      - text: Na domiar złego pieski czas
+      - text: Wykręcał trzewia Neptun nam
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Prezesem Stary ochrzcił mnie
+      - text: Cóż pierwszy raz płynęło się
+      - text: Rzucało nami z kąta w kąt
+      - text: Chłopaki zielenieli w krąg
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Wyśmiano mnie zwyczajna rzecz
+      - text: Cóż pierwszy raz płynęło się
+      - text: Do mesy zszedłem bardzo rad
+      - text: Że kuk nam obiad dał na czas
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: Tam kumpli brak, więc myślę tak
+      - text: To sztorm im daje tęgo w gnat
+      - text: Poznałem w pełni zemsty smak
+      - text: Nie zliczę w ilu schaboszczakach
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: I odtąd tak choruję że
+      - text: Na morzu tyję, na lądzie schnę

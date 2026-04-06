@@ -1,0 +1,59 @@
+id: rejs-tawerna
+title: Rejs tawerną
+category: sailors
+key: Am
+tags: [szanta, tawerna, humor]
+author: "Muzyka i słowa: Andrzej Korycki"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: W takiej tawernie wszystko może się przydarzyć,
+        chords: "Am Dm"
+      - text: bo ile ludzi tyle kufli. Nie dziwota!
+        chords: "G G7 C E"
+      - text: Jeden zatańczy przy Modlitwie Okudżawy,
+        chords: "Am Dm"
+      - text: drugi zaś sądzi, że od sceny ma pilota.
+        chords: "F E"
+      - text: Ktoś niedowidzi i od baru tęsknym głosem
+        chords: "Am A7 Dm"
+      - text: 'do Starych Dzwonów się: Hiszpańskie drze Dziewczyny,'
+        chords: "G G7 C E Am"
+      - text: inny co do siebie właśnie z dumą doszedł,
+        chords: "Am Dm"
+      - text: 'przeciera oczy: Aaale super imieniny!'
+        chords: "F E Am"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: I żeglujemy sobie razem tą tawerną,
+        chords: "E Am Dm"
+      - text: 'choć wielu powie: Rejs tawerną? niekoniecznie'
+        chords: "G G7 C E"
+      - text: 'A my płyniemy, tu zgadzając się z Porębą:'
+        chords: "Am Dm"
+      - text: Tylko tawerny mogą kiwać nas bezpiecznie!
+        chords: "F E Am"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: 'W takiej tawernie wszystko może się przydarzyć:'
+        chords: "Am Dm"
+      - text: ktoś rzuci różę tuż pod stopy Dominiki
+        chords: "G G7 C E"
+      - text: i z kapitanem też prawdziwym się pogwarzy,
+        chords: "Am Dm"
+      - text: pogada czule o odsłuchach z akustykiem,
+        chords: "F E"
+      - text: z kucharzem podasz sobie łapę gdzieś w pośpiechu,
+        chords: "Am A7 Dm"
+      - text: że w garach siedzi to nie znaczy że jest głuchy!
+        chords: "G G7 C E Am"
+      - text: A po północy, u barmanki, w jej uśmiechu
+        chords: "Am Dm"
+      - text: 'wyczytasz: Ech, tak lok przytulić do poduchy'
+        chords: "F E Am"

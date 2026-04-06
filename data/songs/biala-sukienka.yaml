@@ -1,0 +1,63 @@
+id: biala-sukienka
+title: Biała Sukienka
+category: sailors
+key: Am
+tags: [szanta, ballada, milosc]
+author: "Muzyka i słowa: Michał Lucjusz Kowalczyk / Spinakery"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Czasami, gdy mam chandrę i jestem sam,
+        chords: "Am Em F C"
+      - text: Kieruję wzrok za okno, wysoko tam,
+        chords: "Am Em F G C"
+      - text: Gdzie nad dachami domów i w noc, i dniem,
+        chords: "E Am D7 G"
+      - text: Nadpływa kołysząca, ...marzeniem, ...snem.
+        chords: "Am Em F G C"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: I ona taka w tej białej sukience,
+        chords: "C G"
+      - text: Jak piękny ptak, który zapiera w piersi dech.
+        chords: "C F C"
+      - text: Chwyciłem mocno jej obie ręce
+        chords: "G C F"
+      - text: Oczarowany, zasłuchany w słodki śmiech.
+        chords: "C Am D7 G"
+      - text: I cała w żaglach, jak w białej sukience,
+        chords: "C G"
+      - text: Jak piękny ptak, który zapiera w piersi dech.
+        chords: "C F C"
+      - text: Chwyciłem mocno ster w obie ręce
+        chords: "G C F"
+      - text: I żeglowałem zasłuchany w fali śpiew.
+        chords: "C G C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Wspomnienia przemijają, a w sercu żal,
+        chords: "Am Em F C"
+      - text: Wciąż w łajbę się przemienia dziewczęcy czar.
+        chords: "Am Em F G C"
+      - text: Jeżeli mi nie wierzysz, to gnaj co tchu,
+        chords: "E Am D7 G"
+      - text: Tam z kei możesz ujrzeć coś z mego snu.
+        chords: "Am Em F G C"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Nie wiem, czy jeszcze kiedyś zobaczę ją,
+        chords: "Am Em F C"
+      - text: Czy tylko w moich myślach jej oczy lśnią?
+        chords: "Am Em F G C"
+      - text: Gdy pochylona, ostro do wiatru szła...
+        chords: "E Am D7 G"
+      - text: 'Znowu się przeplatają obrazy dwa:'
+        chords: "Am Em F G C"

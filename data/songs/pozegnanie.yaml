@@ -1,0 +1,60 @@
+id: pozegnanie
+title: Pożegnanie
+category: sailors
+key: F
+tags: [szanta, ballada, rozstanie]
+author: "Muzyka i słowa: Ryszard Muzaj"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: O, nie powrócę już do Ciebie,
+        chords: "F9 C"
+      - text: Do portu, gdzie Twój stoi dom.
+        chords: "F9 C"
+      - text: Już nie obejrzę się za siebie,
+        chords: "F9 C"
+      - text: Na próżno czekać będziesz, czekać mnie przez noc.
+        chords: "Bm7 E"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Co nam minęło, już nie wróci,
+        chords: "Am7 G F"
+      - text: Los nic nie daje razy dwa
+      - text: I nie będziemy się już kłócić
+      - text: O sprawy, których nie ma następnego dnia.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Zobacz, na redzie statek stoi,
+      - text: Już podniecony wiatrem drży,
+      - text: Popłynąć można nim i nie bać się
+      - text: O te biegnące tu na lądzie dni.
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: Zaokrętuję dziś na niego,
+      - text: Kursem na wiatr wyruszę tam,
+      - text: Gdzie los uchroni mnie od zła wszelkiego,
+      - text: A wspominać będę Ciebie tylko w snach.
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: A gdy już zmęczę się wolnością,
+      - text: Jak ptak, co długo w locie był,
+      - text: Obiorę kurs powrotny na Twój brzeg
+      - text: I o spotkaniu z Tobą będę śnił.
+
+  - type: verse
+    label: Zwrotka 6
+    lines:
+      - text: A gdy już stanę u drzwi Twoich,
+      - text: Może zabraknie wtedy sił,
+      - text: "By móc zapukać do nich: raz, dwa, trzy..."
+      - text: I tak jak dawniej razem z Tobą żyć.

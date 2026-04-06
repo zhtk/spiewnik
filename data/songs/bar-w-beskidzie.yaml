@@ -1,0 +1,87 @@
+id: bar-w-beskidzie
+title: Bar w Beskidzie
+category: sailors
+key: G
+tags: [szanta, humor, morze]
+author: "Słowa i muzyka: W. Jarosz / EKT - Ja stawiam"
+
+verses:
+  - type: intro
+    label: Intro
+    lines:
+      - text: Lalalala...
+        chords: "G G"
+    bis: "x2"
+
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Jeśli chcesz z gardła kurz wypłukać
+        chords: "G D"
+      - text: Tu każdy wskaże ci drogę
+        chords: "C D"
+      - text: W bok od przystanku PeKaeSu
+        chords: "G D"
+      - text: W prawo od szosy asfaltowej
+        chords: "C D G G C D"
+      - text: Kuszą napisy ołówkiem kopiowym
+        chords: "G D"
+      - text: 'Na drzwiach "Od dziesiątej otwarte"'
+        chords: "C D"
+      - text: '"Dziś polecamy kotlet mielony"'
+        chords: "G D"
+      - text: 'I "Lokal kategorii czwartej"'
+        chords: "C D"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: Lej się chmielu
+        chords: "G D"
+      - text: Nieś muzyko po bukowym lesie
+        chords: "C G"
+      - text: Panna Zosia ma w oczach dwa nieba
+        chords: "Em Bm"
+      - text: Trochę lata z nowej beczki przyniesie
+        chords: "C D"
+      - text: Lalalala...
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: W środku chłopaki rzucają Łaciną
+        chords: "G D"
+      - text: O sufit i cztery ściany
+        chords: "C D"
+      - text: Dym z Extra-mocnych strzela jak szampan
+        chords: "G D"
+      - text: Bledną obrusy lniane
+        chords: "C D G G C D"
+      - text: Za to wieczorem gdy lipiec duszny
+        chords: "G D"
+      - text: Okna otworzy na oścież
+        chords: "C D"
+      - text: Gwiazdy wpadają do pełnych kufli
+        chords: "G D"
+      - text: Poogryzanych jak paznokcie
+        chords: "C D"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Kiedy chłopaki na nogach z waty
+        chords: "G D"
+      - text: Wracają po mokrej kolacji
+        chords: "C D"
+      - text: Świat się jak okręt morski kołysze
+        chords: "G D"
+      - text: Gościniec dziwnie ślimaczy
+        chords: "C D G G C D"
+      - text: A czasem któryś ze strachem na wróble
+        chords: "G D"
+      - text: Pogada o polityce
+        chords: "C D"
+      - text: Jedynie cerkiew marszczy zgorszona
+        chords: "G D"
+      - text: Szorstkie od gontów lica
+        chords: "C D"

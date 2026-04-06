@@ -1,0 +1,59 @@
+id: heave-away-santiano
+title: Heave away Santiano
+category: sailors
+key: Dm
+tags: [szanta, morska, tradycyjna]
+author: "Słowa: H. Czekała, melodia: trad. / Mechanicy Shanty"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: "Ej płyńmy z prądem rzeki tam gdzie Liverpool"
+        chords: "Dm F C"
+      - text: "-Heave away Santiana"
+        chords: "Dm F C C C"
+      - text: "Dookoła Hornu przez Frisco Bay"
+        chords: "C C"
+      - text: "-Tam gdzie strome zbocza Mexico"
+        chords: "Dm C Dm"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: "Więc heave away i w górę, w dół"
+        chords: "Dm F C"
+      - text: "-Heave away Santiana"
+        chords: "Dm F C C C"
+      - text: "Nie minie rok powrócimy znów."
+        chords: "C C"
+      - text: "-Tam gdzie strome zbocza Mexico"
+        chords: "Dm C Dm"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Ten kliper dla załogi zawsze piekłem był,
+      - text: Żelazny jankes dowodził nim.
+      - text: Po złoto Kaliforni ciągle gnał nas wiatr,
+      - text: Bo puste ładownie wypełniać trza nam.
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A był to dla nas wszystkich stary dobry czas
+      - text: W czterdziestym dziewiątym, za młodych lat.
+
+  - type: verse
+    label: Zwrotka 4
+    lines:
+      - text: I Zacharisz Taylor tam górą był,
+      - text: Bo wygrał bój pod Monterey.
+      - text: I szybko zwiewał Santy, kiedy pomógł Scott,
+      - text: Jak Bonaparte pod Waterloo.
+
+  - type: verse
+    label: Zwrotka 5
+    lines:
+      - text: I dla mnie kiedyś nastał dobry dzień
+      - text: Gdy Sally Brown pokochała mnie.

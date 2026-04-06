@@ -1,0 +1,63 @@
+id: spotkaj-sie-z-zaglem
+title: Spotkaj się z żaglem
+category: sailors
+key: C
+tags: [szanta, zeglowanie, przygoda]
+author: "Muzyka: J. Wydra, słowa: M. Kowalewski / EKT - Wreszcie płynę"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Gdy ci krawat ściska szyję tak jak stryczek
+        chords: "C G C C7"
+      - text: Gdy nad głową trzaska dziobem durny szef
+        chords: "F F C G"
+      - text: Gdy ćwierkanie swej komórki tylko słyszysz
+        chords: "C E Am Am"
+      - text: We łbie tylko masz szum ulic a nie drzew
+        chords: "D D G G"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: To spotkaj się z wodą
+        chords: "C C F G"
+      - text: To spotkaj się z żaglem
+        chords: "C C F G"
+      - text: Żeglarską przygodą
+        chords: "E E Am Am"
+      - text: Twój świat zabrzmi nagle
+        chords: "D D G G"
+      - text: Zaśpiewa Horyzont
+        chords: "C C F G"
+      - text: Gdzie dal jest za dalą
+        chords: "C C F G"
+      - text: Gdy spotkasz się z bryzą
+        chords: "E E Am Am"
+      - text: Gdy spotkasz się z falą
+        chords: "D G F C"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Tu w upały cię nie poci marynarka
+        chords: "C G C C7"
+      - text: Precz komputer, kiedy pojmiesz swym rozumem
+        chords: "F F C G"
+      - text: Że na przeciw to piersiasta jest żeglarka
+        chords: "C E Am Am"
+      - text: A nie żadna zimnokrwista bizness-women
+        chords: "D D G G"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: A te ptaki, to słońce jest naprawdę
+        chords: "C G C C7"
+      - text: A nie jako informacje w internecie
+        chords: "F F C G"
+      - text: Że kochanie, że przygody są i żagle
+        chords: "C E Am Am"
+      - text: I świadomość, że tak mało cię w tym świecie
+        chords: "D D G G"

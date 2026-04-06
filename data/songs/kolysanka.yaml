@@ -1,0 +1,60 @@
+id: kolysanka
+title: Kołysanka
+category: sailors
+key: D
+tags: [szanta, ballada, morze]
+author: "Muzyka i słowa: Andrzej Korycki"
+
+verses:
+  - type: verse
+    label: Zwrotka 1
+    lines:
+      - text: Już nie mów nic, daj nocy sen,
+        chords: "D Bm"
+      - text: Milczeniem śpiewaj kołysanki,
+        chords: "Em A"
+      - text: Spokojną falą, falą pieść,
+        chords: "D Bm"
+      - text: Bo słów ci przecież nie wystarczy, nie wystarczy słów
+        chords: "Em A F#7 Bm"
+
+  - type: chorus
+    label: Refren
+    lines:
+      - text: By morzu podarować wiersz,
+        chords: "G"
+      - text: By morzu podarować wiersz,
+        chords: "A"
+      - text: Ostatni wiersz, ostatni...
+        chords: "D"
+      - text: Bo to jest nasz ostatni rejs,
+        chords: "G Em"
+      - text: Bo to jest nasz ostatni rejs,
+        chords: "F#7"
+      - text: Ostatni...
+        chords: "Bm A"
+
+  - type: verse
+    label: Zwrotka 2
+    lines:
+      - text: Już nie mów nic, daj usnąć już,
+        chords: "D Bm"
+      - text: Los światła swoje też pogasił
+        chords: "Em A"
+      - text: I tylko księżyc blaski wzniósł,
+        chords: "D Bm"
+      - text: Aby z wysoka uśpić wanty,
+        chords: "Em A F#7 Bm"
+
+  - type: verse
+    label: Zwrotka 3
+    lines:
+      - text: Już nie mów nic, ty stary wiesz,
+        chords: "D Bm"
+      - text: Że sen zbyt długo trwał nie będzie,
+        chords: "Em A"
+      - text: A droga, którą trzeba przejść,
+        chords: "D Bm"
+      - text: Przez najtrudniejsze ścieżki wiedzie.
+        chords: "Em A F#7 Bm"
+    bis: "Refren: Chciej podarować morzu wiersz..."
