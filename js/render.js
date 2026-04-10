@@ -1,11 +1,18 @@
 // render.js — Song rendering for 3 view modes
 // Modes: 'text' | 'chords-inline' | 'chords-split'
 
-export const CATEGORY_LABELS = {
-  sailors: '⚓ Żeglarskie',
-  scout: '⚜ Harcerskie',
-  folk: '🌾 Ludowe'
-};
+let categoryLabels = {};
+
+export function setCategoryLabels(categories) {
+  categoryLabels = {};
+  for (const cat of categories) {
+    categoryLabels[cat.id] = cat.label;
+  }
+}
+
+export function getCategoryLabel(id) {
+  return categoryLabels[id] || id;
+}
 
 export function renderSong(song, mode) {
   const effectiveMode = getEffectiveMode(mode);
@@ -45,7 +52,7 @@ function renderHeader(song) {
 
   const cat = document.createElement('span');
   cat.className = `cat-badge cat-${song.category}`;
-  cat.textContent = CATEGORY_LABELS[song.category] || song.category;
+  cat.textContent = getCategoryLabel(song.category);
 
   const key = document.createElement('span');
   key.className = 'song-key';
@@ -181,7 +188,7 @@ export function renderSongList(songs, activeCategories) {
 
     const groupLabel = document.createElement('h2');
     groupLabel.className = 'group-label';
-    groupLabel.textContent = CATEGORY_LABELS[cat] || cat;
+    groupLabel.textContent = getCategoryLabel(cat);
     groupEl.appendChild(groupLabel);
 
     for (const song of catSongs.sort((a, b) => a.title.localeCompare(b.title, 'pl'))) {
@@ -223,7 +230,7 @@ export function renderSearchResults(results) {
 
     const catBadge = document.createElement('span');
     catBadge.className = `cat-badge cat-${song.category}`;
-    catBadge.textContent = CATEGORY_LABELS[song.category] || song.category;
+    catBadge.textContent = getCategoryLabel(song.category);
 
     title.appendChild(catBadge);
     item.appendChild(title);

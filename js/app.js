@@ -4,7 +4,7 @@
 import { getAllSongs, getMeta } from './db.js';
 import { syncSongs, seedIfEmpty } from './sync.js';
 import { initSearch, search, filterByCategories, getCategories } from './search.js';
-import { renderSong, renderSongList, renderSearchResults, CATEGORY_LABELS } from './render.js';
+import { renderSong, renderSongList, renderSearchResults, setCategoryLabels, getCategoryLabel } from './render.js';
 import { initInstall, triggerInstall, getUninstallInstructions, getIOSInstallInstructions, isIOS } from './install.js';
 
 // ─── State ───────────────────────────────────────────────────────────────────
@@ -77,7 +77,13 @@ async function init() {
 
   // Load songs from DB
   state.songs = await getAllSongs();
-  state.categories = getCategories(state.songs);
+  const storedCategories = await getMeta('categories');
+  if (storedCategories) {
+    setCategoryLabels(storedCategories);
+    state.categories = storedCategories.map(c => c.id);
+  } else {
+    state.categories = getCategories(state.songs);
+  }
   initSearch(state.songs);
 
   renderCategoryFilters();
@@ -136,7 +142,13 @@ async function doSync({ silent = false } = {}) {
   await syncSongs({
     onUpdated: async ({ version, count }) => {
       state.songs = await getAllSongs();
-      state.categories = getCategories(state.songs);
+      const updated = await getMeta('categories');
+      if (updated) {
+        setCategoryLabels(updated);
+        state.categories = updated.map(c => c.id);
+      } else {
+        state.categories = getCategories(state.songs);
+      }
       initSearch(state.songs);
       renderCategoryFilters();
       showList();
@@ -322,7 +334,7 @@ function renderCategoryFilters() {
     });
 
     label.appendChild(cb);
-    label.appendChild(document.createTextNode(CATEGORY_LABELS[cat] || cat));
+    label.appendChild(document.createTextNode(getCategoryLabel(cat)));
     els.categoryFilters.appendChild(label);
   }
 }

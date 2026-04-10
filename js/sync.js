@@ -50,6 +50,9 @@ export async function syncSongs({ onUpdated, onAlreadyCurrent, onOffline, onErro
       }
     }
 
+    if (index.categories) {
+      await setMeta('categories', index.categories);
+    }
     await setMeta('songsVersion', index.version);
     await setMeta('lastSync', new Date().toISOString());
 

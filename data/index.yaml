@@ -1,4 +1,11 @@
 version: "2026-04-05"
+categories:
+  - id: sailors
+    label: "⚓ Żeglarskie"
+  - id: scout
+    label: "⚜ Harcerskie"
+  - id: folk
+    label: "🌾 Ludowe"
 songs:
   - id: zemsta
     version: "2026-04-04"
