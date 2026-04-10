@@ -54,7 +54,8 @@ const els = {
   categoryFilters: $('category-filters'),
   backBtn: $('back-btn'),
   songViewContent: $('song-view-content'),
-  offlineBanner: $('offline-banner')
+  offlineBanner: $('offline-banner'),
+  logoLink: $('logo-link')
 };
 
 // ─── Init ─────────────────────────────────────────────────────────────────────
@@ -229,6 +230,18 @@ function bindEvents() {
       els.listView.hidden = false;
       els.songView.hidden = true;
     }
+  });
+
+  // Logo – navigate back to main page
+  els.logoLink.addEventListener('click', e => {
+    e.preventDefault();
+    state.currentSong = null;
+    state.searchQuery = '';
+    els.searchInput.value = '';
+    els.searchClear.hidden = true;
+    history.replaceState(null, '', location.pathname);
+    showList();
+    window.scrollTo(0, 0);
   });
 
   // Drawer
