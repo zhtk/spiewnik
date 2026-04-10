@@ -10,7 +10,7 @@ async function fetchYaml(url, opts = {}) {
   return jsyaml.load(await res.text());
 }
 
-export async function syncSongs({ onUpdated, onAlreadyCurrent, onOffline, onError } = {}) {
+export async function syncSongs({ onUpdated, onAlreadyCurrent, onOffline, onError, onProgress } = {}) {
   if (!navigator.onLine) {
     onOffline?.();
     return { status: 'offline' };
@@ -26,15 +26,19 @@ export async function syncSongs({ onUpdated, onAlreadyCurrent, onOffline, onErro
     }
 
     // Fetch only songs whose version changed
-    let updatedCount = 0;
+    const toUpdate = [];
     for (const entry of index.songs) {
       const localSongVersion = await getMeta(`songVersion:${entry.id}`);
-      if (entry.version === localSongVersion) continue;
+      if (entry.version !== localSongVersion) toUpdate.push(entry);
+    }
 
+    let updatedCount = 0;
+    for (const entry of toUpdate) {
       const song = await fetchYaml(`./data/songs/${entry.id}.yaml`, { cache: 'no-cache' });
       await putSongs([song]);
       await setMeta(`songVersion:${entry.id}`, entry.version);
       updatedCount++;
+      onProgress?.({ current: updatedCount, total: toUpdate.length });
     }
 
     // Remove songs no longer in the index
@@ -60,9 +64,9 @@ export async function syncSongs({ onUpdated, onAlreadyCurrent, onOffline, onErro
 }
 
 // Seed from remote on first run (when IndexedDB is empty)
-export async function seedIfEmpty() {
+export async function seedIfEmpty({ onProgress } = {}) {
   const songs = await getAllSongs();
   if (songs.length > 0) return false;
-  const result = await syncSongs();
+  const result = await syncSongs({ onProgress });
   return result.status === 'updated';
 }

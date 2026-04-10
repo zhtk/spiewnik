@@ -423,6 +423,14 @@ main {
 }
 @keyframes spin { to { transform: rotate(360deg); } }
 
+/* ── Loading message ─────────────────────────────────────────────────────────── */
+.loading-msg {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 3rem 1rem;
+  font-size: 1.1rem;
+}
+
 /* ── Toast ───────────────────────────────────────────────────────────────────── */
 #toast {
   position: fixed;

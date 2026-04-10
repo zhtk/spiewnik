@@ -63,8 +63,17 @@ async function init() {
   loadSettings();
   registerServiceWorker();
 
-  // Seed from local JSON if first run
-  await seedIfEmpty();
+  // Seed from remote if first run — show loading message while downloading
+  const existing = await getAllSongs();
+  const isFirstRun = existing.length === 0;
+  if (isFirstRun) {
+    els.content.innerHTML = '<p class="loading-msg">Pobieranie piosenek…</p>';
+  }
+  await seedIfEmpty({
+    onProgress: ({ current, total }) => {
+      els.content.innerHTML = `<p class="loading-msg">Pobieranie piosenek (${current}/${total})…</p>`;
+    }
+  });
 
   // Load songs from DB
   state.songs = await getAllSongs();
